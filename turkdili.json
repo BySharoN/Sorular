@@ -1,0 +1,123 @@
+[
+        {
+            "id": 1,
+            "question": "Dil türleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "choices": [
+                "Yazı dili, konuşmanın olduğu gibi yazıya geçmiş biçimidir.",
+                "İspanyolca, Milletler Birleşmiş sekreteryasının çalışma dillerinden biridir.",
+                "Ölçünlü dil, genellikle örgün eğitim ve kitle İletişim araçları aracılığıyla öğrenilir.",
+                "Ölçünlü dilin saygınlığı 'argo'nunkiyle aynıdır.",
+                "Ölçünlü dil, sözlü dilin bir yansımasıdır."
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi Orta Türkçe Dönemi'ne ait eserlerden biridir?",
+            "choices": [
+                "Dîvân-ı Hikmet",
+                "Muhakemetü'l-Lügateyn",
+                "Orhun Abideleri",
+                "Vakayî",
+                "Codex Cumanicus"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "id": 3,
+            "question": "Kuzey Türkçesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "choices": [
+                "Kıpçak Türklüğünün yazı dilidir.",
+                "Altınordu döneminde oluşan edebi dilin devamıdır.",
+                "Asıl eserleri Mısır'da Kölemenler zamanında yazılmıştır.",
+                "Bu lehçeyle oluşturulan en önemli eser Codex Cumanicus'dur.",
+                "Bu dönemde daha çok dinî eserler verilmiştir."
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "id": 4,
+            "question": "Tanzimat döneminde Şemsettin Sami tarafından hazırlanan ve Türkçenin de bugüne kadar en iyi sözlüklerinden biri kabul edilen eser aşağıdakilerden hangisidir?",
+            "choices": [
+                "Kavaid-i Osmaniyye",
+                "Kamus-ı Türki",
+                "Kavaid-i Türkiyye",
+                "Sarf- Türki",
+                "Müyessiretü'l-Ulum"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": 5,
+            "question": "Uygur alfabesinin Türkçenin yazımı için son derece yetersiz olmasına rağmen günümüzde önemli bir yerinin olmasının en önemli nedeni aşağıdakilerden hangisidir?",
+            "choices": [
+                "Geniş bir coğrafyada kullanılan tek alfabe olması",
+                "Dini içerikli eserlerin bu alfabe ile yazılması",
+                "İbrani alfabesinden gelişmiş olması",
+                "Uzun bir süre büyük bir kültür birikiminin taşıyıcısı olması",
+                "Siyasi ve ticari ilişkiler sonucunda yaygınlaşması"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "id": 6,
+            "question": "Birinci dil ya da asıl dil olarak nitelendirilen dil türü aşağıdakilerden hangisidir?",
+            "choices": [
+                "Ölçünlü dil",
+                "Ata dil",
+                "Ana dili",
+                "Diyalekt",
+                "Lehçe"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": 7,
+            "question": "Türkçe ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "choices": [
+                "Türkçe, akraba oldukları henüz kesinlik kazanmayan Altay dilleri grubu içinde yer alır.",
+                "Türkçe, yapı bakımından bükünlü dillerdendir.",
+                "Türkçe, SÖZ dizimi bakımından özne-yüklem-nesne grubunda yer alır.",
+                "Türkçe, akraba olduğu diller arasında yazı dili sayısı en az olan dildir.",
+                "Ethnologue'a göre Türkçe, en çok konuşulan diller arasında üçüncü sıradadır."
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "id": 8,
+            "question": "Aşağıdakilerden hangisi bilimsel bakımdan dilin özelliklerinden biri değildir?",
+            "choices": [
+                "Dilin temelinin ses olması",
+                "Dilin, toplumsal katmanlara göre değişmesi",
+                "İlkel dil, gelişmiş dil ayrımının olmaması",
+                "Dilde nedensizlik ilkesinin esas olması",
+                "Her dilin üretim yetisinin sınırlı olması"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "id": 9,
+            "question": "Mani alfabesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "choices": [
+                "Dar bir çevrede kullanılmıştır.",
+                "VIII. IX. yüzyıllarda kısa süre kullanılmıştır.",
+                "Din yoluyla gelen ilk alfabedir.",
+                "Türklerin kullandığı ilk alfabedir.",
+                "Türkçenin yazımı için oldukça yetersizdir."
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "id": 10,
+            "question": "Söz dizimi bakımından Dünya dilleri sınıflandırılırken ölçüt alınan ögeler aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "choices": [
+                "Nesne, zarf tümleci, yüklem",
+                "Özne, nesne, yüklem",
+                "Özne, zarf tümleci, nesne",
+                "Özne, yüklem, edat tümleci",
+                "Özne, dolaylı tümleç, yüklem"
+            ],
+            "correctAnswer": 1
+        }
+]
+
