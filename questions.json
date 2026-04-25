@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "padding(.vertical, 15) ne yapar?",
+    "choices": [
+      "Sağ-sol 15",
+      "Üst-alt 15",
+      "Tüm yönler",
+      "Sadece üst"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Bir VStack içinde spacing: 0 ve view’lara ayrı ayrı padding verilirse ne olur?",
+    "choices": [
+      "Hiç boşluk olmaz",
+      "Padding kadar boşluk oluşur",
+      "Hata verir",
+      "Üst üste biner"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Spacer neden esnek olarak adlandırılır?",
+    "choices": [
+      "Sabit boyutlu olduğu için",
+      "Ekrana göre büyüyüp küçüldüğü için",
+      "Renk değiştirdiği için",
+      "Animasyon yaptığı için"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "HStack içinde 2 Spacer varsa boşluk nasıl dağıtılır?",
+    "choices": [
+      "İlkine gider",
+      "İkincisine gider",
+      "Eşit bölünür",
+      "Hiç çalışmaz"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "padding() hangi katmanda çalışır?",
+    "choices": [
+      "Veri katmanı",
+      "UI layout katmanı",
+      "Network katmanı",
+      "Storage"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "Spacer kullanmadan boşluk vermek için ne kullanılabilir?",
+    "choices": [
+      "Text(\"\")",
+      "padding",
+      "Color.clear.frame",
+      "Hepsi"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 7,
+    "question": "Spacer(minLength: 50) ne sağlar?",
+    "choices": [
+      "Maksimum 50",
+      "Minimum 50 boşluk",
+      "Sabit 50",
+      "Çalışmaz"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "padding negatif verilirse ne olur?",
+    "choices": [
+      "Hata verir",
+      "İçeriği sıkıştırır",
+      "Genişletir",
+      "Renk değiştirir"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "VStack içinde Spacer en üste konursa ne olur?",
+    "choices": [
+      "View’lar yukarı gider",
+      "View’lar aşağı itilir",
+      "Silinir",
+      "Ortalanır"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "HStack + Spacer + alignment birlikte ne sağlar?",
+    "choices": [
+      "Animasyon",
+      "Esnek hizalama",
+      "Veri çekme",
+      "Navigation"
+    ],
+    "correctAnswer": 1
+  }
+]
