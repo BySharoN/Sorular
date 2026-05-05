@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Bilgisayarın tüm parçaları arasındaki iletişimi sağlayan ve üzerinde devrelerin bulunduğu en temel parça hangisidir?",
+    "choices": ["İşlemci", "Anakart", "RAM", "Güç Kaynağı", "Sabit Disk"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Verilerin kalıcı olarak depolandığı, bilgisayar kapatılsa bile silinmediği birim hangisidir?",
+    "choices": ["RAM", "Cache Bellek", "ROM", "Sabit Disk (HDD/SSD)", "İşlemci"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "question": "Aşağıdakilerden hangisi bir 'açık kaynak kodlu' işletim sistemidir?",
+    "choices": ["Windows 11", "macOS", "Linux", "iOS", "MS-DOS"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Donanım kaynaklarını yöneten ve uygulama yazılımlarının çalışması için zemin hazırlayan yazılım türü nedir?",
+    "choices": ["Antivirüs", "Veri Tabanı", "İşletim Sistemi", "Derleyici", "Kelime İşlemci"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "Dünya genelindeki bilgisayar ağlarını birbirine bağlayan en geniş ağ yapısı hangisidir?",
+    "choices": ["LAN", "PAN", "Internet", "Intranet", "Bluetooth"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "Bir web sitesine erişmek için tarayıcı adres çubuğuna yazılan 'www.google.com' gibi ifadelere ne ad verilir?",
+    "choices": ["IP", "URL", "HTTP", "FTP", "DNS"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "Kullanıcıları yanıltarak şifre, kredi kartı gibi bilgilerini çalmayı amaçlayan sahte e-posta yöntemine ne denir?",
+    "choices": ["Spam", "Phishing (Oltalama)", "Firewall", "Trojan", "Worm"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Türkiye'de kişisel verilerin korunmasını düzenleyen temel kanun kısaltması nedir?",
+    "choices": ["BTK", "TSE", "KVKK", "MERNIS", "UYAP"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "Metin içerisinde seçili bir alanı kopyalamak için kullanılan klavye kısayolu hangisidir?",
+    "choices": ["Ctrl+V", "Ctrl+X", "Ctrl+C", "Ctrl+S", "Ctrl+Z"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Word belgesinde bir sayfayı yatay veya dikey yapmak için hangi sekme kullanılır?",
+    "choices": ["Giriş", "Ekle", "Sayfa Yapısı / Düzen", "Görünüm", "Gözden Geçir"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "question": "Excel'de formüller her zaman hangi işaretle başlar?",
+    "choices": ["?", "/", "=", "+", "#"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "A1 hücresi ile A10 hücresi arasındaki tüm sayıları toplamak için doğru formül hangisidir?",
+    "choices": ["=TOPLA(A1;A10)", "=TOPLA(A1:A10)", "=A1+A10", "=TOPLAM(A1-A10)", "=SUM(A1+A10)"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "PowerPoint'te sunuyu baştan başlatmak için kullanılan kısayol tuşu hangisidir?",
+    "choices": ["F1", "F5", "F7", "F11", "F12"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "Başkasına ait bir fikri veya eseri kaynak göstermeden kendisininmiş gibi sunmaya ne ad verilir?",
+    "choices": ["Siber Zorbalık", "İntihal", "Telif Hakları", "Dijital Okuryazarlık", "Netiket"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "Aşağıdakilerden hangisi bir bulut depolama servisidir?",
+    "choices": ["Google Drive", "Notepad", "Paint", "Hesap Makinesi", "Windows Media Player"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "Verilerin işlemci tarafından işlenmeden önce geçici olarak tutulduğu hızlı bellek türü hangisidir?",
+    "choices": ["SSD", "RAM", "Flash Bellek", "Disket", "CD-ROM"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "E-posta gönderirken kullanılan temel iletişim protokolü hangisidir?",
+    "choices": ["HTTP", "FTP", "SMTP", "DNS", "IP"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "Excel'de hücrenin sağ alt köşesinden çekerek verileri çoğaltma işlemine ne denir?",
+    "choices": ["Sıralama", "Filtreleme", "Otomatik Doldurma", "Veri Doğrulama", "Gruplandırma"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "Bilgiye ulaşma, bilgiyi analiz etme ve üretme yeteneğine ne ad verilir?",
+    "choices": ["Siber Güvenlik", "Donanım Mühendisliği", "Dijital Okuryazarlık", "Yazılım Geliştirme", "Sistem Yönetimi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "Aşağıdakilerden hangisi sadece bir 'çıkış birimi'dir?",
+    "choices": ["Klavye", "Fare", "Mikrofon", "Yazıcı", "Tarayıcı"],
+    "correctAnswer": 3
+  }
+]
