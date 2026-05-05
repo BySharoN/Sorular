@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 6,
     "ad": "Coğrafi Bilgi Sistemleri",
     "dersler": [
       { "id": 1, "ad": "Temel Bilgi Teknolojileri I", "kod": "BİL101U", "donem": "1. Yarıyıl", "dosya": "bil101u" },
@@ -19,15 +19,15 @@
 
       { "id": 13, "ad": "Uzaktan Algılama", "kod": "CBS201U", "donem": "3. Yarıyıl", "dosya": "cbs201u" },
       { "id": 14, "ad": "Fotogrametri", "kod": "CBS205U", "donem": "3. Yarıyıl", "dosya": "cbs205u" },
-      { "id": 15, "ad": "CBS’de Proje Tasarımı ve Yönetimi I", "kod": "CBS209U", "donem": "3. Yarıyıl", "dosya": "cbs209u" },
+      { "id": 15, "ad": "CBS'de Proje Tasarımı ve Yönetimi I", "kod": "CBS209U", "donem": "3. Yarıyıl", "dosya": "cbs209u" },
       { "id": 16, "ad": "Açık Kaynak Kodlu CBS Yazılım Uygulaması", "kod": "CBS211U", "donem": "3. Yarıyıl", "dosya": "cbs211u" },
       { "id": 17, "ad": "Atatürk İlkeleri ve İnkılap Tarihi I", "kod": "TAR201U", "donem": "3. Yarıyıl", "dosya": "tar201u" },
       { "id": 18, "ad": "Türk Dili I", "kod": "TÜR201U", "donem": "3. Yarıyıl", "dosya": "tur201u" },
 
-      { "id": 19, "ad": "CBS’de Proje Tasarımı ve Yönetimi II", "kod": "CBS202U", "donem": "4. Yarıyıl", "dosya": "cbs202u" },
+      { "id": 19, "ad": "CBS'de Proje Tasarımı ve Yönetimi II", "kod": "CBS202U", "donem": "4. Yarıyıl", "dosya": "cbs202u" },
       { "id": 20, "ad": "CBS Uygulamaları II", "kod": "CBS206U", "donem": "4. Yarıyıl", "dosya": "cbs206u" },
-      { "id": 21, "ad": "CBS’de Veri Analizi", "kod": "CBS210U", "donem": "4. Yarıyıl", "dosya": "cbs210u" },
-      { "id": 22, "ad": "CBS’de Web Tabanlı Uygulamalar", "kod": "CBS212U", "donem": "4. Yarıyıl", "dosya": "cbs212u" },
+      { "id": 21, "ad": "CBS'de Veri Analizi", "kod": "CBS210U", "donem": "4. Yarıyıl", "dosya": "cbs210u" },
+      { "id": 22, "ad": "CBS'de Web Tabanlı Uygulamalar", "kod": "CBS212U", "donem": "4. Yarıyıl", "dosya": "cbs212u" },
       { "id": 23, "ad": "Atatürk İlkeleri ve İnkılap Tarihi II", "kod": "TAR202U", "donem": "4. Yarıyıl", "dosya": "tar202u" },
       { "id": 24, "ad": "Türk Dili II", "kod": "TÜR202U", "donem": "4. Yarıyıl", "dosya": "tur202u" }
     ]
