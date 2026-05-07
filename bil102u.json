@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "question": "Bilgisayarın tüm parçaları arasındaki iletişimi sağlayan ve üzerinde devrelerin bulunduğu en temel parça hangisidir?",
+    "choices": ["İşlemci", "Anakart", "RAM", "Güç Kaynağı", "Sabit Disk"],
+    "correctAnswer": 1
+  }
+]
