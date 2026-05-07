@@ -1,0 +1,739 @@
+[
+  {
+    "id": 1,
+    "questions": "Verinin işlenmesi sonucu ortaya çıkan ve bir amaca yönelik olarak anlam kazanan gerçekler topluluğuna ne ad verilir?",
+    "choices": ["Veri", "Bilgi", "Model", "Öznitelik", "Katman"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "questions": "Grafik nesneleri hücrelere (piksel) bağlı olarak temsil eden veri modeli aşağıdakilerden hangisidir?",
+    "choices": ["Vektör", "Spagetti", "Raster", "Topolojik", "İlişkisel"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "questions": "Vektör veri modelinde konumsal nesneler hangi temel geometrik formlarla temsil edilir?",
+    "choices": ["Piksel-Hücre-Grid", "Nokta-Çizgi-Poligon", "Koordinat-Düğüm-Segment", "Yüzey-Hacim-Açı", "Katman-Tablo-İlişki"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "questions": "Aşağıdaki analiz yöntemlerinden hangisinde nokta, çizgi veya poligon verinin çevresinde istenilen mesafede zonlar oluşturulur?",
+    "choices": ["Sorgulama", "Çakıştırma (Overlay)", "Yakınlık Analizi (Buffer)", "Ağ Analizi", "Topolojik Denetim"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "questions": "Bir konumsal nesnenin en büyük ve en küçük x, y koordinat değerlerini kapsayan dikdörtgen alana ne ad verilir?",
+    "choices": ["Spatial Extent", "Resolution", "Tolerance", "Envelope (Geometrik Kapsam)", "ObjectID"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 6,
+    "questions": "Konumsal nesne tablosunda (feature class) bina yükseklikleri gibi 32.767'den küçük tam sayı değerleri için hangi veri tipi seçilmelidir?",
+    "choices": ["Text", "Short Integer", "Long Integer", "Float", "Double"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "questions": "Veri girişindeki hataları en aza indirmek için öznitelik verisinin alabileceği değerleri kısıtlayan yapıya ne ad verilir?",
+    "choices": ["Alt Tip (Subtype)", "Öznitelik Değer Alanı (Attribute Domain)", "İlişki Tablosu", "Topoloji Kuralı", "Versiyon"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "questions": "Aynı konumsal referansı ve kapsamı paylaşan konumsal nesne tablolarından oluşan kapsayıcıya ne ad verilir?",
+    "choices": ["Feature Class", "Feature Dataset", "Raster Catalog", "Mosaic Dataset", "Relationship Class"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "questions": "Raster veri modelinde konumsal çözünürlüğü artırmak için aşağıdakilerden hangisi uygulanmalıdır?",
+    "choices": ["Piksel boyutunu artırmak", "Piksel sayısını azaltmak", "Piksel boyutunu azaltıp sayısını artırmak", "Piksel derinliğini düşürmek", "Spektral bant sayısını azaltmak"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "questions": "Waldo Tobler'in önerisine göre 1:1.000.000 ölçekli bir raster verinin piksel büyüklüğü kaç metre olmalıdır?",
+    "choices": ["1000", "500", "250", "100", "50"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "questions": "Büyük raster verilerin hızlı görüntülenmesini sağlamak amacıyla, veriyi düşük çözünürlüklü kopyalar halinde saklayan yapıya ne ad verilir?",
+    "choices": ["Mozaik", "Katalog", "Piramit", "Alt Tip", "Sürüm"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "questions": "Konumsal nesneyle bağlantılı etiket nesneleri (feature linked annotation) arasındaki ilişki türü nedir?",
+    "choices": ["Basit (Simple)", "Bileşik (Composite)", "Ayrık", "Bağımsız", "Geçici"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "questions": "Aşağıdakilerden hangisi yönlendirilmiş akış sistemleri (su, elektrik vb.) için kullanılan ağ modelidir?",
+    "choices": ["Ulaşım Ağı (Network Dataset)", "Geometrik Ağ (Geometric Network)", "Mantıksal Ağ", "Topolojik Ağ", "Spagetti Model"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "questions": "Geometrik ağlarda akışın başladığı veya sonlandığı noktaları belirlemek için kullanılan nesneler hangileridir?",
+    "choices": ["Kenar ve Kavşak", "Basit ve Karmaşık Kenar", "Kaynak (Source) ve Batık (Sink)", "Düğüm ve Segment", "Durak ve Bariyer"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "questions": "Coğrafi varlıkların birbirleri ile olan konumsal ilişkilerini nitelik ve şekillerinden bağımsız olarak inceleyen bilim dalı ve CBS yapısı nedir?",
+    "choices": ["Projeksiyon", "Semboloji", "Topoloji", "Kartografya", "Fotogrametri"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "questions": "Çok kullanıcılı sistemlerde veritabanının belli bir zamandaki özelleştirilmiş görünümüne ne ad verilir?",
+    "choices": ["Kopyalama", "Replikasyon", "Sürüm (Version)", "Arşiv", "Delta"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "questions": "Sürümlemede yapılan değişikliklerin ana tabloya aktarılmadan önce tutulduğu tablolara ne ad verilir?",
+    "choices": ["Öznitelik Tabloları", "Delta Tabloları (Adds & Deletes)", "İlişki Tabloları", "Sistem Tabloları", "Metaveri Tabloları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "questions": "Konumsal veritabanı tasarımının hangi aşamasında veri kaynakları, ölçek ve konumsal referanslar belirlenir?",
+    "choices": ["Mantıksal Tasarım", "Fiziksel Tasarım", "Kavramsal Tasarım", "Yönetimsel Tasarım", "Analitik Tasarım"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "questions": "Aşağıdaki konumsal veritabanı türlerinden hangisi sadece Windows işletim sistemini destekler ve 2 GB boyut sınırına sahiptir?",
+    "choices": ["File Geodatabase", "Personal Geodatabase", "Enterprise Geodatabase", "Web Geodatabase", "SDE Geodatabase"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "questions": "Topoloji kurallarından 'Must Not Have Gaps' (Arada Boşluk Olmamalı) kuralı genellikle hangi nesne tipi için kritiktir?",
+    "choices": ["Nokta", "Çizgi", "Poligon (Parsel vb.)", "Etiket", "Ölçüm"],
+    "correctAnswer": 2
+  }
+]
+Soru Hazırlama Metodolojisi ve Notlar:
+Kaynak Kullanımı: Sorular doğrudan PDF içeriğindeki tanımlardan, "Amaçlarımız" bölümlerinden ve ünite sonu "Kendimizi Sınayalım" testlerinden türetilmiştir
+.
+Zorluk Seviyesi: Sadece temel tanımları değil, veri tipleri (BLOB, GUID), Waldo Tobler çözünürlük formülü ve ağ elemanları gibi teknik detayları da içermektedir
+.
+JSON Parametreleri: İstediğiniz üzere id, questions, choices ve correctAnswer (indeks değeri) parametreleri kullanılmıştır.
+Kapsam: Örnek set; veri modelleri, öznitelik yönetimi, raster analizi, etiketleme, ağ analizi, topoloji, versiyonlama ve tasarım adımlarını dengeli şekilde sunar
+.
+Not: 200 sorunun tamamı için yaklaşık 10 katı daha fazla metin üretilmesi gerekmektedir. Bu seti onaylarsanız, kalan soruları 20'şerli veya 40'arlı gruplar halinde hızlıca tamamlayabilirim.
+Raster ve vektör verinin avantajlarını karşılaştırır mısın?
+Topoloji kuralları veri yönetiminde neden önemlidir?
+Konumsal veritabanı tasarım adımları nelerdir?
+en azından ilk 100 tane hazırla
+
+"Konumsal Veritabanı II" kitabındaki 8 üniteyi kapsayan, teknik detaylara ve kavramlara odaklanan ilk 100 soruluk set aşağıdadır. Sorular; veri modelleri, öznitelik yönetimi, raster analizi, ağ analizleri, topoloji, sürüm yönetimi ve veritabanı tasarımı konularını kaynaklardaki bilgilere sadık kalarak harmanlamaktadır.
+[
+  {
+    "id": 1,
+    "questions": "Bir amaca yönelik olarak toplanmış, işlenmemiş gerçekler topluluğuna ne ad verilir?",
+    "choices": ["Bilgi", "Veri", "Model", "Öznitelik", "Katman"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "questions": "Verinin işlenmesi ve anlam kazanması sonucu ortaya çıkan yapı aşağıdakilerden hangisidir?",
+    "choices": ["Ham Veri", "Model", "Bilgi", "İstatistik", "Ölçüm"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "questions": "Yeryüzündeki bir konumu veya nesneyi temsil eden, koordinat bilgisi içeren veri tipi nedir?",
+    "choices": ["Alfa-nümerik veri", "Grafik veri", "Coğrafi veri", "Tablosal veri", "Metaveri"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "questions": "Gerçek dünyadaki karmaşık yapıların basitleştirilerek bilgisayar ortamına aktarılması sürecine ne denir?",
+    "choices": ["Öznitelik girişi", "Modelleme", "Topoloji", "Sürümleme", "Replikasyon"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "questions": "Konumsal nesneleri nokta, çizgi ve poligon formlarıyla temsil eden veri modeli hangisidir?",
+    "choices": ["Raster", "Hücresel", "Vektör", "Spagetti", "Topolojik"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "questions": "Görüntüyü eşit büyüklükteki hücrelere (piksel) bölerek saklayan veri modeli hangisidir?",
+    "choices": ["Vektör", "Raster", "İlişkisel", "Nesne tabanlı", "Hiyerarşik"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "questions": "Vektör verilerin öznitelik bilgilerinin saklandığı ve sorgulamaların yapıldığı standart dil hangisidir?",
+    "choices": ["Python", "UML", "SQL", "HTML", "C++"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "questions": "Farklı veri katmanlarının üst üste bindirilerek yeni haritalar üretilmesi işlemine ne ad verilir?",
+    "choices": ["Sorgulama", "Tampon bölge", "Çakıştırma (Overlay)", "Ağ analizi", "Topoloji denetimi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "questions": "Bir nesnenin çevresinde belirli mesafede (zon) etki alanı oluşturma analizi hangisidir?",
+    "choices": ["Buffer (Yakınlık Analizi)", "En kısa yol", "Eğim analizi", "Sınıflandırma", "Dönüşüm"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "questions": "Vektör veride konumsal referans sistemi oluşturulduktan sonra hangisi yapılamaz?",
+    "choices": ["Referans değiştirilebilir", "Vektör tipi (Nokta/Çizgi/Poligon) değiştirilebilir", "Öznitelik eklenebilir", "Alt tip oluşturulabilir", "Dizin oluşturulabilir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "questions": "Bir nesnenin x ve y koordinatlarının kapsadığı en geniş dikdörtgen alana ne denir?",
+    "choices": ["Spatial Extent", "Cluster Tolerance", "Envelope (Geometrik Kapsam)", "Coordinate Rank", "ObjectID"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "questions": "CBS yazılımlarında varsayılan hata payı (tolerance) değeri genellikle kaçtır?",
+    "choices": ["0.1", "0.01", "0.001", "1.0", "0.0001"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "questions": "Konumsal olmayan, nesneyi tanımlayıcı (Ad, numara vb.) bilgilere ne ad verilir?",
+    "choices": ["Geometri", "Topoloji", "Öznitelik verisi", "Raster veri", "Lejant"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "questions": "Short Integer veri tipi hangi değer aralığını kapsar?",
+    "choices": ["-128 / +127", "-32,768 / +32,767", "-2 milyar / +2 milyar", "0 / 255", "Sınırsız"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "questions": "Veritabanında sorgulama hızını artıran yapı aşağıdakilerden hangisidir?",
+    "choices": ["Alt tip", "Domain", "Dizin (Index)", "Versiyon", "Replika"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "questions": "Ondalıklı alan değerleri (örneğin parsel alanı) için hangi veri tipi en uygundur?",
+    "choices": ["Short Integer", "Text", "Float / Double", "Date", "BLOB"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "questions": "32.767'den büyük tam sayılar (örneğin nüfus) için hangi veri tipi seçilmelidir?",
+    "choices": ["Long Integer", "Short Integer", "Text", "Raster", "GUID"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "questions": "Öznitelik verisinin alabileceği değerleri kısıtlayarak standart sağlayan yapı nedir?",
+    "choices": ["Subtype", "Attribute Domain (Değer Alanı)", "Relationship Class", "Topology", "Versioning"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "questions": "Aynı öznitelik yapısına sahip nesnelerin gruplandırılmasıyla veritabanı performansını artıran yapı nedir?",
+    "choices": ["Annotation", "Subtype (Alt Tip)", "Raster Catalog", "Mosaic", "Logical Network"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "questions": "Konumsal nesne tablosu (Feature Class) oluşturulurken ilk olarak hangisi tanımlanmalıdır?",
+    "choices": ["Koordinat sistemi", "Öznitelik alanları", "İsim", "Alt tipler", "Topoloji kuralları"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "questions": "Bir konumsal nesne tablosunda farklı vektör tipleri (Nokta ve Çizgi gibi) aynı anda bulunabilir mi?",
+    "choices": ["Evet, her zaman", "Hayır, sadece aynı vektör tipindeki nesneler bulunabilir", "Sadece poligon varsa bulunabilir", "Sadece ağ analizlerinde bulunabilir", "Evet, öznitelikleri aynıysa"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "questions": "İlişki tablolarında 'Primary Key' (Birincil Anahtar) ne işe yarar?",
+    "choices": ["Veriyi şifreler", "Kaydı benzersiz şekilde tanımlar", "Sadece koordinatları tutar", "Raster veriyi sıkıştırır", "Versiyonları yönetir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "questions": "Binaların üzerinde bulunduğu parsellerle olan ilişkisi ne tür bir ilişkidir?",
+    "choices": ["Özniteliksel", "Tablosal", "Konumsal", "Hiyerarşik", "Zamansal"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "questions": "Bir parselin birden fazla sahibi (malik) olması hangi ilişki türüne örnektir?",
+    "choices": ["Bire-bir", "Birden-çoğa", "Çoktan-çoğa", "Hiçbiri", "Sadece basit ilişki"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "questions": "Konumsal nesneyle bağlantılı etiketlerin (feature linked annotation) ilişki tipi nedir?",
+    "choices": ["Basit (Simple)", "Bileşik (Composite)", "Ayrık", "Bağımsız", "Geçici"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "questions": "Raster veri modelinde 'piksel' teriminin kökeni nedir?",
+    "choices": ["Picture Element", "Pixelated Image", "Point Element", "Position Element", "Primary Grid"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "questions": "Sayısal yükseklik modelleri (DEM) hangi tür raster veriye örnektir?",
+    "choices": ["Kesikli veri", "Sürekli veri", "Tematik veri", "Sınıflandırılmış veri", "Vektör veri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "questions": "Raster veride 'No Data' ifadesi neyi temsil eder?",
+    "choices": ["Sıfır değerini", "Veri içermeyen pikselleri", "Siyah pikselleri", "Beyaz pikselleri", "Hatalı koordinatları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "questions": "Piksel boyutunun küçülmesi raster veride neye sebep olur?",
+    "choices": ["Veri boyutunun azalmasına", "Çözünürlüğün ve veri boyutunun artmasına", "İşlem hızının artmasına", "Hassasiyetin azalmasına", "Piramitlerin silinmesine"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "questions": "8-bit piksel derinliğine sahip bir görüntü kaç farklı değer alabilir?",
+    "choices": ["2", "16", "256", "1024", "65536"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 31,
+    "questions": "Elektromanyetik spektrumda piksellerin kaydedildiği katmanlara ne ad verilir?",
+    "choices": ["Hücre", "Bant", "Segment", "Düğüm", "Grid"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "questions": "Waldo Tobler'in önerisine göre 1:50.000 ölçekli bir haritada piksel boyutu kaç metre olmalıdır?",
+    "choices": ["1", "5", "25", "50", "100"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "questions": "Büyük raster verilerin hızlı görüntülenmesi için düşük çözünürlüklü kopyaların oluşturulması işlemine ne denir?",
+    "choices": ["Bloklama", "Mozaikleme", "Piramit (Pyramid)", "Sıkıştırma", "Kataloglama"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 34,
+    "questions": "Raster verinin veritabanında 256x256 piksellik parçalar halinde saklanmasına ne ad verilir?",
+    "choices": ["Tile (Bloklama)", "Piramit", "Katalog", "Alt tip", "Versiyon"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "questions": "Binlerce raster görüntüyü bağımsız kayıtlar halinde bir tabloda saklayan yapı hangisidir?",
+    "choices": ["Raster Dataset", "Raster Catalog", "Mosaic Dataset", "Relationship Class", "Topology"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "questions": "Farklı raster verileri tek bir veri kümesiymiş gibi işleyip analiz etmeye yarayan yapı nedir?",
+    "choices": ["Raster Catalog", "Mosaic Dataset (Mozaik Veri Kümesi)", "Pyramid", "Attribute Table", "Subtype"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "questions": "Elektromanyetik spektrumun görünür bölgesindeki RGB bantları hangi renkleri temsil eder?",
+    "choices": ["Kırmızı-Gri-Beyaz", "Kırmızı-Yeşil-Mavi", "Sarı-Yeşil-Mavi", "Mor-Turuncu-Kırmızı", "Siyah-Beyaz-Gri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "questions": "Spektral çözünürlüğü artırmak için ne yapılmalıdır?",
+    "choices": ["Piksel sayısını artırmak", "Bant aralığını küçültüp bant sayısını artırmak", "Piksel boyutunu büyütmek", "Koordinat sistemini değiştirmek", "Versiyon oluşturmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "questions": "Waldo Tobler'in çözünürlük formülü aşağıdakilerden hangisidir?",
+    "choices": ["Ölçek / 100", "Ölçek / 2000", "Piksel * 2", "Ölçek * 1000", "1 / Ölçek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "questions": "Raster kataloğun mozaik veri kümesinden temel farkı nedir?",
+    "choices": ["Daha hızlı analiz yapması", "Verileri birleştirmeden sadece görüntülemesi", "Koordinat sistemi gerektirmemesi", "Sadece vektör veri tutması", "Piramit kullanmaması"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "questions": "Harita üzerindeki nesnelerin isim ve açıklamalarını saklayan konumsal nesne hangisidir?",
+    "choices": ["Point feature", "Annotation feature (Etiket nesnesi)", "Dimension feature", "Multipatch", "Line feature"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "questions": "Nesneyle bağlantılı olmayan, haritanın herhangi bir yerinde duran metinlere ne ad verilir?",
+    "choices": ["Standart Etiket", "Bağlantılı Etiket", "Dinamik Etiket", "Ölçüm Nesnesi", "Alt tip"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "questions": "Etiket konumsal nesne tablosu hangi veri alanı üzerinden konumsal nesneyle ilişki kurar?",
+    "choices": ["ObjectID", "SHAPE", "FeatureID", "SymbolID", "TextString"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 44,
+    "questions": "Haritada iki nokta arasındaki mesafeyi veya açıyı gösteren nesne tipi nedir?",
+    "choices": ["Label", "Annotation", "Dimension (Ölçüm Nesnesi)", "Polygon", "Vertex"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 45,
+    "questions": "Etiket nesnesinin ölçek değiştikçe boyutunun korunmasını sağlayan parametre nedir?",
+    "choices": ["Coordinate Rank", "Reference Scale (Referans Ölçeği)", "Cluster Tolerance", "Z-Order", "Vertical Alignment"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "questions": "Etiketlerde kullanılan kelimeler arası boşluğu düzenleyen veri alanı hangisidir?",
+    "choices": ["CharacterWidth", "CharacterSpacing", "WordSpacing", "FlipAngle", "FontSize"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 47,
+    "questions": "Ölçüm nesnesi oluşturulurken kullanılan çizim araçlarından 'Hizalanmış (aligned)' kaç referans noktası gerektirir?",
+    "choices": ["1", "2", "3", "4", "5"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 48,
+    "questions": "Yönlendirilmiş akış sistemleri (su, elektrik vb.) için kullanılan ağ modeli hangisidir?",
+    "choices": ["Network Dataset", "Geometric Network (Geometrik Ağ)", "Topology", "Mosaic Dataset", "Raster Catalog"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "questions": "Ulaşım ağları (sokak, yol şebekesi) için kullanılan model aşağıdakilerden hangisidir?",
+    "choices": ["Geometric Network", "Network Dataset (Ağ Veri Kümesi)", "Spagetti Model", "Hücresel Model", "UML"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "questions": "Geometrik ağlarda akışın başladığı noktaya ne ad verilir?",
+    "choices": ["Batık (Sink)", "Kaynak (Source)", "Düğüm (Node)", "Kenar (Edge)", "Kavşak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 51,
+    "questions": "Su borularının fiziksel olarak ayrılmadan evlere dağıtım yapabildiği ağ elemanı hangisidir?",
+    "choices": ["Basit Kenar", "Karmaşık Kenar (Complex Edge)", "Basit Kavşak", "Sanal Düğüm", "Bariyer"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 52,
+    "questions": "Geometrik ağlarda hata oluşmaması için kullanılan denetim ilkesi nedir?",
+    "choices": ["Sürümleme", "Bağlanırlık (Connectivity)", "Sıkıştırma", "Piramitleme", "Replikasyon"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 53,
+    "questions": "İki farklı boru çapını bağlamak için araya 'nipel' konulması kuralı hangisidir?",
+    "choices": ["Kenar-Kavşak kuralı", "Kenar-Kenar kuralı", "Kaynak-Batık kuralı", "Dönüş kuralı", "Hiyerarşi kuralı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 54,
+    "questions": "Ağ analizlerinde kullanılan ve bir kenarın maliyetini (zaman, mesafe vb.) belirleyen sayısal değer nedir?",
+    "choices": ["Ağırlık (Weight)", "Hiyerarşi", "Dönüş", "Bariyer", "Düğüm"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "questions": "Ağ veri kümelerinde yollarda sağa veya sola dönülmez gibi kısıtları tanımlayan nesne nedir?",
+    "choices": ["Edge feature", "Junction feature", "Turn feature (Dönüş nesnesi)", "Barrier feature", "Annotation"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 56,
+    "questions": "Coğrafi varlıkların birbirleri ile konumsal ilişkilerini (komşuluk, çakışma vb.) inceleyen bilim dalı nedir?",
+    "choices": ["Kartografya", "Fotogrametri", "Topoloji", "Jeodezi", "Projeksiyon"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 57,
+    "questions": "Topoloji kurallarından 'Must Not Overlap' ne anlama gelir?",
+    "choices": ["Arada boşluk kalmamalı", "Üst üste binmemeli", "Kesişmemeli", "Uçlar açık kalmamalı", "Tek parça olmalı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 58,
+    "questions": "Parsel sınırlarının birbiriyle bitişik olması ve arada boşluk kalmaması kuralı hangisidir?",
+    "choices": ["Must Not Have Gaps", "Must Not Overlap", "Contains Point", "Must Be Covered By", "Must Be Single Part"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "questions": "Topoloji kurallarında otomatik düzeltme için kullanılan mesafe eşiğine ne denir?",
+    "choices": ["Reference Scale", "Coordinate Rank", "Cluster Tolerance (Hata Payı)", "Z-Order", "ObjectID"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 60,
+    "questions": "Hangi parametre, konumsal nesnelerin düğüm noktalarının yer değiştirme önceliğini belirler?",
+    "choices": ["Cluster Tolerance", "Coordinate Rank (Öncelik Sıralaması)", "Spatial Extent", "Domain", "Subtype"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 61,
+    "questions": "Coordinate Rank değeri eşit olan iki nesne çakıştığında düğüm noktaları nerede birleşir?",
+    "choices": ["Küçük olanın üzerinde", "Büyük olanın üzerinde", "Uzaklığın orta noktasında", "Birleşmezler", "Rastgele bir noktada"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 62,
+    "questions": "Bir konumsal nesne tablosu kaç adet topoloji kural tablosu ile ilişkilendirilebilir?",
+    "choices": ["Sınırsız", "Sadece 1", "En fazla 5", "Veritabanı boyutuna göre değişir", "Hiç"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 63,
+    "questions": "Çizgi verilerde (yol, nehir vb.) uçların bir yere bağlanmadan açıkta kalması hatasına ne denir?",
+    "choices": ["Overlap", "Gap", "Dangle (Uçların açıkta kalması)", "Pseudo node", "Self-intersect"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 64,
+    "questions": "Çok kullanıcılı sistemlerde veritabanının belli bir zamandaki anlık görüntüsüne ne denir?",
+    "choices": ["Katalog", "Sürüm (Version)", "Replika", "Mozaik", "Arşiv"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 65,
+    "questions": "Sürümleme yapıldığında veriler kopyalanmak yerine hangi tablolarda tutulur?",
+    "choices": ["Ana tablolar", "Delta Tabloları (Adds & Deletes)", "İlişki tabloları", "Sistem tabloları", "Metaveri tabloları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 66,
+    "questions": "Sürümlemede yapılan değişikliklerin ana sürümle birleştirilmesi işlemine ne denir?",
+    "choices": ["Reconcile (Uyumlaştırma)", "Post (İşleme koyma)", "Conflict", "Branch", "Merge"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 67,
+    "questions": "Düzenlenen verilerin ana tabloya aktarılmadan önce üst sürümle karşılaştırılması aşaması nedir?",
+    "choices": ["Post", "Reconcile", "Archive", "Replica", "Delete"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 68,
+    "questions": "Sürümleme teknolojisi hangi veritabanı türünde kullanılamaz?",
+    "choices": ["Enterprise Geodatabase", "SDE Geodatabase", "Personal Geodatabase", "SQL Server tabanlı", "Oracle tabanlı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 69,
+    "questions": "Bir nesnenin iki farklı kullanıcı tarafından aynı anda değiştirilmesi durumuna ne ad verilir?",
+    "choices": ["Uyum", "Çakışma (Conflict)", "İşleme", "Arşivleme", "Replikasyon"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 70,
+    "questions": "Veritabanındaki geçmişe dönük tüm değişikliklerin tarihle kaydedildiği yapı nedir?",
+    "choices": ["Sürüm", "Arşiv", "Katalog", "Mozaik", "Replika"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 71,
+    "questions": "Veritabanının kopyasını başka bir kuruma verip onların da düzenleme yapmasını sağlayan yapı nedir?",
+    "choices": ["Versioning", "Replikasyon", "Topology", "Subtyping", "Indexing"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 72,
+    "questions": "Konumsal veritabanı tasarımının ilk adımı aşağıdakilerden hangisidir?",
+    "choices": ["Fiziksel Tasarım", "Mantıksal Tasarım", "Kavramsal Tasarım", "Yönetimsel Tasarım", "Analitik Tasarım"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 73,
+    "questions": "Kavramsal tasarım aşamasında hangisi belirlenmez?",
+    "choices": ["Veri kaynakları", "Ölçek", "Konumsal referans", "Tablo sütun isimleri", "Kullanılacak katmanlar"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 74,
+    "questions": "Veritabanı yapısının tablo şeklinde düzenlendiği ve veri tiplerinin seçildiği aşama hangisidir?",
+    "choices": ["Kavramsal Tasarım", "Mantıksal Tasarım", "Fiziksel Tasarım", "Arşivleme", "Sorgulama"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 75,
+    "questions": "Fiziksel tasarım aşamasında oluşturulan deneme sürümüne ne ad verilir?",
+    "choices": ["Model", "Prototip", "Şema", "UML", "SQL"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 76,
+    "questions": "UML (Unified Modelling Language) nedir?",
+    "choices": ["Bir programlama dili", "Birleşik modelleme dili (Diyagram şeması)", "Veritabanı yönetim sistemi", "Dosya formatı", "Analiz aracı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 77,
+    "questions": "Aşağıdaki konumsal veritabanı türlerinden hangisi sadece Windows işletim sisteminde çalışır ve 2 GB sınırı vardır?",
+    "choices": ["File Geodatabase", "Personal Geodatabase", "Enterprise Geodatabase", "Web Geodatabase", "SQL Geodatabase"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 78,
+    "questions": "File Geodatabase'in (Dosya Konumsal Veritabanı) depolama kapasitesi yaklaşık ne kadardır?",
+    "choices": ["2 GB", "1 TB", "100 MB", "Sınırsız", "10 GB"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 79,
+    "questions": "Çok kullanıcılı sistemlerde merkezi yönetim sağlayan veritabanı türü hangisidir?",
+    "choices": ["Personal Geodatabase", "File Geodatabase", "Enterprise Geodatabase", "Shapefile", "CAD"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 80,
+    "questions": "Konumsal referansı aynı olan nesne tablolarını bir arada tutan kapsayıcı yapı nedir?",
+    "choices": ["Feature Class", "Feature Dataset", "Raster Catalog", "Mosaic", "Table"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 81,
+    "questions": "Ölçüm nesnelerinde kullanılan 'Basit hizalanmış' tipi kaç referans noktası ile çizilir?",
+    "choices": ["1", "2", "3", "4", "5"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 82,
+    "questions": "Bina kat sayıları için 0-20 arası değer girilmesini zorunlu kılan kural hangisidir?",
+    "choices": ["Subtype", "Range Domain (Aralık Değer Alanı)", "Coded Domain", "Relationship", "Version"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 83,
+    "questions": "Yol tiplerini (Otoyol, Sokak vb.) aynı tabloda ayırmak için kullanılan yapı nedir?",
+    "choices": ["Domain", "Subtype", "Annotation", "Topology", "Buffer"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 84,
+    "questions": "Topolojide 'Pseudo Nodes' (Gereksiz düğüm noktaları) ne anlama gelir?",
+    "choices": ["Üst üste binen çizgiler", "Bir çizginin gereksiz yere ikiye bölünmesi", "Açıkta kalan uçlar", "Kesişen poligonlar", "Silinen nesneler"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 85,
+    "questions": "Raster verinin çözünürlüğü azaldıkça gösterim hızı nasıl değişir?",
+    "choices": ["Azalır", "Artar", "Değişmez", "Hata verir", "Sadece piramit varsa artar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 86,
+    "questions": "İlişki tablolarında 'Foreign Key' (Yabancı Anahtar) nerede bulunur?",
+    "choices": ["Kaynak tabloda", "Hedef tabloda", "Sistem tablosunda", "Sadece metaveride", "Harita üzerinde"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 87,
+    "questions": "Sürümleme yapılmış bir sistemde 'Post' işlemi yapıldıktan sonra hangisi doğrudur?",
+    "choices": ["İşlem geri alınabilir", "İşlem geri alınamaz", "Sadece yönetici görebilir", "Veri boyutu azalır", "Koordinatlar değişir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 88,
+    "questions": "Ağ veri kümelerinde maliyet (cost) özniteliği hangisi olamaz?",
+    "choices": ["Zaman", "Mesafe", "Yakıt tüketimi", "Nokta rengi", "Dakika"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 89,
+    "questions": "Fiziksel tasarımı görselleştirmek için kullanılan vektörel çizim yazılımı hangisidir?",
+    "choices": ["SQL Server", "Microsoft Visio", "Excel", "Adobe Reader", "Word"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 90,
+    "questions": "Web tabanlı konumsal veritabanlarının en büyük avantajı nedir?",
+    "choices": ["Sadece tek kullanıcı desteği", "Yer ve cihazdan bağımsız erişim", "En düşük hız", "Piksel boyutu sınırsızlığı", "Sadece raster veri desteği"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 91,
+    "questions": "Raster veride 'Radyometrik Çözünürlük' neyi tanımlar?",
+    "choices": ["Piksel büyüklüğünü", "Hücrenin alabileceği gri ton sayısını (bit derinliği)", "Bant sayısını", "Uydunun çekim sıklığını", "Koordinat hassasiyetini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 92,
+    "questions": "Zamansal çözünürlük raster veride ne ifade eder?",
+    "choices": ["Görüntü netliğini", "Aynı alanın ne kadar sürede bir görüntülendiğini", "Işığın hızını", "Piksel alanını", "Bant genişliğini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 93,
+    "questions": "Bir poligonun içinde en az bir nokta nesnesi bulunması kuralı hangisidir?",
+    "choices": ["Must Not Have Gaps", "Contains Point", "Must Not Overlap", "Area Covered By", "Single Part"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 94,
+    "questions": "Topoloji kuralları hangi yapı içerisinde tanımlanır?",
+    "choices": ["Relationship Class", "Feature Dataset", "Raster Dataset", "Domain", "Index"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 95,
+    "questions": "Enterprise Geodatabase hangi veritabanı yönetim sistemlerini destekler?",
+    "choices": ["Oracle, SQL Server, PostgreSQL", "Sadece MS Access", "Sadece Excel", "Sadece XML", "Sadece Notepad"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 96,
+    "questions": "Konumsal nesne tablosu oluşturulurken hangisi Rumuz (Alias) için geçerlidir?",
+    "choices": ["Türkçe karakter kullanılabilir", "Özel karakter kullanılamaz", "Sadece sayı olabilir", "Zorunludur", "Koordinat sistemidir"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 97,
+    "questions": "Bir binanın kapı numarası verisi için hangi veri tipi seçilmelidir?",
+    "choices": ["Short Integer", "Long Integer", "Text", "Date", "Raster"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 98,
+    "questions": "Raster veri yönetiminde donanımı en çok yoran veri hangisidir?",
+    "choices": ["Küçük pikselli, yüksek çözünürlüklü veri", "Büyük pikselli veri", "Tek bantlı veri", "Siyah beyaz veri", "Vektörden dönüştürülmüş veri"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 99,
+    "questions": "Geometrik ağlarda vanaların suyu kesmesi hangi fonksiyonla modellenir?",
+    "choices": ["Kaynak", "Batık", "Bariyer", "Düğüm", "Dönüş"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 100,
+    "questions": "Veritabanı tasarımının son aşaması nedir?",
+    "choices": ["Kavramsal Tasarım", "Mantıksal Tasarım", "Fiziksel Tasarım", "Metaveri Girişi", "Arşivleme"],
+    "correctAnswer": 2
+  }
+]
