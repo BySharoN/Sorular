@@ -298,5 +298,905 @@
     "question": "Aşağıdakilerden hangisi CBS teknolojisinin sağladığı faydalardan biridir?",
     "choices": ["Zaman ve emek tasarrufu", "Veri güvenliğinin azalması", "Maliyetlerin kontrolsüz artışı", "Hatalı analiz riskinin artması", "Donanım ömrünün kısalması"],
     "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "6831 Sayılı Orman Kanunu’na göre, bilim ve fen bakımından orman niteliğini tam olarak kaybetmiş yerlerin orman sınırları dışına çıkarılmasını ifade eden madde hangisidir?",
+    "choices": ["Madde 1", "Madde 5", "Madde 2/B", "Madde 17", "Madde 169"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 52,
+    "question": "Hayvanların kış mevsiminde barındırılması ve otundan yararlanılması için tahsis edilen yerlere ne ad verilir?",
+    "choices": ["Mera", "Yaylak", "Kışlak", "Otlak", "Çayır"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 53,
+    "question": "Toprak Koruma ve Arazi Kullanımı Kanunu'na göre 'üzerinde sadece geleneksel toprak işlemeli tarımın yapıldığı' araziler hangi sınıfa girer?",
+    "choices": ["Mutlak Tarım Arazisi", "Özel Ürün Arazisi", "Dikili Tarım Arazisi", "Marjinal Tarım Arazisi", "Sulu Tarım Arazisi"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 54,
+    "question": "Milli Parklar Kanunu'na göre 'Tabiatı Koruma Alanı' belirlenirken hangi temel amaç gözetilir?",
+    "choices": ["Sadece turizm", "Sadece dinlenme", "Mutlak koruma, bilim ve eğitim", "Konut yapımı", "Sanayileşme"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 55,
+    "question": "Sit alanlarında koruma amaçlı imar planı yapılıncaya kadar geçen süreçte hangi şartlar geçerli olur?",
+    "choices": ["Uygulama İmar Planı", "Geçiş Dönemi Koruma Esasları", "Nazım İmar Planı", "Bölge Planı", "Mevzi İmar Planı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 56,
+    "question": "Taşınmaz kültür varlıklarıyla ilgili mevzuları takip etmek ve koruma uygulamalarını yürütmek üzere belediyeler bünyesinde kurulan büro hangisidir?",
+    "choices": ["AYDES", "KUDEB", "TSE", "MYK", "TUCBS"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 57,
+    "question": "İmar mevzuatına göre 'ulusal sınırlar bütününde sosyal ve ekonomik plan kararlarının mekâna yansımasını' sağlayan en üst düzey plan hangisidir?",
+    "choices": ["Ülke Fiziki Planı", "Bölge Planı", "Çevre Düzeni Planı", "Nazım İmar Planı", "Master Plan"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "1/25.000, 1/50.000 veya 1/100.000 ölçeklerde hazırlanan, koruma-kullanma dengesini sağlayan idareler arası koordinasyon esaslı plan türü hangisidir?",
+    "choices": ["Uygulama İmar Planı", "Nazım İmar Planı", "Çevre Düzeni Planı", "Parselasyon Planı", "Kadastro Haritası"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 59,
+    "question": "Mevcut imar planının yürürlükteki süresini uzatmak ve aksaklıkları gidermek amacıyla yapılan sınırlı değişiklik planına ne ad verilir?",
+    "choices": ["İlave İmar Planı", "Revizyon İmar Planı", "Mevzi İmar Planı", "Islah İmar Planı", "Kadastro Planı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 60,
+    "question": "Türkiye'de çevre hukukunun anayasal temeli ilk kez hangi yılın anayasasında yer almıştır?",
+    "choices": ["1924", "1961", "1982", "2010", "1921"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 61,
+    "question": "İran'ın bir kentinde imzalanan ve 'Özellikle Su Kuşları Yaşama Alanı Olarak Uluslararası Öneme Sahip Sulak Alanların Korunması' sözleşmesi hangisidir?",
+    "choices": ["Barselona", "Kyoto", "RAMSAR", "Bern", "Paris"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 62,
+    "question": "Afet yönetimi döngüsünde 'afet tehlikesinin önceden belirlenmesi ve etkilerinin minimize edilmesi' çalışmaları hangi evrededir?",
+    "choices": ["Müdahale", "İyileştirme", "Risk Yönetimi (Zarar Azaltma/Hazırlık)", "Kriz Yönetimi", "Yeniden İnşa"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 63,
+    "question": "Mekânsal Veri Altyapısı'nın (MVA) ana bileşenlerinden biri olan, verinin kaynağı, kalitesi ve ölçeği gibi bilgilerini içeren yapı hangisidir?",
+    "choices": ["Donanım", "Yazılım", "Metaveri", "Personel", "İnternet"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 64,
+    "question": "TUCBS kapsamında coğrafi veri modellerinin tasarlanmasında kullanılan 'nesne tabanlı' yaklaşımın temel programlama/şema dili hangisidir?",
+    "choices": ["HTML", "UML", "GML", "SQL", "C#"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 65,
+    "question": "Farklı sistemlerde üretilen verilerin kullanıcı tarafında tek bir format gibi algılanıp işlenebilmesi özelliğine ne ad verilir?",
+    "choices": ["Depolama", "Birlikte Çalışabilirlik", "Görselleştirme", "Sayısallaştırma", "Ölçekleme"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 66,
+    "question": "ISO'nun CBS standartlarını belirleyen komitesi aşağıdakilerden hangisidir?",
+    "choices": ["ISO/TC 176", "ISO/TC 211", "ISO/TC 207", "ISO/TC 9001", "ISO/TC 14001"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 67,
+    "question": "Açık Coğrafi Bilgi Konsorsiyumu (OGC) tarafından geliştirilen ve konumsal verinin 'resim' formatında sunulmasını sağlayan servis hangisidir?",
+    "choices": ["WFS", "WCS", "WMS", "WPS", "GML"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 68,
+    "question": "INSPIRE direktifi kapsamında yer alan 34 veri teması kaç ana kategoriye (Ek) ayrılmıştır?",
+    "choices": ["2", "3", "4", "5", "10"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 69,
+    "question": "INSPIRE Ek-I listesinde aşağıdakilerden hangisi yer alır?",
+    "choices": ["Binalar", "Jeoloji", "Koordinat Referans Sistemleri", "Toprak", "Meteoroloji"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 70,
+    "question": "MYK tarafından belirlenen Seviye 4 yeterliliği, örgün eğitimde hangi düzeye karşılık gelen bilgi ve beceriyi ifade eder?",
+    "choices": ["Lisans", "Önlisans", "Lise", "Yüksek Lisans", "İlkokul"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 71,
+    "question": "Aşağıdakilerden hangisi CBS Uzmanı (Seviye 6) Ulusal Meslek Standardı'nda belirtilen temel görevlerden biridir?",
+    "choices": ["Sadece veri girişi yapmak", "Projeleri teknik olarak yönetmek", "Bilgisayar tamiri yapmak", "Saha güvenliğini tek başına sağlamak", "Donanım parçası üretmek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 72,
+    "question": "Kıyı kenar çizgisinin tespiti için kullanılan harita ölçeği genellikle hangisidir?",
+    "choices": ["1/1000", "1/5000", "1/25000", "1/100000", "1/500000"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 73,
+    "question": "5403 Sayılı Kanun uyarınca illerde kurulan ve tarım arazilerinin korunması konusunda kararlar alan kurul hangisidir?",
+    "choices": ["İmar Kurulu", "Toprak Koruma Kurulu", "Afet Kurulu", "Mera Komisyonu", "Çevre Meclisi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 74,
+    "question": "Milli Parklar bünyesinde yapılan, koruma ve kullanma amaçlarını gerçekleştiren stratejik plana ne ad verilir?",
+    "choices": ["Uygulama Planı", "Revizyon Planı", "Uzun Devreli Gelişme Planı", "Mevzi Plan", "Nazım Plan"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 75,
+    "question": "Arkeolojik, tarihi ve doğal sitlerin bir arada bulunduğu sit türüne ne ad verilir?",
+    "choices": ["Tekil Sit", "Karma Sit", "Kentsel Sit", "Arkeolojik Sit", "Ören Yeri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 76,
+    "question": "İmar Kanunu'nun 5. maddesine göre, arazi kullanılması kararlarını bölge planı kararlarına uygun olarak belirleyen plan hangisidir?",
+    "choices": ["Bölge Planı", "Çevre Düzeni Planı", "Uygulama İmar Planı", "Parselasyon Planı", "Nazım İmar Planı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 77,
+    "question": "Nüfusu 2000'den aşağı olan yerleşim birimleri için hazırlanan plan türü hangisidir?",
+    "choices": ["Büyükşehir Planı", "İl İmar Planı", "Köy Yerleşme Planı", "Mevzi Plan", "Turizm Planı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 78,
+    "question": "Afet yönetimi sürecinde 'AYDES' verileri hangi temel teknoloji üzerine inşa edilmiştir?",
+    "choices": ["Blockchain", "Yapay Zeka", "CBS ve Ortak Harekât Resmi", "Sadece Sosyal Medya", "Kağıt Arşivleme"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 79,
+    "question": "TUCBS kapsamında coğrafi veri değişim formatı olarak kullanılan XML tabanlı yapı hangisidir?",
+    "choices": ["JPG", "PDF", "GML", "MP4", "TXT"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 80,
+    "question": "INSPIRE direktifinin uygulama döneminin tümüyle tamamlanması öngörülen hedef yıl hangisidir?",
+    "choices": ["2015", "2021", "2025", "2030", "2050"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 81,
+    "question": "Amerikan Coğrafyacılar Birliği tarafından oluşturulan ve CBS yetkinliklerini tanımlayan hiyerarşik model hangisidir?",
+    "choices": ["ISO 9001", "GIS&T Bok", "W3C", "OMG", "CEN"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 82,
+    "question": "Ulusal Jeoloji Veri Teması'nda 'Fay' verisi hangi vektör geometri türü ile temsil edilir?",
+    "choices": ["Nokta", "Çizgi", "Alan", "Hücre", "Piksel"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 83,
+    "question": "Karmaşık litolojilerin (ör: Andezit-Bazalt) sembolojisinde RGB renk kodları hangi formülle belirlenir?",
+    "choices": ["Sadece en büyük değer", "Sadece en küçük değer", "Ağırlıklı Ortalama Değer", "Rastgele seçim", "Sabit gri renk"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 84,
+    "question": "Avrupa Çevre Ajansı (AÇA) bünyesindeki çevre bilgi ve gözlem ağına ne ad verilir?",
+    "choices": ["ARPANET", "EIONET", "INTERNET", "GISNET", "ECO-NET"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 85,
+    "question": "Taşınmaz kültür varlıklarının korunmasıyla ilgili 'İlke Kararlarını' kim belirler?",
+    "choices": ["Belediye Meclisi", "Koruma Yüksek Kurulu", "Valilik", "MTA", "AFAD"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 86,
+    "question": "İmar planı bulunmayan alanlarda, binanın yapılacağı parselin sınırlarını ve yapılaşma şartlarını gösteren belge hangisidir?",
+    "choices": ["İskan Ruhsatı", "Yapı Ruhsatı", "Röperli Kroki", "İmar Durumu Belgesi", "Tapu Senedi"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 87,
+    "question": "Çevre Kanunu uyarınca, kirletenlerin kirliliği önleme ve giderme maliyetlerini karşılaması ilkesine ne ad verilir?",
+    "choices": ["Bedava kullanım", "Kirleten öder ilkesi", "Devlet karşılar ilkesi", "Gönüllülük esası", "Ceza muafiyeti"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 88,
+    "question": "Afet yönetimi evrelerinden hangisi 'toplumun afet sonrası ihtiyaçlarını karşılama ve normal hayata dönme' çabalarını kapsar?",
+    "choices": ["Zarar Azaltma", "Hazırlık", "Müdahale", "İyileştirme", "Erken Uyarı"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 89,
+    "question": "TUCBS portalı üzerinden sunulan servis bazlı veri paylaşımının teknik temeli hangisidir?",
+    "choices": ["Donanım şeması", "Uygulama şeması (UML/GML)", "Satış sözleşmesi", "Güvenlik duvarı", "Kullanıcı kılavuzu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 90,
+    "question": "OGC standartlarına göre, raster (hücresel) verilerin orijinal semantiği ile sunulduğu servis hangisidir?",
+    "choices": ["WMS", "WFS", "WCS", "WPS", "WMTS"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 91,
+    "question": "INSPIRE Ek-III listesinde yer alan, insanların sağlık durumunu mekânsal verilerle ilişkilendiren tema hangisidir?",
+    "choices": ["Binalar", "İnsan Sağlığı ve Güvenliği", "Enerji Kaynakları", "Toprak", "Üretim Tesisleri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 92,
+    "question": "MYK kapsamında ülkemizde tanımlanan ilk CBS meslek standardı hangisidir?",
+    "choices": ["CBS Uzmanı (Seviye 6)", "CBS Operatörü (Seviye 4)", "CBS Operatörü (Seviye 5)", "CBS Analisti", "CBS Yöneticisi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 93,
+    "question": "CBS Operatörü (Seviye 4) ulusal yeterliliğinde yer alan 'A1' birimi neyi ifade eder?",
+    "choices": ["Yazılım geliştirme", "İSG, Çevre ve Kalite", "Veri analizi", "Pazarlama", "Saha ölçümü"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 94,
+    "question": "Jeoloji veri modelinde 'Sondaj Kuyusu' hangi geometri ile temsil edilir?",
+    "choices": ["Çizgi", "Poligon", "Nokta", "Yüzey", "Hacim"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 95,
+    "question": "Aşağıdakilerden hangisi bir 'Mekânsal Olmayan (Sözel)' veriye örnektir?",
+    "choices": ["Koordinat", "Sondajın yapıldığı tarih", "Parsel sınırı", "Fay hattı", "Göl alanı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 96,
+    "question": "TUCBS projesi kapsamında veri temaları belirlenirken hangi uluslararası girişim esas alınmıştır?",
+    "choices": ["NASA", "INSPIRE", "GOOGLE", "ARCGIS", "ESA"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 97,
+    "question": "Kıyı kenar çizgisi ile kıyı çizgisi arasında kalan alana ne ad verilir?",
+    "choices": ["Sahil şeridi", "Kıyı", "Doldurma alan", "Özel mülk", "Orman"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 98,
+    "question": "Türkiye'de 'Bütünleşik Kıyı Alanları Planlarını' yaptırmakla sorumlu bakanlık hangisidir?",
+    "choices": ["Tarım Bakanlığı", "Milli Savunma Bakanlığı", "Çevre ve Şehircilik Bakanlığı", "Kültür Bakanlığı", "Ulaştırma Bakanlığı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 99,
+    "question": "Mera Kanunu'na göre meraların tespiti ve tahdidi görevi hangi bakanlığa verilmiştir?",
+    "choices": ["Adalet Bakanlığı", "Tarım ve Orman Bakanlığı", "İçişleri Bakanlığı", "Ekonomi Bakanlığı", "Enerji Bakanlığı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 100,
+    "question": "Aşağıdakilerden hangisi afet yönetimi 'Risk Yönetimi' evresinin bileşenidir?",
+    "choices": ["Acil Yardım", "Zarar Azaltma", "Enkaz Kaldırma", "Psikolojik Destek", "Yeniden İnşa"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 101,
+    "question": "3621 sayılı Kıyı Kanunu'na göre, sahil şeritlerinden yararlanmada öncelikle hangi yarar gözetilir?",
+    "choices": ["Bireysel yarar", "Kamu yararı", "Ticari kazanç", "Siyasi çıkar", "Zümre yararı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 102,
+    "question": "Deniz, göl ve akarsularda, taşkın durumları dışında suyun kara parçasına değdiği noktaların birleşmesinden oluşan çizgiye ne ad verilir?",
+    "choices": ["Kıyı kenar çizgisi", "Kıyı çizgisi", "Sahil şeridi", "Mülkiyet sınırı", "Taşkın çizgisi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 103,
+    "question": "Kıyı Kanunu uyarınca kıyılardan aşağıdakilerden hangisinin alınması veya çekilmesi kesinlikle yasaktır?",
+    "choices": ["Çöp", "Atık", "Kum ve çakıl", "Deniz kabuğu", "Bitki kalıntısı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 104,
+    "question": "Hayvanların otlatılması ve otundan yararlanılması için kadimden beri kullanılan yerlere ne ad verilir?",
+    "choices": ["Yaylak", "Kışlak", "Mera", "Otlak", "Çayır"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 105,
+    "question": "Çiftçilerin hayvanları ile birlikte sadece yaz mevsimini geçirdikleri yerlere ne ad verilir?",
+    "choices": ["Kışlak", "Mera", "Otlak", "Yaylak", "Koru"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 106,
+    "question": "Mera alanlarının imar planı kapsamına alınabilmesi için öncelikle hangi işlemin yapılması zorunludur?",
+    "choices": ["İsim değişikliği", "Tahsis amacının değiştirilmesi", "Sadece belediye meclis kararı", "Ormana dönüştürme", "Özel mülkiyete devir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 107,
+    "question": "6831 Sayılı Orman Kanunu uyarınca orman alanlarının sınırları hangi haritalardan elde edilir?",
+    "choices": ["Hâlihazır harita", "Kadastral harita", "Orman kadastro haritaları", "Topografik harita", "Uydu görüntüsü"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 108,
+    "question": "Orman niteliğini 31.12.1981 tarihinden önce kaybetmiş arazilerin orman sınırı dışına çıkarılmasını sağlayan kanun maddesi hangisidir?",
+    "choices": ["Madde 1", "Madde 2/B", "Madde 17", "Madde 169", "Madde 5"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 109,
+    "question": "Toprak Koruma Kanunu'na göre 'üzerinde özel bitki türlerinin yetiştirildiği' araziler hangi sınıfa girer?",
+    "choices": ["Mutlak Tarım Arazisi", "Özel Ürün Arazisi", "Dikili Tarım Arazisi", "Marjinal Tarım Arazisi", "Sulu Tarım Arazisi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 110,
+    "question": "Ender bulunan tabii ve kültürel değerlere sahip, dinlenme ve turizm amaçlı kullanılan alan hangisidir?",
+    "choices": ["Tabiat Parkı", "Tabiat Anıtı", "Milli Park", "Doğal Sit", "Özel Koruma Bölgesi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 111,
+    "question": "Bilim ve eğitim bakımından nadir olan ve mutlak korunması gereken tabiat parçasına ne ad verilir?",
+    "choices": ["Tabiatı Koruma Alanı", "Milli Park", "Tabiat Parkı", "Tabiat Anıtı", "Ören Yeri"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 112,
+    "question": "Milli parkların kuruluş, geliştirme ve işletilmesini kapsayan plan hangisidir?",
+    "choices": ["Revizyon Planı", "Uygulama İmar Planı", "Uzun Devreli Gelişme Planı", "Master Plan", "Nazım İmar Planı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 113,
+    "question": "Doğal sit alanları kaç dereceye ayrılmaktadır?",
+    "choices": ["2", "3", "4", "5", "6"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 114,
+    "question": "I. Derece Doğal Sit alanlarında hangi faaliyetlerin yapılmasına izin verilir?",
+    "choices": ["Konut inşaatı", "Sanayi tesisi", "Bilimsel çalışmalar", "Maden ocağı", "Otlatma"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 115,
+    "question": "Belediyeler bünyesinde kültür varlıklarını koruma uygulamalarını yürütmek için kurulan birim hangisidir?",
+    "choices": ["AFAD", "TKGM", "KUDEB", "TSE", "MYK"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 116,
+    "question": "1982 Anayasası'nın kıyıların devletin hüküm ve tasarrufunda olduğunu belirten maddesi hangisidir?",
+    "choices": ["Madde 43", "Madde 44", "Madde 45", "Madde 56", "Madde 63"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 117,
+    "question": "Anayasa'nın 56. maddesinde tanımlanan temel insan hakkı aşağıdakilerden hangisidir?",
+    "choices": ["Mülkiyet hakkı", "Eğitim hakkı", "Sağlıklı ve dengeli bir çevrede yaşama hakkı", "Seyahat hakkı", "Çalışma hakkı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 118,
+    "question": "Mekânsal planların sayısal ortamda takibi ve arşivlenmesi amacıyla verilen numara hangisidir?",
+    "choices": ["TC Kimlik No", "Vergi No", "Plan İşlem Numarası (PİN)", "Ada No", "Parsel No"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 119,
+    "question": "Mekânsal planlamada veri çakıştırma ve zaman tasarrufu sağlayan en etkin sistem hangisidir?",
+    "choices": ["Kelime İşlemci", "Coğrafi Bilgi Sistemleri (CBS)", "Hukuk Bilgi Sistemi", "Muhasebe Yazılımı", "Fotoğraf Arşivi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 120,
+    "question": "Afet yönetimi sürecinde 'Zarar Azaltma' ve 'Hazırlık' evreleri hangi yönetim başlığı altındadır?",
+    "choices": ["Kriz Yönetimi", "Risk Yönetimi", "İyileştirme Yönetimi", "Lojistik Yönetimi", "Mali Yönetim"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 121,
+    "question": "RAMSAR Sözleşmesi'nin temel amacı aşağıdakilerden hangisidir?",
+    "choices": ["Hava kirliliğini önlemek", "Madenleri korumak", "Sulak alanların korunması", "Orman yangınlarını durdurmak", "Nükleer enerjiyi kısıtlamak"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 122,
+    "question": "SÇD Yönetmeliği (2017) uyarınca yapılan değerlendirmenin temel hedefi nedir?",
+    "choices": ["Hızlı inşaat yapmak", "Sürdürülebilir kalkınma ilkesi doğrultusunda çevreyi korumak", "Vergi gelirlerini artırmak", "Mülkiyeti kamulaştırmak", "Nüfus artışını durdurmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 123,
+    "question": "6306 Sayılı Kanun'un kamuoyunda bilinen adı nedir?",
+    "choices": ["İmar Kanunu", "Mera Kanunu", "Afet Riski Altındaki Alanların Dönüştürülmesi (Kentsel Dönüşüm)", "Çevre Kanunu", "Toprak Kanunu"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 124,
+    "question": "Türkiye Afet Müdahale Sisteminin bilişim altyapısını oluşturan CBS tabanlı sistem hangisidir?",
+    "choices": ["TKGM", "UAVT", "AYDES", "Atlas", "GSDI"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 125,
+    "question": "TUCBS kapsamında verilerin ortak bir standarda uyumlaştırılmasının temel amacı nedir?",
+    "choices": ["Veri miktarını azaltmak", "Mükerrer veri üretimini önlemek ve koordinasyonu sağlamak", "Veri satışını yasaklamak", "Yazılım geliştirmeyi durdurmak", "Donanım maliyetlerini artırmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 126,
+    "question": "Açık kaynak kodlu ve milli bir yazılım olarak geliştirilen coğrafi veri paylaşım platformu hangisidir?",
+    "choices": ["Google Earth", "ArcGIS", "Atlas (atlas.gov.tr)", "AutoCAD", "MapInfo"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 127,
+    "question": "Türkiye'de birlikte çalışabilirliğin ilk önemli teknik adımı olan yönetmelik hangisidir?",
+    "choices": ["İmar Yönetmeliği", "Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliği (BÖHHBÜY)", "Mera Yönetmeliği", "ÇED Yönetmeliği", "Disiplin Yönetmeliği"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 128,
+    "question": "INSPIRE direktifi uyarınca belirlenen 34 veri temasının sınıflandırıldığı yapılar nelerdir?",
+    "choices": ["Sınıf 1, 2, 3", "Grup A, B, C", "EK-I, EK-II, EK-III", "Bölüm 1, 2, 3", "Katman 1, 2, 3"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 129,
+    "question": "Aşağıdakilerden hangisi INSPIRE EK-I listesinde yer alan temel bir temadır?",
+    "choices": ["Binalar", "Toprak", "Adres", "Enerji Kaynakları", "Jeoloji"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 130,
+    "question": "TUCBS Proje Yaşam Döngüsünde 'Kavramsal Veri Modelinin Geliştirilmesi' hangi iş paketidir?",
+    "choices": ["İP.1", "İP.2", "İP.3", "İP.4", "İP.8"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 131,
+    "question": "TUCBS'de veri standartlarının hiyerarşik piramidinde en üstte hangi standart grubu bulunur?",
+    "choices": ["Kurumsal standartlar", "Sektörel standartlar", "Ulusal standartlar", "Uluslararası standartlar (ISO/OGC)", "Bölgesel standartlar"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 132,
+    "question": "Coğrafi verilerin 'veri hakkındaki verisi' olarak tanımlanan bileşen hangisidir?",
+    "choices": ["Öznitelik", "Metaveri (Metadata)", "Koordinat", "Projeksiyon", "Katman"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 133,
+    "question": "Ulusal Jeoloji Veri Temasında 'Jeolojik Yaş' renk kodları hangi kuruluşun direktiflerine göre standartlaştırılmıştır?",
+    "choices": ["NASA", "Uluslararası Stratigrafi Komisyonu", "TSE", "AFAD", "DSİ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 134,
+    "question": "Ayrılmamış litolojilerin sembolojisinde RGB kodları üretilirken hangi yöntemin kullanılması önerilir?",
+    "choices": ["Rastgele seçim", "Sabit siyah", "Ağırlıklı Ortalama Değer", "Sadece en açık renk", "Sadece en koyu renk"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 135,
+    "question": "Geoportal üzerinden coğrafi bilgi kaynağı arama ve keşif işlemlerini sağlayan servis hangisidir?",
+    "choices": ["Görüntüleme Servisi", "İndirme Servisi", "Katalog Servisi", "Dönüştürme Servisi", "Eşleşim Servisi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 136,
+    "question": "CBS Uzmanı (Seviye 6) Ulusal Yeterliliğinde, iş sağlığı ve güvenliği ile kalite süreçlerini kapsayan zorunlu birim kodu hangisidir?",
+    "choices": ["A1", "A2", "B1", "B2", "C1"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 137,
+    "question": "Jeoloji veri modelinde 'Fay' verisi çizgi geometrisi ile temsil edilirken, 'Sondaj' verisi hangi geometri ile temsil edilir?",
+    "choices": ["Poligon", "Yüzey", "Nokta", "Piksel", "Grid"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 138,
+    "question": "OGC tarafından geliştirilen ve vektörel coğrafi verilerin orijinal formatında internetten çekilmesini sağlayan servis hangisidir?",
+    "choices": ["WMS", "WCS", "WFS", "WPS", "GML"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 139,
+    "question": "Mülkiyet haklarını kamu yararı gözeterek koruyan ve planlama ile doğrudan ilişkili olan hukuk dalı hangisidir?",
+    "choices": ["Ceza Hukuku", "İmar Mevzuatı", "Vergi Mevzuatı", "Ticaret Mevzuatı", "Deniz Hukuku"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 140,
+    "question": "Özel Çevre Koruma Bölgeleri'nde (ÖÇK) her türlü yapı ve tesis izni hangi genel müdürlüğe tabidir?",
+    "choices": ["Maden İşleri", "Orman Genel Müd.", "Tabiat Varlıklarını Koruma Genel Müdürlüğü", "Karayolları", "DHMİ"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 141,
+    "question": "Anayasa'nın 169. maddesi hangi doğal varlığın korunmasını devletin sorumluluğuna vermiştir?",
+    "choices": ["Madenler", "Akarsular", "Ormanlar", "Meralar", "Kıyılar"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 142,
+    "question": "Ülkemizde 1/100.000 ölçekli Çevre Düzeni Planlarını onaylamaya yetkili kurum hangisidir?",
+    "choices": ["Belediye", "Kaymakamlık", "Çevre ve Şehircilik Bakanlığı", "Milli Savunma Bak.", "Ulaştırma Bak."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 143,
+    "question": "Afet yönetimi 'Müdahale' evresinin temel amacı nedir?",
+    "choices": ["Yeni evler yapmak", "Tehlikeyi analiz etmek", "Can ve mal kayıplarını en aza indirmek", "Bütçe hazırlamak", "Ağaç dikmek"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 144,
+    "question": "INSPIRE EK-II listesinde yer alan, yeryüzünün fiziksel özelliklerini tanımlayan tema hangisidir?",
+    "choices": ["Binalar", "Jeoloji", "İstatistiksel Birimler", "Toprak", "Üretim Tesisleri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 145,
+    "question": "TUCBS kapsamında coğrafi veri modellerinin teknoloji ve yazılımdan bağımsız tasarlanmasını sağlayan yaklaşım hangisidir?",
+    "choices": ["Satış odaklı", "Model bazlı yaklaşım", "Donanım odaklı", "Hiyerarşik yaklaşım", "Karmaşık yaklaşım"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 146,
+    "question": "Hücrelere bağlı (raster) verilerin orijinal değerleri ile sunulduğu OGC servisi hangisidir?",
+    "choices": ["WMS", "WFS", "WCS", "WMTS", "WPS"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 147,
+    "question": "Sit alanlarında sit kararının alınmasıyla birlikte taşınmazların mülkiyet durumu ne şekilde etkilenir?",
+    "choices": ["Hazineye geçer", "Mülkiyet hakkı kısıtlanır ve koruma esasları geçerli olur", "Satılamaz", "Yıkılır", "Sadece orman sayılır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 148,
+    "question": "Bir afetin sonuçlarının ciddiyeti en çok hangi unsura bağlıdır?",
+    "choices": ["Haftanın gününe", "Yerin jeolojik yapısı ve toplumun hazırlık düzeyine", "Havanın sıcaklığına", "Yazılımın markasına", "Hükümetin bütçesine"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 149,
+    "question": "Jeoloji veri temasında faylar, kıvrımlar ve heyelanlar hangi veri yapısı ile temsil edilir?",
+    "choices": ["Grid", "Vektör", "Metin", "Tablo", "Sözel"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 150,
+    "question": "TUCBS projesinde coğrafi veri içeriğinin belirlenmesinde hangi uluslararası direktif temel alınmıştır?",
+    "choices": ["ISO 9001", "INSPIRE", "GML", "W3C", "GSDI"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 151,
+    "question": "Avrupa Çevre Bilgi ve Gözlem Ağı'nın kısa adı aşağıdakilerden hangisidir?",
+    "choices": ["NATO", "UNESCO", "EIONET", "TUCBS", "WHO"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 152,
+    "question": "Kıyı kenar çizgisi ile kıyı çizgisi arasındaki alanda hangisinin yapılması yasaktır?",
+    "choices": ["İskele", "Liman", "Özel Konut", "Fener", "Rıhtım"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 153,
+    "question": "Mera Kanunu'na göre komisyonlarca mera arazisi olduğuna karar verilen yerler hangi ölçekli haritaya işlenir?",
+    "choices": ["1/1000", "1/5000", "1/25000", "1/100000", "1/500000"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 154,
+    "question": "Anayasa'nın 63. maddesi hangi değerlerin korunmasını devletin görevi olarak tanımlar?",
+    "choices": ["Tarım arazileri", "Madenler", "Tarih, kültür ve tabiat varlıkları", "Kıyılar", "Ormanlar"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 155,
+    "question": "Afet yönetimi sürecinde 'İyileştirme' evresinin temel odak noktası nedir?",
+    "choices": ["Enkaz kaldırma", "Acil yardım", "Toplumu eski durumuna döndürmek ve güçlendirmek", "Tatbikat yapmak", "Plan hazırlamak"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 156,
+    "question": "TUCBS'de uygulama şemalarını ifade etmek için kullanılan XML tabanlı dil hangisidir?",
+    "choices": ["HTML", "GML", "SQL", "JAVA", "CSS"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 157,
+    "question": "INSPIRE EK-III listesinde yer alan ve enerji kaynaklarını kapsayan tema hangisidir?",
+    "choices": ["Binalar", "Enerji Kaynakları", "Toprak", "Jeoloji", "Hidrografya"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 158,
+    "question": "Türkiye Ulusal Coğrafi Bilgi Platformu hangi kurum tarafından yönetilmektedir?",
+    "choices": ["AFAD", "MTA", "Coğrafi Bilgi Sistemleri Genel Müdürlüğü", "TÜİK", "TKGM"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 159,
+    "question": "CBS Operatörü Seviye 4 yeterliliğinde, iş organizasyonu ve mesleki gelişim süreçlerini kapsayan birim kodu hangisidir?",
+    "choices": ["A1", "A2", "B1", "B2", "C1"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 160,
+    "question": "Jeolojik formasyonlar CBS'de genellikle hangi vektör veri tipiyle temsil edilir?",
+    "choices": ["Nokta", "Çizgi", "Poligon (Alan)", "Grid", "Piksel"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 161,
+    "question": "2019 yılında yayımlanan ve ülkemizin CBS alanındaki 'milat' niteliğindeki düzenleme hangisidir?",
+    "choices": ["3194 Sayılı Kanun", "6306 Sayılı Kanun", "49 Sayılı Cumhurbaşkanlığı Kararnamesi", "644 Sayılı KHK", "Mera Yönetmeliği"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 162,
+    "question": "MVA (Mekânsal Veri Altyapısı) için 'veri hakkındaki veri' neden kritiktir?",
+    "choices": ["Veriyi pahalılaştırmak için", "Verinin kaynağını ve kalitesini anlamak için", "Veriyi gizlemek için", "Veriyi silmek için", "Veriyi kopyalamak için"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 163,
+    "question": "INSPIRE metaveri bileşenleri toplam kaç ana başlıkta toplanmıştır?",
+    "choices": ["5", "10", "15", "20", "25"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 164,
+    "question": "Afet yönetimi sürecinde toplumu afetlere dirençli kılacak ekonomik ve sosyal desteklerin hazırlandığı evre hangisidir?",
+    "choices": ["Müdahale", "Zarar Azaltma", "Hazırlıklı Olma", "İyileştirme", "Yeniden İnşa"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 165,
+    "question": "Kıyı kenar çizgisinin denize doğru olan kısmında onaylı uygulama imar planına göre hangisinin yapımına izin verilebilir?",
+    "choices": ["Fabrika", "Özel villa", "Tersane ve yat limanı", "Alışveriş merkezi", "Lojistik depo"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 166,
+    "question": "Mera Kanunu uyarınca meraların tespiti, tahdidi ve tahsisi görevi hangi bakanlığa verilmiştir?",
+    "choices": ["İçişleri Bakanlığı", "Tarım ve Orman Bakanlığı", "Adalet Bakanlığı", "Milli Savunma Bak.", "Sağlık Bak."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 167,
+    "question": "Taşınmaz kültür varlıklarının korunmasında belediye ve mücavir alan sınırları dışında hangi kurum yetkilidir?",
+    "choices": ["Belediyeler", "Valilikler", "Orman İşletme", "MTA", "Karayolları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 168,
+    "question": "Jeoloji veri modelinde 'litoloji' verisi hangi tür bilgileri içerir?",
+    "choices": ["Kayaç türü ve özellikleri", "Sondajın maliyeti", "Personel ismi", "Mülkiyet sahibi", "Şehir ismi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 169,
+    "question": "INSPIRE Geoportal'ın temel işlevi nedir?",
+    "choices": ["Veri üretmek", "Veri depolamak", "Avrupa genelindeki mekânsal verilere erişim ve paylaşım sağlamak", "Yazılım satmak", "Mülkiyet davası çözmek"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 170,
+    "question": "TUCBS kapsamında öncelikli 10 temel veri teması arasında hangisi bulunur?",
+    "choices": ["Eğlence", "Moda", "Adres", "Spor", "Havacılık"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 171,
+    "question": "SÇD'nin (Stratejik Çevre Değerlendirmesi) temel amacı nedir?",
+    "choices": ["Hızlı onay almak", "Çevresel unsurların plan ve programlara entegre edilmesi", "Maliyeti düşürmek", "Kamuoyundan gizlemek", "Daha çok bina yapmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 172,
+    "question": "Bir alanın biyolojik çeşitliliğini, tehditleri ve yönetim vizyonunu içeren belge hangisidir?",
+    "choices": ["Zonlama Planı", "Yönetim Planı", "Ada Planı", "Kadastro Haritası", "Hâlihazır Harita"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 173,
+    "question": "Anayasa'nın 44. maddesine göre devlet toprağın verimli işletilmesini ve hangisini önlemekle yükümlüdür?",
+    "choices": ["Üretimi", "Erozyonla kaybedilmesini", "İhracatı", "Sulamasını", "Gübrelenmesini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 174,
+    "question": "Köy yerleşme planları hangi kanun uyarınca, köyün gelişme alanlarını belirlemek için yapılır?",
+    "choices": ["İmar Kanunu", "Köy Kanunu", "Mera Kanunu", "Orman Kanunu", "Çevre Kanunu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 175,
+    "question": "TUCBS portalı üzerinden sunulan servislerin teknik yapısında kullanılan dil hangisidir?",
+    "choices": ["UML/GML", "Sadece JPG", "Sadece PDF", "Sadece DOC", "Sadece XLS"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 176,
+    "question": "Afet yönetimi sürecinde erken uyarı sistemlerinin oluşturulması hangi evrede yer alır?",
+    "choices": ["Müdahale", "Hazırlıklı Olma", "İyileştirme", "Yeniden İnşa", "Enkaz Kaldırma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 177,
+    "question": "INSPIRE metaveri kataloglarında hangi standartlar esas alınmıştır?",
+    "choices": ["ISO 9001", "ISO 19115", "ISO 14001", "ISO 27001", "ISO 45001"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 178,
+    "question": "Aşağıdakilerden hangisi bir 'Mekânsal Veri Servisi' olarak tanımlanması için gereken şartlardan biri değildir?",
+    "choices": ["Çağrılabilir olması", "Kamu kurumu veya görevli kuruluşça sağlanması", "Sadece ücretli olması", "Mekânsal veriler üzerinde işlem yapabilmesi", "İlgili temaları içermesi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 179,
+    "question": "Jeofizik veri teması kapsamında standart veri üretiminden sorumlu temel kuruluşlardan biri hangisidir?",
+    "choices": ["MTA", "Kültür Bak.", "İstatistik Kurumu", "Merkez Bankası", "Adli Tıp Kurumu"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 180,
+    "question": "CBS Operatörü Seviye 4 yeterliliğinde, 'Veri Aktarımı ve Coğrafi Veri Girişi' süreçlerini kapsayan birim hangisidir?",
+    "choices": ["A1", "A2", "B1", "B2", "C1"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 181,
+    "question": "TUCBS Standartları Piramidinde 'Temel Model'in hemen altında hangi düzey bulunur?",
+    "choices": ["Kurumsal Düzey", "Sektörel Düzey", "Uluslararası Düzey", "Milli Düzey", "Evrensel Düzey"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 182,
+    "question": "Kıyı kenar çizgisinin tespiti için oluşturulan komisyonda kaç kamu görevlisi bulunur?",
+    "choices": ["3", "5", "7", "10", "12"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 183,
+    "question": "Toprak Koruma Kanunu'na göre hazırlanan ve tarımsal potansiyeli yüksek ovaları koruma altına alan karar hangisidir?",
+    "choices": ["Milli Park Kararı", "Büyük Ova Koruma Alanı", "Sit Kararı", "Endüstri Bölgesi", "Serbest Bölge"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 184,
+    "question": "Milli park gelişme planları içerisinde belediyelerin yapacağı uygulama imar planları hangi kanun hükümlerine tabidir?",
+    "choices": ["Milli Parklar Kanunu", "İmar Kanunu", "Çevre Kanunu", "Mera Kanunu", "Kıyı Kanunu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 185,
+    "question": "Doğal sitlerin derecelendirilmesinde hangisi 'bilimsel muhafaza açısından evrensel değeri olan' alanları ifade eder?",
+    "choices": ["I. Derece", "II. Derece", "III. Derece", "IV. Derece", "V. Derece"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 186,
+    "question": "Özel Çevre Koruma Bölgeleri'nde kanalizasyon ve atık yönetimi nasıl olmalıdır?",
+    "choices": ["Denize boşaltılmalı", "Çevreyi ve denizi kirletmeyecek şekilde yönetilmeli", "Ormana bırakılmalı", "Sınırlama yoktur", "Toprağa gömülmeli"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 187,
+    "question": "AYDES sisteminde verilerin güvenli ve kesintisiz saklanması için kullanılan merkez hangisidir?",
+    "choices": ["Bulut Sistem", "USB Bellek", "FEKM (Felaket Kurtarma Merkezi)", "Arşiv Odası", "Milli Kütüphane"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 188,
+    "question": "TUCBS kapsamında 'Bina' veri temasının uygulama şeması hangi standartlara uyumludur?",
+    "choices": ["NASA", "INSPIRE", "GOOGLE", "FB", "ISO 9001"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 189,
+    "question": "Jeoloji veri temasında noktalarla (x, y koordinatı) temsil edilen detay hangisidir?",
+    "choices": ["Fay Hattı", "Sondaj Kuyusu", "Formasyon Sınırı", "Havza", "Ova"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 190,
+    "question": "One Geology Europe projesinin temel amacı nedir?",
+    "choices": ["Maden satmak", "Jeolojik haritaların standart kartografik yapıda paylaşılmasını sağlamak", "Petrol aramak", "Tünel açmak", "Su kuyusu açmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 191,
+    "question": "INSPIRE EK-I listesinde yer alan, kadastro parsellerini içeren tema hangisidir?",
+    "choices": ["Adres", "Kadastral Parseller", "Ulaşım Ağları", "Hidrografya", "İdari Birimler"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 192,
+    "question": "TUCBS veri temasında 'Hidrografya' hangi unsurları kapsar?",
+    "choices": ["Yollar", "Binalar", "Su kaynakları, göller ve akarsular", "Madenler", "Elektrik hatları"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 193,
+    "question": "Afet yönetimi sürecinde tatbikatların yapılması hangi evrede yer alır?",
+    "choices": ["Zarar Azaltma", "Hazırlıklı Olma", "Müdahale", "İyileştirme", "Yeniden İnşa"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 194,
+    "question": "TUCBS projesinde 'Mevzuat Gereksinim Analizi' hangi iş paketi içindedir?",
+    "choices": ["İP.1", "İP.4", "İP.6", "İP.7", "İP.8"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 195,
+    "question": "Coğrafi verilerin farklı sistemler arasında veri kaybı olmadan aktarılabilmesine ne ad verilir?",
+    "choices": ["Birlikte Çalışabilirlik (Interoperability)", "Sayısallaştırma", "Depolama", "Silme", "Ölçekleme"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 196,
+    "question": "KUDEB'lerin bağlı olduğu ve işbirliği yaptığı temel kurul hangisidir?",
+    "choices": ["Belediye Meclisi", "Koruma Bölge Kurulları", "YÖK", "TÜBİTAK", "MTA"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 197,
+    "question": "3194 Sayılı İmar Kanunu'nun 18. maddesi hangi konuyu düzenler?",
+    "choices": ["Yapı Ruhsatı", "Arazi ve Arsa Düzenlemesi", "İskan", "Ceza", "Orman"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 198,
+    "question": "Jeolojik yaş renk kodları hangi disipline uygun olarak standartlaştırılmıştır?",
+    "choices": ["Coğrafya", "Stratigrafi", "Mimarlık", "Hukuk", "Ekonomi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 199,
+    "question": "INSPIRE EK-III'te yer alan ve enerji kaynaklarını kapsayan tema hangisidir?",
+    "choices": ["Enerji Kaynakları", "Toprak", "Binalar", "Ulaşım", "Adres"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 200,
+    "question": "TUCBS eylem planlarında yer alan 'Ulusal Coğrafi Bilgi Stratejisi' hangi yılı hedeflemektedir?",
+    "choices": ["2010", "2015", "2023", "2028 Ulusal Vizyonu", "2050"],
+    "correctAnswer": 3
   }
 ]
