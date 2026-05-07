@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "Dünyanın bilinen en eski haritalarından birine ev sahipliği yapan ve bir Neolitik yerleşme olan Anadolu'daki site hangisidir?",
+    "choices": ["Çayönü", "Aşıklı Höyük", "Göbeklitepe", "Efes", "Çatalhöyük"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 2,
+    "question": "Sekiz ciltlik 'Coğrafya Rehberi' (Geographia) eserinin yazarı olan ve bilinen ilk dünya haritalarından birini yapan bilim insanı kimdir?",
+    "choices": ["Anaksimender", "Batlamyus", "İbn-Haldun", "Heredot", "El-İdrisi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Orta Çağ'da denizcilerin kıyı hatlarını, limanları ve sığlıkları göstermek için kullandıkları harita türü hangisidir?",
+    "choices": ["Mappa Mundi", "Portolan Haritaları", "Topografya Haritaları", "Kayıt Defterleri", "Zihin Haritaları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "1513 yılında ilk dünya haritasını çizen ve Amerika kıtasının doğu kıyılarını da gösteren ünlü Türk denizcisi kimdir?",
+    "choices": ["Seydi Ali Reis", "Kâtip Çelebi", "Piri Reis", "Ali Macar Reis", "İbn-i Macid"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "Dünyanın şekliyle ilgili olan; düzeçleme sıfırından geçen, yerçekimi potansiyelinin yükselti yüzeyi olarak tasarlanan şekle ne ad verilir?",
+    "choices": ["Sferoid", "Elipsoid", "Geoid", "Topografya", "Datum"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "Harita projeksiyonlarında ışık kaynağı dünyanın merkezine yerleştirildiğinde ortaya çıkan düzlem projeksiyon türü hangisidir?",
+    "choices": ["Gnomonik (Merkezi)", "Stereografik", "Ortografik", "Ekidistant", "Lambert"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "Aynı pusula açısını koruyarak takip edilen eğik gidiş hattına denizcilikte ne ad verilir?",
+    "choices": ["Ortodrom", "Ekliptik", "Meridyen", "Loksodrom", "İzoline"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "Türkiye'nin 1/25.000, 1/50.000 ve 1/100.000 ölçekli topografik haritalarının üretiminde kullanılan projeksiyon sistemi hangisidir?",
+    "choices": ["Konik Projeksiyon", "Mercator Projeksiyonu", "UTM (Universal Transversal Mercator)", "Gnomonik Projeksiyon", "Bonne Projeksiyonu"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "UTM projeksiyon sisteminde dünya kaç derecelik boylam dilimlerine (zon) ayrılmıştır?",
+    "choices": ["3 derece", "6 derece", "10 derece", "15 derece", "30 derece"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "Harita ölçeği büyüdükçe aşağıdakilerden hangisi gerçekleşir?",
+    "choices": ["Gösterilen alan genişler", "Ayrıntı azalır", "Bozulma oranı artar", "Küçültme oranı azalır", "Paydadaki sayı büyür"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "question": "1/50.000 ölçekli bir haritada 4 cm olarak ölçülen bir uzunluk, arazide gerçekte kaç kilometredir?",
+    "choices": ["1 km", "2 km", "4 km", "20 km", "200 km"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Ölçekleri 1/1.000.000'dan küçük olan (örneğin 1/2.000.000) haritalar hangi sınıfa girer?",
+    "choices": ["Büyük ölçekli haritalar", "Orta ölçekli haritalar", "Küçük ölçekli haritalar", "Kadastral haritalar", "Planlar"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "Haritalarda yükselti ve derinlikleri göstermek için kullanılan, aynı yükseltideki noktaları birleştiren kapalı eğrilere ne ad verilir?",
+    "choices": ["İzobar", "İzoterm", "İzohips", "İzobat", "İzohalin"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Harita üzerindeki özelliklerin nokta, çizgi ve poligon (alan) olarak temsil edildiği veri modeli hangisidir?",
+    "choices": ["Raster Veri Modeli", "Vektör Veri Modeli", "Hücresel Veri Modeli", "Üç Boyutlu Model", "Piksel Modeli"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "Süreklilik gösteren coğrafi özelliklerin (örneğin hava sıcaklığı veya yükselti) kare biçimli hücrelerle (piksel) temsil edildiği veri modeli hangisidir?",
+    "choices": ["Raster Veri Modeli", "Vektör Veri Modeli", "Spagetti Model", "Topolojik Model", "Düğüm Modeli"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "Aşağıdakilerden hangisi bir haritanın olmazsa olmaz temel unsurlarından biridir?",
+    "choices": ["Fotoğraflar", "Yazarın biyografisi", "Reklamlar", "Lejant (Harita Anahtarı)", "Dipnotlar"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 17,
+    "question": "Dijital ekranlarda (monitör, telefon) renklerin oluşturulmasında kullanılan temel renk paleti hangisidir?",
+    "choices": ["CMYK", "Pantone", "RGB", "Gri Tonlama", "HLS"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "Matbaa ve yazıcı çıktılarında kullanılan, Cyan, Magenta, Yellow ve Key (Siyah) renklerinden oluşan palet hangisidir?",
+    "choices": ["RGB", "CMYK", "HSV", "Hexadecimal", "YUV"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "Belirli bir konuya ait verilerin (örneğin nüfus yoğunluğu veya seçim sonuçları) renklendirme veya desenlerle gösterildiği tematik harita türü hangisidir?",
+    "choices": ["Topografya Haritası", "Fiziki Harita", "Koroplet Harita", "Jeoloji Haritası", "Bakı Haritası"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "Harita üzerinde kuzey yönünü gösteren ve haritanın yönlendirilmesini sağlayan unsur hangisidir?",
+    "choices": ["Ölçek", "Başlık", "Kuzey Oku", "Koordinat Çizgileri", "Projeksiyon Bilgisi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "Haritadaki bilgilerin gerçek dünyadaki nesneleri ne kadar küçültülmüş olarak gösterdiğini ifade eden kavrama ne denir?",
+    "choices": ["Projeksiyon", "Datum", "Ölçek", "Genelleştirme", "Simge"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "Aşağıdakilerden hangisi 'birincil veri kaynağı' olarak kabul edilir?",
+    "choices": ["Eski bir atlas", "İstatistik kurumu raporları", "Uydu görüntüleri", "Ders kitabı haritaları", "Gazete küpürleri"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "Kâğıt üzerindeki haritaların tarayıcı vasıtasıyla dijital formata dönüştürülüp CBS ortamına aktarılması işlemine ne ad verilir?",
+    "choices": ["Genelleştirme", "Sayısallaştırma", "Projeksiyon", "Lejant oluşturma", "Analiz"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "Yamaçların güneşe karşı konumunu ve baktığı yönü gösteren harita türü hangisidir?",
+    "choices": ["Eğim Haritası", "Kabartma Haritası", "Bakı Haritası", "Jeomorfoloji Haritası", "Nüfus Haritası"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 25,
+    "question": "Sayısal Yükseklik Modellerinde (SYM) her bir hücrenin (piksel) taşıdığı değer neyi ifade eder?",
+    "choices": ["Sıcaklık", "Nüfus", "Yükselti", "Eğim açısı", "Bitki türü"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "question": "İki izohips eğrisi arasında kalan, çevreye göre alçakta bulunan ve akarsuların yataklandığı şekle ne ad verilir?",
+    "choices": ["Sırt", "Tepe", "Vadi", "Plato", "Boyun"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "İzohips haritalarında 'V' şeklinin ucu yüksek değeri gösteriyorsa bu şekil hangisidir?",
+    "choices": ["Sırt", "Vadi", "Çukur", "Delta", "Falez"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "Harita tasarımında renk zıtlığına ne ad verilir?",
+    "choices": ["Doygunluk", "Parlaklık", "Kontrast", "Ton", "Şeffaflık"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 29,
+    "question": "Bireylerin çevreyi nasıl algıladığını ve zihinlerinde nasıl şemalaştırdığını gösteren harita türü hangisidir?",
+    "choices": ["Topografya Haritası", "Dasimetrik Harita", "Zihin Haritası", "Akış Haritası", "Kartogram"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 30,
+    "question": "Haritadaki nesnelerin gerçek alanlarından ziyade, temsil ettikleri verinin değerine göre boyutlarının değiştirildiği şematik haritalara ne ad verilir?",
+    "choices": ["Koroplet Harita", "Kartogram", "Nokta Yoğunluk Haritası", "İzoline Harita", "Fiziki Harita"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "Aşağıdakilerden hangisi vektörel verinin bir dezavantajıdır?",
+    "choices": ["Dosya boyutunun küçük olması", "Yüksek geometrik hassasiyet", "Karmaşık veri yapısı", "Ağ analizlerine uygunluk", "Ölçekten bağımsızlık"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 32,
+    "question": "Coğrafi bilgi sistemlerinde (CBS) 'öznitelik verisi' neyi ifade eder?",
+    "choices": ["Konum bilgisini", "Nesnenin ne olduğunu ve özelliklerini", "X, Y koordinatlarını", "Projeksiyon türünü", "Harita ölçeğini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "question": "GPS (Küresel Konum Belirleme Sistemi) uydularından gelen sinyallerle konum belirlerken en az kaç uyduya ihtiyaç duyulur?",
+    "choices": ["1", "2", "3", "4", "24"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 34,
+    "question": "Harita tasarımında yazı fontları seçilirken aşağıdakilerden hangisine dikkat edilmelidir?",
+    "choices": ["En süslü font seçilmeli", "Olabildiğince sade ve okunaklı olmalı", "Tüm yazılar aynı boyutta olmalı", "Yazılar her zaman dikey yazılmalı", "Renkler her zaman kırmızı olmalı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "question": "Yer şekillerinin boyut ve niceliksel olarak analiz edilmesine ne ad verilir?",
+    "choices": ["Kartografya", "Fotogrametri", "Morfometri", "Jeoloji", "Meteoroloji"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 36,
+    "question": "İzohips eğrilerinin birbirine çok yakınlaştığı (sıklaştığı) yerlerde aşağıdakilerden hangisi doğrudur?",
+    "choices": ["Eğim azdır", "Eğim fazladır", "Yükselti sıfırdır", "Akarsu akış hızı düşüktür", "Yol yapımı kolaydır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "Akarsuların taşıdığı malzemeleri deniz kıyısında biriktirmesiyle oluşan üçgen şeklindeki düzlüğe ne ad verilir?",
+    "choices": ["Plato", "Vadi", "Delta", "Sırt", "Körfez"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 38,
+    "question": "Dünya üzerindeki herhangi iki nokta arasındaki en kısa mesafeyi birleştiren eğriye ne denir?",
+    "choices": ["Loksodrom", "Ortodrom", "Ekvator", "Paralel", "Meridyen"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "Haritacılıkta kullanılan ve Türkiye'nin de üyesi olduğu uluslararası datum sistemi hangisidir?",
+    "choices": ["WGS84", "NAD27", "ED50", "SAD69", "SK-42"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "Bir haritanın başlığı seçilirken aşağıdakilerden hangisinden kaçınılmalıdır?",
+    "choices": ["Yer adından", "Konunun özetinden", "Lüzumsuz 'Haritası' kelimesinden", "Okunaklı fonttan", "Kısa ifadelerden"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 41,
+    "question": "Haritalarda 'genelleştirme' işlemi ne zaman yapılır?",
+    "choices": ["Ölçek büyütüldüğünde", "Ölçek küçültüldüğünde", "Renkler değiştirildiğinde", "Yeni bir veri eklendiğinde", "Yazıcıdan çıktı alırken"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "Aşağıdakilerden hangisi 'nicel haritalama' tekniklerinden biridir?",
+    "choices": ["Zihin Haritaları", "Turist Haritaları", "Duygu Durum Haritaları", "Nokta Yoğunluk Haritaları", "Subjektif Haritalar"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 43,
+    "question": "Dasimetrik haritaların koroplet haritalardan en temel farkı nedir?",
+    "choices": ["Sadece siyah-beyaz olmaları", "Verileri idari sınırlardan bağımsız, gerçek dağılış alanlarına göre göstermeleri", "Ölçeklerinin olmaması", "Sadece dijital ekranlarda kullanılmaları", "El ile çizilmeleri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "Haritacılıkta 'kartografya' kelimesi hangi kökten türemiştir?",
+    "choices": ["Latince: Carta (Kâğıt) ve Graphia (Yazmak)", "Yunanca: Geo (Yer) ve Metron (Ölçüm)", "Arapça: Harita (Pusula)", "Fransızca: Plan (Çizim)", "İngilizce: Map (Mekân)"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "Aşağıdaki harita türlerinden hangisi 'genel haritalar' grubuna girer?",
+    "choices": ["Jeoloji Haritası", "Topografya Haritası", "Toprak Haritası", "Nüfus Haritası", "İklim Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "Haritadaki 1 cm'lik mesafenin gerçekte 5 km'ye karşılık geldiğini belirten '1 cm = 5 km' ifadesi hangi ölçek türüdür?",
+    "choices": ["Sayısal Ölçek", "Kesir Ölçek", "Sözel Ölçek", "Doğrusal Ölçek", "Değişken Ölçek"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 47,
+    "question": "Projeksiyonlarda 'deformasyon' neyi ifade eder?",
+    "choices": ["Haritanın yırtılmasını", "Küresel yüzeyin düzleme aktarılırken oluşan bozulmaları", "Harita üzerindeki yazıları", "Harita renklerinin solmasını", "Ölçek hesaplama hatalarını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "Aşağıdakilerden hangisi 'beşeri coğrafya' unsurlarından biridir?",
+    "choices": ["Akarsular", "Dağlar", "Nüfus yoğunluğu", "Bitki örtüsü", "Toprak tipi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "Harita tasarımında kullanılan 'lejant' kısmında ne yer alır?",
+    "choices": ["Haritanın basıldığı matbaa adı", "Haritada kullanılan sembollerin ve renklerin anlamları", "Haritayı çizenin özgeçmişi", "Sadece haritanın başlığı", "Haritanın fiyatı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "question": "Ekvator çevresindeki bölgeleri en az bozulmayla göstermek için hangi projeksiyon türü tercih edilmelidir?",
+    "choices": ["Konik Projeksiyon", "Silindirik Projeksiyon", "Düzlem Projeksiyon", "Azimutal Projeksiyon", "Gnomonik Projeksiyon"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 51,
+    "question": "Kutup bölgelerini en iyi gösteren projeksiyon türü hangisidir?",
+    "choices": ["Silindirik Projeksiyon", "Konik Projeksiyon", "Düzlem Projeksiyon", "Mercator Projeksiyonu", "Transversal Projeksiyon"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 52,
+    "question": "Türkiye gibi orta kuşakta bulunan ülkeleri en az bozulmayla göstermek için hangi projeksiyon uygundur?",
+    "choices": ["Silindirik Projeksiyon", "Düzlem Projeksiyon", "Konik Projeksiyon", "Ortografik Projeksiyon", "Gnomonik Projeksiyon"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 53,
+    "question": "1/200.000 ölçekli bir harita 2 kez büyütülürse yeni ölçeği ne olur?",
+    "choices": ["1/400.000", "1/100.000", "1/200.000", "1/50.000", "1/800.000"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 54,
+    "question": "Harita üzerinde ölçülen uzunlukları doğrudan arazi uzunluğuna çevirmeye yarayan, harita üzerine çizilmiş cetvele ne ad verilir?",
+    "choices": ["Kesir ölçek", "Çizgi (Doğrusal) ölçek", "Mikyas", "Sözel ölçek", "Eşel"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 55,
+    "question": "Arazide 20 km olan bir mesafe haritada 5 cm olarak gösterilmişse bu haritanın ölçeği nedir?",
+    "choices": ["1/4.000", "1/40.000", "1/400.000", "1/2.000.000", "1/5.000.000"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 56,
+    "question": "Haritacılıkta 'datum' neyi tanımlar?",
+    "choices": ["Harita üzerindeki veriyi", "Yeryüzü ölçümlerinde kullanılan başlangıç noktasını ve referans sistemini", "Haritanın tarihini", "Harita lejantını", "Harita kağıdının kalitesini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 57,
+    "question": "Aşağıdakilerden hangisi vektörel veri yapısında 'çizgi' özelliğiyle gösterilir?",
+    "choices": ["Şehir merkezleri", "Binalar", "Akarsular ve yollar", "Orman alanları", "Göller"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 58,
+    "question": "Raster verilerde görüntünün netliği ve kalitesi neye bağlıdır?",
+    "choices": ["Renk sayısına", "Çözünürlüğe (Piksel boyutuna)", "Veri tabanının türüne", "Haritanın başlığına", "Yazıcı markasına"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 59,
+    "question": "Coğrafi Bilgi Sistemleri (CBS) içerisinde analizler yapmak için en uygun veri modellerinden biri olan, komşuluk ve bağlantı ilişkilerini tanımlayan yapı hangisidir?",
+    "choices": ["Spagetti Model", "Topolojik Veri Modeli", "Bağımsız Model", "Görüntü Modeli", "Hücresel Model"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 60,
+    "question": "Harita üzerinde 1 cm, arazide 100 metreyi temsil ediyorsa bu haritanın ölçeği aşağıdakilerden hangisidir?",
+    "choices": ["1/100", "1/1.000", "1/10.000", "1/100.000", "1/1.000.000"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 61,
+    "question": "Aşağıdakilerden hangisi haritalarda kullanılan 'özel harita' (tematik harita) örneklerinden biri değildir?",
+    "choices": ["Sıcaklık Haritası", "Bitki Örtüsü Haritası", "Dünya Siyasi Haritası", "Turizm Haritası", "Sanayi Haritası"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 62,
+    "question": "Haritalarda yükselti basamaklarını göstermek için hangi renk genellikle 'deniz seviyesine en yakın' (0-200 m) yerler için kullanılır?",
+    "choices": ["Sarı", "Turuncu", "Kahverengi", "Yeşil", "Beyaz"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 63,
+    "question": "En yüksek dağ zirveleri ve kalıcı karlar (buzullar) fiziki haritalarda genellikle hangi renkle temsil edilir?",
+    "choices": ["Koyu Kahverengi", "Gri", "Mavi", "Beyaz", "Siyah"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 64,
+    "question": "Denizlerdeki derinlik noktalarını birleştiren eğrilere ne ad verilir?",
+    "choices": ["İzohips", "İzobat (Eş Derinlik)", "İzobar", "İzoterm", "İzohalin"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 65,
+    "question": "Harita projeksiyonu seçerken dikkate alınması gereken en önemli iki özellik hangisidir?",
+    "choices": ["Haritanın rengi ve kağıdı", "Haritanın amacı ve gösterilecek bölgenin konumu", "Haritayı çizen kişi ve kurum", "Haritanın basım yılı ve fiyatı", "Haritadaki yazı fontu ve boyutu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 66,
+    "question": "Dünya haritasını ilk kez tek bir atlas altında toplayan ve 'Atlas' sözcüğünü kullanan kişi kimdir?",
+    "choices": ["Gerardus Mercator", "Abraham Ortelius", "Ptolemy", "Eratosthenes", "Vasco da Gama"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 67,
+    "question": "Haritacılıkta kullanılan ve '0' dereceli başlangıç meridyeni olarak kabul edilen yer neresidir?",
+    "choices": ["Paris", "Roma", "İstanbul", "Greenwich (Londra)", "Washington D.C."],
+    "correctAnswer": 3
+  },
+  {
+    "id": 68,
+    "question": "Ekvatordan kutuplara doğru gidildikçe iki meridyen arasındaki mesafe nasıl değişir?",
+    "choices": ["Artar", "Değişmez", "Önce azalır sonra artar", "Daralır (Azalır)", "Sadece okyanuslarda artar"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 69,
+    "question": "Haritada kullanılan simgelerin listesine ne ad verilir?",
+    "choices": ["İndeks", "Giriş", "Kaynakça", "Lejant", "Katalog"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 70,
+    "question": "Sayısal harita üretiminde kullanılan 'sayısallaştırma masası' yerini günümüzde neye bırakmıştır?",
+    "choices": ["Daktilo", "Ekran sayısallaştırması (on-screen digitizing)", "Pusula", "Fotokopi makinesi", "Hesap makinesi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 71,
+    "question": "Haritacılıkta 'vektörel alan' (poligon) özelliği aşağıdakilerden hangisini temsil edebilir?",
+    "choices": ["Bir şehir merkezini", "Bir otoyolu", "Bir ülke sınırını veya bir gölü", "Bir elektrik direğini", "Bir ağacı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 72,
+    "question": "CBS'de verilerin toplanması aşamasında 'uzaktan algılama' (remote sensing) ne anlama gelir?",
+    "choices": ["Verilere el ile dokunmak", "Yerinde yapılan ölçümler", "Uçak veya uydulardaki sensörlerle cisimlere temas etmeden bilgi toplama", "Anket yapma", "Eski kitapları okuma"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 73,
+    "question": "İzohips haritalarında birbirini çevreleyen kapalı eğrilerin en içte olanı neyi temsil eder?",
+    "choices": ["En derin yeri", "En yüksek noktayı (Zirveyi)", "Deniz kıyısını", "Ova düzlüğünü", "Akarsu ağzını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 74,
+    "question": "Haritadaki izohips eğrileri arasında bir 'ok' işareti varsa bu neyi ifade eder?",
+    "choices": ["Zirveyi", "Sırtı", "Kapalı çukuru (Krater, obruk vb.)", "Vadiyi", "Akarsu yönünü"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 75,
+    "question": "Hipsometrik eğri analizi bir bölgenin hangi özelliği hakkında bilgi verir?",
+    "choices": ["Nüfus yapısı", "Bitki örtüsü türleri", "Yükselti basamaklarının alansal dağılımı", "Jeolojik yaş", "Toprak verimliliği"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 76,
+    "question": "Jeomorfoloji haritalarında 'mavi' renk tonları genellikle neyi ifade etmek için kullanılır?",
+    "choices": ["Buzulları", "Bitki örtüsünü", "Akarsu ve göl süreçlerini (Flüvyal)", "Karstik şekilleri", "Yolları"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 77,
+    "question": "Haritacılıkta kullanılan ve 'insanlık yararına ileri teknolojilerin kullanılması' olarak tanımlanan yeni kavram hangisidir?",
+    "choices": ["Genelleştirme", "Mekânsal Zekâ (GeoAI)", "Bakı Analizi", "Datum Seçimi", "Projeksiyon Hatası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 78,
+    "question": "İngiliz ölçü sisteminde kullanılan ve ölçeği 'bir inç bir mildir' şeklinde olan haritaların sayısal ölçeği nedir? (1 mil = 63.360 inç)",
+    "choices": ["1/1.000", "1/63.360", "1/100.000", "1/5.000", "1/1.000.000"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 79,
+    "question": "Aşağıdakilerden hangisi haritaların küçültülmesi veya büyütülmesinde kullanılan yöntemlerden biridir?",
+    "choices": ["Kareler Ağı Yöntemi", "Morfometri Yöntemi", "Bakı Analizi", "Sayım Yöntemi", "İstatistik Yöntemi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 80,
+    "question": "Bozulmaların çok olduğu projeksiyonlarla çizilen haritalarda, mesafeleri daha doğru ölçmek için kullanılan ölçek türü hangisidir?",
+    "choices": ["Kesir Ölçek", "Değişkenli Çizgi Ölçek", "Sayısal Ölçek", "Sözel Ölçek", "Büyük Ölçek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 81,
+    "question": "Arazide eğri bir hattın (yol veya dere gibi) uzunluğunu harita üzerinde ölçmek için kullanılan küçük tırtıklı tekerleği olan araca ne ad verilir?",
+    "choices": ["Pantograf", "Pergel", "Kürvimetre", "Teodolit", "Total Station"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 82,
+    "question": "Harita duyarlılığı 1:1.000 ölçekli bir haritada ±10 cm ise, bu harita 1:500 ölçeğine büyütülürse hata payı ne olur?",
+    "choices": ["±5 cm", "±10 cm", "±20 cm", "Sıfır olur", "±50 cm"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 83,
+    "question": "Haritaları mekanik olarak büyütmek veya küçültmek için kullanılan eklemli araca ne denir?",
+    "choices": ["Kürvimetre", "Pantograf", "Pusula", "Mikroskop", "Teleskop"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 84,
+    "question": "Türkiye'de askeri haritaların üretilmesinden sorumlu olan genel müdürlük hangisidir?",
+    "choices": ["Tapu ve Kadastro Genel Müdürlüğü", "MGM", "Harita Genel Müdürlüğü (HGM)", "DSİ", "Karayolları Genel Müdürlüğü"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 85,
+    "question": "Haritada 'lokasyon haritası' ne işe yarar?",
+    "choices": ["Haritanın fiyatını gösterir", "Harita üzerindeki nesnelerin boyunu ölçer", "Haritası yapılan alanın daha geniş bir coğrafya içindeki yerini gösterir", "Sadece dağları gösterir", "Haritanın renk paletini belirler"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 86,
+    "question": "Bir harita projesi hazırlanırken verilmesi gereken en temel ve ilk karar nedir?",
+    "choices": ["Haritanın rengi", "Haritanın ölçeği", "Haritanın kağıt tipi", "Haritayı kimin çizeceği", "Haritanın ne zaman basılacağı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 87,
+    "question": "Haritada kullanılan sembollerin boyutunun, temsil ettikleri sayısal değerle orantılı olduğu harita türü hangisidir?",
+    "choices": ["Koroplet Harita", "Orantılı Sembol Haritası", "Dasimetrik Harita", "Zihin Haritası", "Fiziki Harita"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 88,
+    "question": "Ülkelerin siyasi eğilimlerini veya seçim sonuçlarını göstermek için en çok kullanılan harita türü hangisidir?",
+    "choices": ["Bakı Haritası", "Seçim Haritaları (Tematik)", "Eğim Haritası", "Toprak Haritası", "Köy Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 89,
+    "question": "Harita tasarımında kullanılan 'görsel hiyerarşi' neyi ifade eder?",
+    "choices": ["Haritanın sadece en üst kısmını", "Haritadaki bilgilerin önem sırasına göre vurgulanmasını", "Harita renklerinin alfabetik sıralanmasını", "Harita ölçeğinin değişmesini", "Haritadaki yazı fontlarının büyümesini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 90,
+    "question": "Haritadaki 1 cm gerçekte 10.000.000 cm'ye karşılık geliyorsa bu haritanın ölçeği nasıldır?",
+    "choices": ["Çok büyük ölçeklidir", "Küçük ölçeklidir", "Orta ölçeklidir", "Hatasızdır", "Sadece şehir merkezini gösterir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 91,
+    "question": "Mekânsal verilerin yönetiminde 'katman' (layer) kavramı neyi ifade eder?",
+    "choices": ["Haritanın ağırlığını", "Farklı türdeki coğrafi verilerin (yol, bina, nehir vb.) üst üste çakıştırılabilen ayrı tablolarını", "Harita kağıdının kalınlığını", "Harita üzerindeki tozları", "Sadece yükselti değerlerini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 92,
+    "question": "Coğrafi bilgi sistemlerinde (CBS) kullanılan 'metaveri' (metadata) nedir?",
+    "choices": ["Büyük veridir", "Veri hakkındaki veridir (kaynak, tarih, koordinat sistemi bilgisi vb.)", "Sadece yükselti verisidir", "Harita üzerindeki resimlerdir", "CBS yazılımının adıdır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 93,
+    "question": "Arazi ölçümlerinde yüksek hassasiyetli koordinat belirlemek için kullanılan profesyonel cihaz hangisidir?",
+    "choices": ["Pusula", "El GPS'i", "Total Station", "Barometre", "Kronometre"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 94,
+    "question": "İzohips haritalarında deniz kıyısındaki dik yamaçlara (uçurum) ne ad verilir?",
+    "choices": ["Delta", "Falez (Yalıyar)", "Plato", "Vadi", "Boyun"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 95,
+    "question": "Morfometrik analizlerde kullanılan 'Drenaj Yoğunluğu' neyin göstergesidir?",
+    "choices": ["Hava kirliliğinin", "Toprak verimliliğinin", "Akarsu ağının sıklığının ve erozyon potansiyelinin", "Bölgedeki insan sayısının", "Yeraltı suyu miktarının"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 96,
+    "question": "Aşağıdakilerden hangisi bir haritanın tasarımında 'estetik' kadar önemli olan unsurdur?",
+    "choices": ["Çok renkli olması", "Haritanın işlevselliği ve doğruluğu", "Haritayı çizenin imzası", "Haritanın boyutu", "Kullanılan sembollerin karmaşıklığı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 97,
+    "question": "Haritalarda 'sayısal veri' (nicel) dışında kullanılan, isim ve sıfatları gruplandıran veri kategorisine ne denir?",
+    "choices": ["Rasyonel", "Nominal (Nitel)", "İstatistiksel", "Koordinat", "Sayısal"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 98,
+    "question": "İzohips haritalarında iki tepe arasında kalan alçak düzlüğe ne ad verilir?",
+    "choices": ["Zirve", "Sırt", "Boyun", "Vadi", "Delta"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 99,
+    "question": "Aşağıdakilerden hangisi haritalarda kullanılan 'ikincil veri kaynaklarından' biridir?",
+    "choices": ["Arazi gözlemi", "Daha önce basılmış bir jeoloji haritası", "Anlık GPS ölçümü", "İHA fotoğrafları", "Uydu görüntüsü"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 100,
+    "question": "CBS teknolojilerinden önce yer şekillerinin incelenmesinde en yaygın kullanılan temel materyal hangisiydi?",
+    "choices": ["Akıllı telefonlar", "İnternet siteleri", "Topoğrafya haritaları ve hava fotoğrafları", "Gazete haberleri", "Radyo dalgaları"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 101,
+    "question": "Çekya'nın Pavlov çevresinde bulunan ve bir mamut dişi üzerine oyulmuş, dünyanın en eski harita örneklerinden biri kabul edilen buluntu hangi döneme aittir?",
+    "choices": ["Paleolitik", "Neolitik", "Tunç Çağı", "Demir Çağı", "Orta Çağ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 102,
+    "question": "Babillere ait bir kil tablette tasvir edilen ve iki tepe arasında bulunan yer şekli hangisidir?",
+    "choices": ["Sırt", "Vadi", "Delta", "Plato", "Boyun"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 103,
+    "question": "Orta Çağ'da Avrupa'da yapılan, dünyayı disk şeklinde ve okyanuslarla çevrili gösteren haritalara ne ad verilir?",
+    "choices": ["Portolan", "İzoline", "Mappa Mundi", "Kartogram", "Topoğrafya"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 104,
+    "question": "1378 yılında Cresques Abraham tarafından çizilen ve kozmografi, astronomi bilgilerini de içeren ünlü atlas hangisidir?",
+    "choices": ["Piri Reis Atlası", "Katalan Atlası", "Venedik Atlası", "Ortelius Atlası", "Mercator Atlası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 105,
+    "question": "1154 yılında Sicilya Kralı Roger için hazırlanan ve 'Tabula Rogeriana' olarak bilinen gümüş levha üzerindeki dünya haritası kime aittir?",
+    "choices": ["İbn-Haldun", "Batlamyus", "El-İdrisi", "Kaşgarlı Mahmud", "Piri Reis"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 106,
+    "question": "Kaşgarlı Mahmud'un ünlü eseri Dîvânü Lugāti't-Türk'te yer alan haritanın merkezinde hangi şehir bulunmaktadır?",
+    "choices": ["İstanbul", "Bağdat", "Mekke", "Balasagun", "Semerkant"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 107,
+    "question": "Piri Reis'in denizcilik bilgilerini ve haritalarını topladığı, 1521 yılında tamamladığı ünlü eseri hangisidir?",
+    "choices": ["Mir'âtü'l-memâlik", "Kitâb-ı Bahriyye", "Kitâbü'l-Muhît", "Mukaddime", "Cihannüma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 108,
+    "question": "18. yüzyılda haritacılıkta yaşanan reform ile haritalardan aşağıdakilerden hangisi temizlenmeye başlanmıştır?",
+    "choices": ["Ölçek bilgisi", "Lejant", "Deniz canavarları ve aslan figürleri", "Koordinat çizgileri", "Yer adları"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 109,
+    "question": "Fransız Devrimi'nin haritacılığa yansıması olarak kabul edilen, Ekvatordan Kutba kadar olan meridyen uzunluğunun on milyonda biri olarak tanımlanan ölçü birimi hangisidir?",
+    "choices": ["İnç", "Yarda", "Metre", "Mil", "Fersah"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 110,
+    "question": "Napolyon kadastrosu kapsamında kırsal alanlarda kullanılan standart ölçek aşağıdakilerden hangisidir?",
+    "choices": ["1/500", "1/1000", "1/2500", "1/5000", "1/10.000"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 111,
+    "question": "Yapay zekâ ve mekânsal teknolojilerin birleşimiyle oluşan, siber dünyadan yerküreye kadar tüm olguların modellenmesini sağlayan kavram hangisidir?",
+    "choices": ["Mekânsal Zekâ (GeoAI)", "Büyük Veri", "Bulut Bilişim", "Metaverse", "Blok Zinciri"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 112,
+    "question": "Modern Türk haritacılığının temeli sayılan 'Harita Müdüriyet-i Umumiyesi' yasası hangi tarihte yürürlüğe girmiştir?",
+    "choices": ["29 Ekim 1923", "2 Mayıs 1925", "1 Kasım 1928", "24 Temmuz 1924", "30 Ağustos 1922"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 113,
+    "question": "Türkiye'de 1954 yılında kabul edilen ve daha sonra ED-50 datumuna dönüştürülen ilk ulusal datum hangisidir?",
+    "choices": ["WGS-84", "TUD-54", "NAD-27", "TUDKA-99", "ITRF-96"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 114,
+    "question": "Türkiye'nin yükseklik ölçümlerinde temel teşkil eden ve 1992-1999 yıllarında güncellenen ağ hangisidir?",
+    "choices": ["Nirengi Ağı", "Manyetik Ağ", "Türkiye Ulusal Düşey Kontrol Ağı (TUDKA)", "Gravite Ağı", "Sınır Ağı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 115,
+    "question": "Sivrihisar Kalesi'nin fethinde istihbarat haritası olarak kullanılan ve bir Türk kızı tarafından dokunduğu rivayet edilen kilime ne ad verilir?",
+    "choices": ["Ejderhalı Kilim", "Çiçekli Heybe", "Bacalı Seccade (Kilim)", "Gökkuşağı Dokuması", "Lale Bahçesi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 116,
+    "question": "Dünyanın merkezkaç ve yerçekimi kuvvetleri tarafından belirlenen, düzeçleme sıfırından geçen potansiyel yükselti yüzeyine ne denir?",
+    "choices": ["Elipsoid", "Sferoid", "Geoid", "Topografya", "Datum"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 117,
+    "question": "Harita yapımında kullanılan, dünyanın matematiksel olarak en düzgün temsil edildiği üç boyutlu geometrik şekil hangisidir?",
+    "choices": ["Dönel Elipsoid", "Küp", "Piramit", "Konu", "Silindir"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 118,
+    "question": "Günümüzde GPS sistemlerinin ve Google Maps gibi uygulamaların kullandığı küresel datum hangisidir?",
+    "choices": ["ED50", "NAD27", "SAD69", "WGS84", "SK-42"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 119,
+    "question": "Osmanlı döneminde başlangıç meridyeni olarak kabul edilen yer neresidir?",
+    "choices": ["Topkapı Sarayı", "Ayasofya Camii Kubbesi", "Galata Kulesi", "Sultanahmet Camii", "Üsküdar İskelesi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 120,
+    "question": "Dünya üzerindeki bir noktanın tam karşı tarafında, azami uzaklıkta bulunan noktasına ne ad verilir?",
+    "choices": ["Koordinat", "Zenit", "Nadir", "Antipod", "Meridyen"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 121,
+    "question": "Denizcilerin pusula açısını hiç değiştirmeden takip ettikleri eğik gidiş hattına ne denir?",
+    "choices": ["Ortodrom", "Ekliptik", "Loksodrom", "İzohips", "İzobar"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 122,
+    "question": "Dünya üzerinde iki nokta arasındaki en kısa mesafe olan ve büyük daire yayı üzerinden geçen yola ne denir?",
+    "choices": ["Loksodrom", "Ortodrom", "Enlem", "Boylam", "Paralel"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 123,
+    "question": "Düzlem projeksiyonların diğer adı aşağıdakilerden hangisidir?",
+    "choices": ["Silindirik Projeksiyon", "Konik Projeksiyon", "Azimutal (Zenital) Projeksiyon", "Piramidal Projeksiyon", "Transversal Projeksiyon"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 124,
+    "question": "Işık kaynağının kürenin karşı kutbuna yerleştirilmesiyle elde edilen düzlem projeksiyon türü hangisidir?",
+    "choices": ["Gnomonik", "Stereografik", "Ortografik", "Ekidistant", "Lambert"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 125,
+    "question": "Işık kaynağının sonsuzda (uzayda) olduğu varsayılan ve dünyanın uydudan görünüşüne en yakın görüntüyü veren projeksiyon hangisidir?",
+    "choices": ["Ortografik", "Gnomonik", "Stereografik", "Lambert", "Bonne"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 126,
+    "question": "Merkezi (Gnomonik) projeksiyonun en temel özelliği aşağıdakilerden hangisidir?",
+    "choices": ["Alan koruması", "Hatasız olması", "Büyük daire yaylarını (en kısa yol) doğru hat olarak göstermesi", "Kutup bölgelerini hatasız göstermesi", "Tüm dünyayı tek seferde göstermesi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 127,
+    "question": "Radyo dalgalarıyla yön tayin ederek uçuş yöntemi (radyo-navigasyon) için en uygun olan konik projeksiyon hangisidir?",
+    "choices": ["Bonne Projeksiyonu", "Mercator Projeksiyonu", "Lambert Konformal Konik Projeksiyonu", "Robinson Projeksiyonu", "Goode Projeksiyonu"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 128,
+    "question": "Silindirik projeksiyonların genelinde meridyen ve paralellerin görünümü nasıldır?",
+    "choices": ["Eğri çizgilerdir", "Daire yaylarıdır", "Birbirini dik kesen düz doğrular şeklindedir", "Spiral şeklindedir", "Kesikli çizgilerdir"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 129,
+    "question": "UTM projeksiyonunda dünya toplam kaç dilime (zon) ayrılmıştır?",
+    "choices": ["12", "24", "30", "60", "360"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 130,
+    "question": "Türkiye toprakları UTM projeksiyon sisteminde kaç numaralı dilimlerde yer alır?",
+    "choices": ["1-5", "10-15", "35-38", "50-55", "180-185"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 131,
+    "question": "Harita ölçeği paydasındaki sayıya (m) teknik olarak ne ad verilir?",
+    "choices": ["Mikyas", "Ölçek Modülü (Katsayısı)", "Eşel", "Skala", "Datum"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 132,
+    "question": "Harita Uzunluğu (HU) / Arazi Uzunluğu (AU) işlemi bize aşağıdakilerden hangisini verir?",
+    "choices": ["Koordinatları", "Eğim açısını", "Harita Ölçeğini", "Yükselti farkını", "Alan hesabını"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 133,
+    "question": "Harita üzerinde bir parçanın uzunluğunun insan gözüyle yaklaşık olarak kaç mm doğrulukla tahmin edilebileceği kabul edilir (Grafik hata)?",
+    "choices": ["0,01 mm", "0,1 mm", "0,2 mm", "1,0 mm", "2,0 mm"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 134,
+    "question": "Ölçümleri üç basamaklı hassasiyetle (örneğin metre, desimetre ve santimetre) yapmaya imkân veren gelişmiş çizgi ölçek türü hangisidir?",
+    "choices": ["Basit Çubuk Ölçek", "Diyagonal (Verev) Ölçek", "Sözel Ölçek", "Sayısal Ölçek", "Değişken Ölçek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 135,
+    "question": "Kilometre ve Mil gibi farklı uzunluk birimlerini aynı anda gösteren ölçek türüne ne denir?",
+    "choices": ["Basit Ölçek", "Karşılaştırmalı Ölçek", "Büyük Ölçek", "Küçük Ölçek", "Sözel Ölçek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 136,
+    "question": "Bozulmaların çok olduğu Mercator dünya haritalarında, enlemlere göre değişen mesafeleri ölçmek için kullanılan ölçek hangisidir?",
+    "choices": ["Sayısal Ölçek", "Kesir Ölçek", "Değişkenli Çizgi Ölçeği", "Sözel Ölçek", "Hatasız Ölçek"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 137,
+    "question": "İki harita arasında ölçek karşılaştırması yaparken kullanılan 'm2/m1 = HU1/HU2' formülüyle aşağıdakilerden hangisi hesaplanır?",
+    "choices": ["Alan farkı", "Bilinmeyen ölçek modülü", "Eğim oranı", "Koordinat farkı", "Zaman farkı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 138,
+    "question": "Haritadaki kıvrımlı yolların veya nehirlerin uzunluğunu ölçmek için kullanılan tırtıklı tekerlekli alet hangisidir?",
+    "choices": ["Pantograf", "Kürvimetre (Opisometre)", "Pusula", "Teodolit", "Pergel"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 139,
+    "question": "Bir haritayı mekanik olarak istenen oranda küçültmeye veya büyütmeye yarayan eklemli araca ne denir?",
+    "choices": ["Kürvimetre", "Pantograf", "Planimetre", "Mikroskop", "Sekstant"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 140,
+    "question": "İngiliz sisteminde '1 inç = 1 mil' olan bir haritanın sayısal karşılığı nedir? (1 Mil = 63.360 inç)",
+    "choices": ["1/1000", "1/5000", "1/63.360", "1/100.000", "1/1.000.000"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 141,
+    "question": "Haritalarda yer şekillerinin daha belirgin görünmesi için dikey boyutun yatay boyuta göre daha fazla büyütülmesine ne ad verilir?",
+    "choices": ["Ölçek küçültme", "Dikey abartma", "Genelleştirme", "Projeksiyon hatası", "Lejant oluşturma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 142,
+    "question": "1/25.000 ölçekli bir haritada 8 cm olarak ölçülen bir uzunluğun arazideki gerçek karşılığı kaç km'dir?",
+    "choices": ["1 km", "2 km", "4 km", "8 km", "20 km"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 143,
+    "question": "Harita duyarlılığı 1:1.000 ölçekte ±10 cm ise, bu harita 1:500 ölçeğine büyütülürse hata payı ne kadar olur?",
+    "choices": ["±5 cm", "±10 cm", "±20 cm", "±50 cm", "Sıfır"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 144,
+    "question": "Bilinmeyen bir haritanın ölçeğini bulmak için aşağıdakilerden hangisi bir 'kılavuz çizgi' olarak kullanılabilir?",
+    "choices": ["Haritadaki ağaçlar", "Nehir genişliği", "Meridyen ve paralel çizgileri", "Şehir binaları", "Harita kağıdının rengi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 145,
+    "question": "Haritalarda uzunluklar 1/2 oranında küçülürse, kapladıkları alan hangi oranda küçülür?",
+    "choices": ["1/2", "1/4", "1/8", "1/16", "Değişmez"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 146,
+    "question": "Herkesin kullanımına sunulan, konum bilgisinin ön planda olduğu Fiziki ve Siyasi harita grubuna ne ad verilir?",
+    "choices": ["Genel Haritalar", "Özel Haritalar", "Tematik Haritalar", "Zihin Haritaları", "Turist Haritaları"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 147,
+    "question": "Taşınmaz malların (arsa, tarla) sınırlarını ve mülkiyet bilgilerini gösteren büyük ölçekli haritalara ne ad verilir?",
+    "choices": ["Jeoloji Haritası", "Topoğrafya Haritası", "Kadastral Haritalar", "Siyasi Haritalar", "Bakı Haritaları"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 148,
+    "question": "Bir bölgenin fiziksel özelliklerini, yükseltisini, dağlarını ve akarsularını ayrıntılı gösteren mimarlık ve mühendislikte kullanılan haritalar hangisidir?",
+    "choices": ["İdari Haritalar", "Nüfus Haritaları", "Topoğrafya Haritaları", "Seçim Haritaları", "Ekonomi Haritaları"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 149,
+    "question": "Belirli bir konuya odaklanan (jeoloji, iklim, nüfus vb.) haritalara ne ad verilir?",
+    "choices": ["Genel Haritalar", "Özel (Tematik) Haritalar", "Siyasi Haritalar", "Fiziki Haritalar", "Paftalar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 150,
+    "question": "Yeryüzünde bulunan kayaçların fiziksel özelliklerini (litoloji) ve dağılışını gösteren harita türü hangisidir?",
+    "choices": ["Jeoloji Haritası", "Toprak Haritası", "Bakı Haritası", "Kent Haritası", "Hidrografya Haritası"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 151,
+    "question": "Bir bölgenin akarsu ağını, göllerini ve yeraltı su potansiyelini gösteren haritalara ne denir?",
+    "choices": ["Jeomorfoloji Haritası", "Hidrografya Haritası", "İklim Haritası", "Bitki Örtüsü Haritası", "Ulaşım Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 152,
+    "question": "İnsan faaliyetlerinin (tarım, yerleşme, sanayi) arazi üzerindeki dağılışını gösteren harita türü hangisidir?",
+    "choices": ["Jeomorfoloji Haritası", "Arazi Kullanımı Haritaları", "Topoğrafya Haritası", "Deniz Haritası", "Siyasi Harita"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 153,
+    "question": "Ülkelerin sadece sınırlarını gösteren haritalar 'Siyasi', ülke içindeki il ve ilçeleri gösteren haritalar ise ne olarak adlandırılır?",
+    "choices": ["Fiziki Harita", "İdari Haritalar", "Ekonomi Haritası", "Hava Haritası", "Kadastro Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 154,
+    "question": "Farklı eğitim seviyeleri ve kültürlerden gelen çok geniş bir hedef kitlesine hitap eden harita türü hangisidir?",
+    "choices": ["Jeoloji Haritası", "Eğim Haritası", "Turist Haritaları", "Morfometri Haritası", "Bakı Haritası"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 155,
+    "question": "Binaların, parkların ve caddelerin sembollerle, bazen abartılarak gösterildiği kentsel alan haritaları hangisidir?",
+    "choices": ["Dünya Haritası", "Kent Haritaları", "İklim Haritası", "Toprak Haritası", "Bitki Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 156,
+    "question": "Harita tasarım sürecini kontrol eden temel etmenler; Amaç, Gerçeklik, Ölçek ve nedir?",
+    "choices": ["Renk sayısı", "Kağıt kalınlığı", "Kullanım Koşulları", "Çizenin adı", "Haritanın fiyatı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 157,
+    "question": "Haritadaki bilgilerin önem sırasına göre vurgulanmasını sağlayan tasarım ilkesine ne denir?",
+    "choices": ["Lejant tasarımı", "Görsel Hiyerarşi", "Projeksiyon seçimi", "Ölçeklendirme", "Sayısallaştırma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 158,
+    "question": "Kuzey oku üzerinde kuzeyi belirtmek için hangi harfler kullanılabilir?",
+    "choices": ["N veya K", "E veya D", "W veya B", "S veya G", "C veya M"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 159,
+    "question": "Harita tasarımında kullanılan renklerin ve sembollerin açıklamalarının bulunduğu bölüme (lejant) aynı zamanda ne denir?",
+    "choices": ["Başlık", "İndeks", "Harita Anahtarı", "Künye", "Giriş"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 160,
+    "question": "Haritalarda akarsuların 'Mavi', ormanların 'Yeşil' gösterilmesi hangi temel kuralın bir gereğidir?",
+    "choices": ["Tasarruf", "Gerçek dünya ile uyum", "Moda", "Matbaa sınırlaması", "Ölçek zorunluluğu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 161,
+    "question": "Elektronik cihazların ekranlarında kullanılan RGB renk paletinin temel renkleri hangileridir?",
+    "choices": ["Sarı, Mavi, Kırmızı", "Kırmızı, Yeşil, Mavi", "Siyah, Beyaz, Gri", "Turuncu, Pembe, Mor", "Sarı, Yeşil, Turkuaz"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 162,
+    "question": "Yazıcı ve matbaalarda kullanılan CMYK paletinde 'K' harfi hangi rengi temsil eder?",
+    "choices": ["Kırmızı", "Kahverengi", "Key (Siyah)", "Koyu Mavi", "Kurşuni"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 163,
+    "question": "Haritanın kimin tarafından, hangi tarihte ve hangi kaynaktan yapıldığını belirten bilgilere ne ad verilir?",
+    "choices": ["Ölçek", "Metadata (Metaveri)", "Lejant", "Kuzey Oku", "Pafta Numarası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 164,
+    "question": "Projeksiyon ve koordinat bilgileri genellikle haritanın hangi kısmına eklenir?",
+    "choices": ["Tam merkezine", "En üstüne", "Alt kısımlarına veya çerçeve kenarına", "Sadece arkasına", "Harita içine gizlenir"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 165,
+    "question": "Harita tasarımında yazı fontları seçilirken estetikten ziyade neye öncelik verilmelidir?",
+    "choices": ["Renk paletine", "Yazının boyutuna", "Okunabilirliğe", "Fontun tarihine", "Yazarın zevkine"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 166,
+    "question": "Araştırmalar sırasında elde edilen ham sayı, yazı veya sembollere 'Veri' denir. Bu verilerin yorumlanmış haline ne denir?",
+    "choices": ["Sinyal", "Bilgi", "İstatistik", "Grafik", "Tablo"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 167,
+    "question": "Bir verinin haritada kullanılabilmesi için sahip olması gereken en temel özellik nedir?",
+    "choices": ["Çok renkli olması", "Konumsal (mekânsal) adres bilgisinin olması", "Sadece sayılardan oluşması", "En az 100 adet olması", "Kağıt üzerinde olması"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 168,
+    "question": "CBS'de elektrik direkleri veya kuyu noktaları gibi alan kaplamayan nesneler hangi vektörel özellikle gösterilir?",
+    "choices": ["Çizgi", "Poligon", "Nokta", "Piksel", "Grid"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 169,
+    "question": "Yollar ve nehirler gibi uzunluk hesabı yapılabilen ancak alan hesabı yapılamayan vektörel veri tipi hangisidir?",
+    "choices": ["Nokta", "Çizgi", "Alan", "Hücre", "Raster"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 170,
+    "question": "Binalar, göller ve tarlalar gibi hem çevre hem de alan hesabı yapılabilen vektörel veri tipi hangisidir?",
+    "choices": ["Nokta", "Çizgi", "Alan (Poligon)", "Sinyal", "İndeks"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 171,
+    "question": "En basit vektör veri saklama modeli olan ve her detayın koordinatlarının tekrarlanarak depolandığı model hangisidir?",
+    "choices": ["Spagetti Veri Modeli", "Topolojik Model", "Hücresel Model", "Raster Model", "Bulut Model"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 172,
+    "question": "Nesneler arasındaki komşuluk, çakışma ve bağlantı ilişkilerini matematiksel olarak tanımlayan vektör veri modeli hangisidir?",
+    "choices": ["Spagetti Model", "Topolojik Veri Modeli", "Piksel Modeli", "Bağımsız Model", "Görüntü Modeli"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 173,
+    "question": "Arazide bizzat yapılan ölçümler veya GPS ile toplanan veriler hangi tür veri kaynağına girer?",
+    "choices": ["İkincil Veri", "Birincil (Doğrudan) Veri", "Üçüncül Veri", "Dolaylı Veri", "Arşiv Verisi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 174,
+    "question": "Eski bir kağıt haritanın taranıp sayısallaştırılmasıyla elde edilen veriler hangi tür veri kaynağıdır?",
+    "choices": ["Birincil Veri", "İkincil (Dolaylı) Veri", "Canlı Veri", "Saha Verisi", "Hatasız Veri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 175,
+    "question": "Uzaktan algılama sistemlerinde bir alanın farklı zamanlardaki çekim periyodunu ifade eden kavram hangisidir?",
+    "choices": ["Mekânsal Çözünürlük", "Spektral Çözünürlük", "Radyometrik Çözünürlük", "Zamansal Çözünürlük", "Dikey Çözünürlük"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 176,
+    "question": "Yer şekillerinin özelliklerini ve bunların gelişim süreçlerini inceleyen bilim dalı hangisidir?",
+    "choices": ["Kartografya", "Jeoloji", "Jeomorfoloji", "Meteoroloji", "Astronomi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 177,
+    "question": "Bir bölgedeki yükselti basamaklarının alansal dağılış oranlarını gösteren ve yükseltinin yorumlanmasını sağlayan eğriye ne ad verilir?",
+    "choices": ["İzohips", "Hipsometrik Eğri", "Loksodrom", "Eğim Eğrisi", "Sırt Hattı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 178,
+    "question": "Eğim yüzdesi hesaplanırken hangi formül kullanılır?",
+    "choices": ["(Yatay Mesafe / Yükselti) * 100", "(Dikey Yükseklik Farkı / Yatay Mesafe) * 100", "Yükselti + Yatay Mesafe", "Boylam farkı * 111", "Enlem / Ölçek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 179,
+    "question": "Bakı haritalarında 'Düz Alanlar' (yönü olmayan yerler) genellikle hangi sayısal değerle gösterilir?",
+    "choices": ["0", "90", "180", "-1", "360"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 180,
+    "question": "Kabartma haritalarında (Hillshade) ışık kaynağının 'azimut açısı' ve neyi dikkate alınır?",
+    "choices": ["Hava sıcaklığı", "Toprak nemi", "Yükseklik açısı", "Bitki türü", "Nüfus yoğunluğu"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 181,
+    "question": "Eğim değerleri ile vadi-sırt parametrelerinin (topoğrafik açıklık) birleştirilmesiyle elde edilen kırmızımsı harita türü hangisidir?",
+    "choices": ["Fiziki Harita", "Kabartma Haritası", "Kırmızı Rölyef Haritası (RRIM)", "Jeoloji Haritası", "Siyasi Harita"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 182,
+    "question": "Topografik Pozisyon İndeksi (TPI) analizinde temel mantık nedir?",
+    "choices": ["Sadece dağları saymak", "Bir pikselin değerini komşu piksellerin ortalamasıyla karşılaştırmak", "Sadece deniz seviyesini ölçmek", "Enlem ve boylamı çarpmak", "Harita rengini belirlemek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 183,
+    "question": "İzohips haritalarında 'V' şeklinin sivri ucu yüksek değerleri (tepeye doğru) gösteriyorsa bu yer şekli hangisidir?",
+    "choices": ["Sırt", "Vadi", "Delta", "Çukur", "Falez"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 184,
+    "question": "Akarsuların taşıdığı sedimentleri denize döküldüğü yerde biriktirmesiyle oluşan ve yükseklik haritalarında çok alçak-düz görünen şekil hangisidir?",
+    "choices": ["Plato", "Vadi", "Delta", "Kanyon", "Zirve"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 185,
+    "question": "Akarsu havzalarında kullanılan, havzanın akarsu üretme potansiyelini belirleyen morfometrik indis hangisidir?",
+    "choices": ["Hipsometrik İntegral", "Çatallanma Oranı (Rb)", "Bakı Oranı", "Eğim Açısı", "Nüfus Yoğunluğu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 186,
+    "question": "İstatistiksel verilerin idari birimlere göre (il, ülke) renklendirilerek gösterildiği en yaygın tematik harita türü hangisidir?",
+    "choices": ["Nokta Yoğunluk", "Koroplet Harita", "Akış Haritası", "İzoline", "Fiziki Harita"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 187,
+    "question": "Haritada kullanılan sembollerin büyüklüğünün (örneğin daire çapı) verinin sayısal değeriyle orantılı olduğu harita türü hangisidir?",
+    "choices": ["Koroplet", "Orantılı Sembol Haritası", "Dasimetrik", "Zihin Haritası", "Siyasi Harita"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 188,
+    "question": "Verileri idari sınırlardan kurtarıp, dâhil edici ve dışlayıcı ek verilerle gerçek dağılış alanlarına göre gösteren yöntem hangisidir?",
+    "choices": ["Nokta Yoğunluk", "Dasimetrik Harita", "Kartogram", "Fiziki Harita", "Turist Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 189,
+    "question": "Nokta yoğunluk haritalarında 'nokta boyutu' ile ilgili en temel kural nedir?",
+    "choices": ["Her noktada farklı boyutta olmalı", "Nokta boyutu sabit tutulmalıdır", "Noktalar görünmez olmalı", "Noktalar kare şeklinde olmalı", "Sadece mavi renk olmalı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 190,
+    "question": "Sıcaklık (İzoterm), Basınç (İzobar) gibi eşit değere sahip noktaları birleştiren çizgilerle oluşturulan haritalara ne denir?",
+    "choices": ["Koroplet", "İzoline (Eş Çizgi) Haritalar", "Dasimetrik", "Zihin Haritası", "Turist Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 191,
+    "question": "Haritadaki bölgelerin geometrisini (şeklini) bozarak, temsil edilen verinin büyüklüğüne göre alanları genişleten veya daraltan şematik haritalara ne ad verilir?",
+    "choices": ["Koroplet", "Kartogram", "Fiziki Harita", "Bakı Haritası", "Topoğrafya Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 192,
+    "question": "Ticaret yolları, göç hareketleri veya trafik yoğunluğu gibi dinamik olguları göstermek için hangi harita türü kullanılır?",
+    "choices": ["Nokta Yoğunluk", "Akış (Flow) Haritaları", "İzoline", "Topoğrafya", "Jeoloji"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 193,
+    "question": "Bireylerin yaşadıkları şehri veya çevreyi zihinlerinde nasıl canlandırdıklarını ve algıladıklarını gösteren nitel harita türü hangisidir?",
+    "choices": ["Seçim Haritası", "Zihin (Bilişsel) Haritaları", "Nüfus Haritası", "Eğim Haritası", "Ulaşım Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 194,
+    "question": "İnsanların bir mekânda gezerken hissettikleri uyarılma, heyecan veya huzur gibi tepkileri ölçülerek oluşturulan haritalara ne denir?",
+    "choices": ["Ekonomi Haritası", "Duygu Durum Haritaları", "Jeomorfoloji Haritası", "Siyasi Harita", "Turist Haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 195,
+    "question": "Sadece coğrafi gerçekliği değil, aynı zamanda gözlemcinin perspektifini ve yorumunu da içeren haritalama tekniğine ne ad verilir?",
+    "choices": ["Sayısal Haritalama", "Öznel (Subjektif) Haritalama", "Kesin Haritalama", "Askeri Haritalama", "Kadastral Haritalama"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 196,
+    "question": "Nitel haritalar genellikle hangi tür verileri (ölçülemeyen, isim bazlı) göstermek için kullanılır?",
+    "choices": ["Sayısal Veri", "Nominal Veriler", "Rasyonel Veri", "Logaritmik Veri", "Morfometrik Veri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 197,
+    "question": "Paylaşılan özelliklere göre isimlerin ve sıfatların gruplandırıldığı kategoriye ne denir?",
+    "choices": ["Nicel", "Nominal", "İstatistiksel", "Koordinat", "Sayısal"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 198,
+    "question": "Kartografya kelimesinin kökenindeki 'Carta' ve 'Graphia' kelimelerinin anlamı sırasıyla nedir?",
+    "choices": ["Yer-Ölçüm", "Sert Kağıt-Yazmak", "Deniz-Pusula", "Yol-Çizmek", "Gök-Yıldız"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 199,
+    "question": "Haritaların çevre sorunlarının kaynağını bulma ve karar verme süreçlerindeki etkisi hangi işlevine girer?",
+    "choices": ["Süsleme işlevi", "Eğlence işlevi", "Problem çözümüne yardımcı olma işlevi", "Sadece arşivleme", "Fiyat belirleme"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 200,
+    "question": "Günümüzde harita yapımında binlerce yıllık bilgi birikimini dijital araçlarla birleştiren sistemin genel adı nedir?",
+    "choices": ["İnternet", "Coğrafi Bilgi Sistemleri (CBS)", "Sosyal Medya", "Radyo Sistemleri", "Haberleşme Ağı"],
+    "correctAnswer": 1
+  }
+]
