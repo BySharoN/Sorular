@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Aşağıdakilerden hangisi CBS’nin boyut elemanlarından biri değildir?",
+    "choices": ["X", "Y", "Z", "T", "S"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 2,
+    "question": "Aşağıdakilerden hangisi CBS’de artırılmış gerçeklik uygulamalarından biridir?",
+    "choices": ["GPS uygulaması", "CORS uygulaması", "Google Streetview", "RTK uygulaması", "Google Drive"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "Aşağıdakilerden hangisi bir jeoloji haritasında olması beklenen CBS öğelerinden biri değildir?",
+    "choices": ["Vejetasyon", "Formasyon", "Fay", "Tepe", "Yerleşme"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "Aşağıdaki kurumlardan hangisi Türkiye’nin ulusal ölçekte standart Jeoloji haritalarını hazırlamakla görevlidir?",
+    "choices": ["DSİ", "MTA", "TPAO", "HGM", "USGS"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Aşağıdakilerden hangisi bir Uzaktan Algılama cihazına veya tekniğine örnek olamaz?",
+    "choices": ["SAR RADAR", "LIDAR", "İHA", "GPS", "Drone"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 6,
+    "question": "İnsan gözünün duyarlı olduğu elektromanyetik spektrum aşağıdakilerden hangisidir?",
+    "choices": ["Visible light (Görünür ışık)", "Near Infrared", "Far Infrared", "Thermal Infrared", "Ultraviolet"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "“Spatial resolution” kavramı CBS ve uzaktan algılamada neyi ifade eder?",
+    "choices": ["Yüksek çözünürlüğü", "Uzay çözünürlüğü", "Tayf çözünürlüğü", "Dinamik çözünürlüğü", "Yersel çözünürlüğü"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 8,
+    "question": "Aşağıdaki bilim dallarından hangisi Hidroloji bilimi ile yakından ilişkili değildir?",
+    "choices": ["Jeoloji", "Jeomorfoloji", "Coğrafya", "Entomoloji", "Meteoroloji"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 9,
+    "question": "1/25.000 ölçekli topoğrafya haritasının aşağıdaki katmanlarından hangisi su kütlesi verilerini içerir?",
+    "choices": ["Hyd", "Ind", "Pop", "Uti", "Veg"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "Dünyada ve Türkiye’de kişi başı yıllık ortalama su miktarı sırasıyla aşağıdakilerden hangisinde doğru verilmiştir?",
+    "choices": ["7600 m3 - 7600 m3", "1350 m3 - 7600 m3", "5000 m3 - 1000 m3", "7600 m3 - 1350 m3", "1350 m3 - 1350 m3"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "question": "Aşağıdakilerden hangisi temel iklim öğelerinden biri değildir?",
+    "choices": ["Sıcaklık", "Rüzgar", "Nem", "Kara ve Denizlerin Dağılışı", "Basınç"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 12,
+    "question": "Aşağıdakilerden hangisi iklimin doğal çevre üzerindeki doğrudan etkilerinden biri değildir?",
+    "choices": ["Bitki örtüsünün dağılışı", "Akarsu rejimi", "İnsanların kıyafet biçimi", "Toprak türleri", "Göllerin oluşumu"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "Ölçümlerin yapılmadığı alanlarda iklim verisi üretmek ve sürekli yüzeyler oluşturmak için hangi yöntem kullanılır?",
+    "choices": ["Buffer analizi", "3D analizi", "Kriging enterpolasyonu", "Hidrolojik analizler", "Ağ analizi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Aşağıdakilerden hangisi Çok Kriterli Karar Verme (ÇKKV) metotlarından biridir?",
+    "choices": ["Analitik Hiyerarşi Süreci (AHP)", "Çakıştırma Analizi", "Ağ Analizi", "Overlay Analizi", "Uygunluk Analizi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "İklim araştırmalarında CBS aracılığıyla kullanılan yöntemlerden hangisi veri toplamaktan ziyade analiz odaklıdır?",
+    "choices": ["Matematiksel modelleme", "Haritalama çalışmaları", "Jeo-istatistiksel analizler", "Çok kriterli karar verme", "Anket çalışmaları"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 16,
+    "question": "Meteorolojik parametrelerin mekânsallaştırılması aşağıdakilerden hangisi ile mümkün olmaktadır?",
+    "choices": ["Anket çalışmaları", "CBS araçları", "Deneysel çalışmalar", "Sadece gözlem", "İstatistiksel tablolar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Hava istasyonu bulunmayan alanlarda iklim değerlerini tahmin etmek için geliştirilen yöntemlere ne ad verilir?",
+    "choices": ["Mekânsal istatistiksel yöntemler", "Deneysel yöntemler", "Yorumsal yöntemler", "Arazi çalışmaları", "Sosyal anketler"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "Güneş enerjisi panellerinin kurulumunda yer seçimini etkileyen beşerî faktör hangisidir?",
+    "choices": ["Güneşlenme süresi", "Eğim", "Yerleşim ve ulaşım ağına yakınlık", "Bakı", "Jeolojik yapı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "Rüzgar enerjisi potansiyelini belirlemede hangisi doğrudan bir girdi değildir?",
+    "choices": ["Rüzgar hızı", "Rüzgar yönü", "Yükselti", "Enerji nakil hatlarına yakınlık", "Bölgedeki araç sayısı"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 20,
+    "question": "Bir alanın arazi kullanımına uygunluğunu birden fazla faktörü dengeleyerek belirleyen analiz türü hangisidir?",
+    "choices": ["Sorgulama analizi", "Çok Kriterli Karar Verme Analizleri", "Tanımlayıcı İstatistik", "Yüzey Analizi", "Overlay"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "Aşağıdakilerden hangisi biyoçeşitliliği etkileyen doğal etmenlerden biri değildir?",
+    "choices": ["İklim", "Yeryüzü şekilleri", "İnsan faaliyetleri", "Toprak tipleri", "Jeolojik yapı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "Türkiye'de yer alan flora ve zoocoğrafya bölgeleri arasında hangisi yoktur?",
+    "choices": ["İran-Turan", "Akdeniz", "Avrupa-Sibirya", "Orta Asya Bozkır", "Anadolu Karasal"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 23,
+    "question": "Canlıların kendi doğal habitatlarında korunmasına ne ad verilir?",
+    "choices": ["In-situ koruma", "Ex-situ koruma", "Biyocoğrafya", "Hotspot", "Ekosistem"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "Biyocoğrafya bilim dalı aşağıdakilerden hangisiyle doğrudan ilişkili değildir?",
+    "choices": ["Biyoloji", "Kimya", "Botanik", "Zooloji", "Ekoloji"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "Aşağıdaki bilim insanlarından hangisi modern biyocoğrafyanın kurucularından veya öncülerinden biri değildir?",
+    "choices": ["Alexander von Humboldt", "Alfred Russel Wallace", "Alfred Wegener", "Isaac Newton", "Charles Darwin"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 26,
+    "question": "CBS’nin biyoçeşitlilik çalışmalarında kullanıldığı tekniklerden hangisi bir modelleme türüdür?",
+    "choices": ["Sayısal Yükselti Modeli", "Tür Dağılış Modelleri", "Sorgulama", "Katmanlaştırma", "Görselleştirme"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "Biyoçeşitlilik çalışmalarında kullanılan NDVI indeksi neyi ölçmek için kullanılır?",
+    "choices": ["Su kirliliğini", "Toprak nemini", "Bitki örtüsünün varlığını ve sağlığını", "Hava kalitesini", "Nüfus yoğunluğunu"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "Tür dağılış modellerinde ilk adım aşağıdakilerden hangisidir?",
+    "choices": ["Modeli değerlendirme", "Algoritma seçimi", "Veri toplama ve hazırlama", "Haritalama", "Tahmin yürütme"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 29,
+    "question": "Uzaktan algılama verileriyle ilgili hangisi yanlıştır?",
+    "choices": ["Maliyetlidir", "Tekrarlanabilir özelliktedir", "Geniş ölçeklidir", "Geçmişe dair veri sunabilir", "Farklı çözünürlüktedir"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "CORINE arazi örtüsü verisi hangi amaçla kullanılır?",
+    "choices": ["Hava tahmini", "Arazi kullanım sınıflarının belirlenmesi", "Deprem risk analizi", "Su debisi ölçümü", "Nüfus sayımı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "Aşağıdakilerden hangisi çevre kirliliğinin temel nedenleri arasında yer almaz?",
+    "choices": ["Plansız kentleşme", "Nüfus artışı", "Göç", "Sanayileşme", "Sürdürülebilir planlama"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 32,
+    "question": "CBS’nin temel işlevleri arasında hangisi yer almaz?",
+    "choices": ["Veri Toplama", "Veri Yönetimi", "Görselleştirme", "Analiz", "Fiziksel üretim"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 33,
+    "choices": ["Kirlilik araştırmaları", "Taşınmaz değerleme", "Hava kirliliği modelleme", "Milli park yönetimi", "Su kalitesi takibi"],
+    "question": "Aşağıdakilerden hangisi CBS'nin çevre yönetimindeki doğrudan uygulama alanlarından biri değildir?",
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "ÇED (Çevresel Etki Değerlendirmesi) çalışmalarında kullanılan grafik olmayan (sözel) veri hangisidir?",
+    "choices": ["Nüfus verileri", "Topoğrafik harita", "Uydu görüntüsü", "Kadastro parseli", "Yol ağı çizgisi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "CBS’nin ÇED süreçlerinde sağladığı en büyük avantaj hangisidir?",
+    "choices": ["Kâğıt masrafını artırması", "Süreçleri yavaşlatması", "Mekânsal veri entegrasyonu ve hızlı analiz", "Sadece metin üretmesi", "Yasal sorumluluğu kaldırması"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 36,
+    "question": "Yeraltı suyu yönetiminde CBS ile üretilen en kritik harita hangisidir?",
+    "choices": ["Nüfus haritası", "Su tablası derinliği (seviye) haritası", "Sokak haritası", "Bina yükseklik haritası", "Turizm haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "Katı atık depolama alanı yer seçiminde hangisi bir çevresel kriterdir?",
+    "choices": ["Arazi maliyeti", "Yola yakınlık", "Yeraltı suyu koruma havzalarına uzaklık", "Mülkiyet durumu", "İş gücü temini"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 38,
+    "question": "Gürültü haritaları oluşturmanın temel amacı nedir?",
+    "choices": ["Kentin eğimini ölçmek", "Turist sayısını artırmak", "Gürültü seviyesini azaltmak için stratejik planlama yapmak", "Bina yaşlarını belirlemek", "Trafik kazalarını önlemek"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "Hava kirliliği takibinde CBS’nin hangi fonksiyonu kirleticilerin yayılımını tahmin eder?",
+    "choices": ["Sorgulama", "Görselleştirme", "Modelleme ve Mekansal Enterpolasyon", "Veri tabanı oluşturma", "Arşivleme"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 40,
+    "question": "Bütünleşik Su Kalitesi Yönetimi'nde nehir kirliliğini anlık takip etmek için hangi teknoloji CBS ile entegre edilir?",
+    "choices": ["Fotokapan", "GPRS/Sensör ağları", "Pusula", "Faks", "Telegraf"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "UNDRR raporuna göre 2000-2019 yılları arasında dünyada en fazla sayıda yaşanan afet türü hangisidir?",
+    "choices": ["Sel", "Deprem", "Fırtına", "Kuraklık", "Heyelan"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "Aşağıdakilerden hangisi afet yönetimi evrelerinden biri değildir?",
+    "choices": ["Zarar Azaltma", "Hazırlıklı Olma", "Müdahale", "İyileştirme", "Kentsel Dönüşüm"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 43,
+    "question": "Afetlere karşı toplulukların veya sistemlerin uyum sağlama ve normale dönme kapasitesini ifade eden kavram nedir?",
+    "choices": ["Zarar görebilirlik", "Dirençlilik (Resilience)", "Kırılganlık", "Maruziyet", "Kapasite"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "Deprem öncesi yapılan ve yerel zemin koşullarına göre tehlikeyi belirleyen çalışmalara ne ad verilir?",
+    "choices": ["Kriz yönetimi", "Arama kurtarma", "Mikrobölgeleme", "Hasar tespiti", "Rehabilitasyon"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 45,
+    "choices": ["1/1.000.000", "1/500.000", "1/250.000", "1/5.000 - 1/25.000", "1/100.000"],
+    "question": "Mikrobölgeleme etütleri genellikle hangi ölçek aralığında yapılır?",
+    "correctAnswer": 3
+  },
+  {
+    "id": 46,
+    "question": "Afet yönetimi sürecinde 'Zarar Azaltma' hangi aşamayı kapsar?",
+    "choices": ["Afet anı", "Afetten hemen sonra", "Afet öncesi önleyici faaliyetler", "Yeniden yapılanma", "Enkaz kaldırma"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 47,
+    "question": "Türkiye'de mikrobölgeleme raporlarını onaylama yetkisi hangi kuruma aittir?",
+    "choices": ["AFAD", "MTA", "Çevre ve Şehircilik Bakanlığı Mekansal Planlama Genel Müdürlüğü", "Belediyeler", "Valilikler"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 48,
+    "question": "Afet yönetiminde CBS'nin 'Kriz Yönetimi' aşamasındaki rolü nedir?",
+    "choices": ["Veri toplama", "Sakınım planı yapma", "Olay anı yönetimi ve hızlı müdahale rotaları çizme", "Eğitim verme", "Bina güçlendirme"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "Aşağıdakilerden hangisi bir 'Etkileşimli Harita' (Interactive Map) örneğidir?",
+    "choices": ["Kağıt harita", "Sadece resim dosyası", "Gerçek zamanlı COVID-19 yayılım haritası", "Duvardaki fiziki harita", "Durağan atlas sayfası"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 50,
+    "question": "Tehlike analizi sürecinde hangisi ilk adımdır?",
+    "choices": ["Risklerin belirlenmesi", "Senaryo üretimi", "Toplum profilinin çıkarılması", "Tehlikelerin tanımlanması ve envanter oluşturma", "Müdahale planı"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 51,
+    "question": "İnsanlığın ilk mahsul yetiştiriciliğine yaklaşık olarak ne zaman başladığı düşünülmektedir?",
+    "choices": ["MÖ 50.000", "MÖ 11.500", "MÖ 3.500", "MÖ 1.000", "MS 500"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 52,
+    "question": "Aşağıdakilerden hangisi bir 'Tarım Devrimi' (Neolitik Devrim) sonucudur?",
+    "choices": ["Göçebeliğin artması", "Yerleşik yaşama geçiş ve gıda fazlası oluşumu", "Avcılığın tek geçim kaynağı olması", "Nüfusun azalması", "Sanayinin başlaması"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 53,
+    "question": "Tarım faaliyetleri kapsamında hangisi yer almaz?",
+    "choices": ["Büyükbaş hayvancılık", "İpek böcekçiliği", "Arıcılık", "Orman yangını söndürme", "Tahıl üretimi"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 54,
+    "question": "CBS’nin tarım alanındaki 'Hassas Tarım' (Precision Agriculture) uygulaması neyi hedefler?",
+    "choices": ["Daha çok su harcamayı", "Gübre ve ilaç kullanımını optimize ederek maliyeti düşürmeyi ve verimi artırmayı", "Geleneksel yöntemleri korumayı", "Sadece traktör sürmeyi", "İşçi sayısını artırmayı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 55,
+    "question": "Gıda güvencesi açısından CBS neden önemlidir?",
+    "choices": ["Yemek tariflerini saklamak için", "Gelecekteki gıda talebini ve tarım arazisi ihtiyacını tahmin etmek için", "Market fiyatlarını belirlemek için", "Sadece fotoğraf çekmek için", "Restoran reklamı yapmak için"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 56,
+    "question": "Dünyada en geniş alanlara ekilen tahıl bitkisi hangisidir?",
+    "choices": ["Arpa", "Mısır", "Pirinç", "Buğday", "Yulaf"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 57,
+    "question": "Baklagillerin insan beslenmesindeki en önemli rolü nedir?",
+    "choices": ["Su ihtiyacını karşılaması", "Düşük maliyetli ve yüksek kaliteli bitkisel protein kaynağı olması", "Şeker kaynağı olması", "Vitamin deposu olması", "Yağ oranı çok yüksek olması"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 58,
+    "question": "FAO'nun tarımsal planlama için kullandığı CBS tabanlı portal hangisidir?",
+    "choices": ["Google Maps", "Instagram", "GAEZ (Küresel Agro-Ekolojik Bölgeler)", "Wikipedia", "E-devlet"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 59,
+    "question": "Aşağıdakilerden hangisi hayvansal gıda kaynaklarından biri değildir?",
+    "choices": ["Süt", "Yumurta", "Et", "Bal", "Mercimek"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 60,
+    "question": "Türkiye’nin toprak verimliliği ve organik karbon haritalarını hazırlayan kurum hangisidir?",
+    "choices": ["MTA", "Toprak Gübre ve Su Kaynakları Merkez Araştırma Enstitüsü", "AFAD", "TÜİK", "HGM"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 61,
+    "question": "Turizmde 'Akıllı Turizm' (Smart Tourism) kavramı hangi teknolojik gelişme ile ortaya çıkmıştır?",
+    "choices": ["Sanayi Devrimi", "Endüstri 4.0", "Matbaanın icadı", "Buharlı makineler", "Radyonun yaygınlaşması"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 62,
+    "question": "Aşağıdakilerden hangisi turizmde kullanılan yeni nesil teknolojilerden biri değildir?",
+    "choices": ["Blok Zinciri (Blockchain)", "Nesnelerin İnterneti (IoT)", "QR Kod", "Sabit telefon hatları", "Sanal Gerçeklik"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 63,
+    "question": "Turistin bulunduğu yere göre uyarlanan ve bilgi sunan hizmetlere ne ad verilir?",
+    "choices": ["Süreli hizmetler", "Konum Tabanlı Hizmetler (LBS)", "Rastgele hizmetler", "Genel hizmetler", "Çevrimdışı hizmetler"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 64,
+    "question": "CBS’nin turizmde 'Karar Destek Mekanizması' olarak kullanılmasına örnek hangisidir?",
+    "choices": ["Sadece harita basmak", "Otellerin en uygun yer seçimini yapmak", "Broşür hazırlamak", "Telefonla bilgi vermek", "Gazete ilanı vermek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 65,
+    "question": "Bir turizm geliştirme planı hazırlamanın ilk adımı nedir?",
+    "choices": ["Reklam yapmak", "Turizm kaynak envanteri oluşturmak", "Fiyat belirlemek", "Turistleri çağırmak", "Bilet satmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 66,
+    "question": "Aşağıdakilerden hangisi bir doğal turizm kaynağıdır?",
+    "choices": ["Müze", "Kale", "Mağara", "Tarihi köprü", "Höyük"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 67,
+    "question": "Turizmde 'Büyük Veri' (Big Data) analizi ne sağlar?",
+    "choices": ["Personel sayısını azaltmayı", "Turist davranışlarını anlayarak kişiselleştirilmiş hizmet sunmayı", "Sadece kârı artırmayı", "Hava durumunu değiştirmeyi", "Uçakları hızlandırmayı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 68,
+    "question": "Hangi CBS analizi turistin en kısa sürede en çok yeri gezmesini sağlar?",
+    "choices": ["Yüzey analizi", "Buffer analizi", "Ağ (Network) analizi", "Sorgulama", "Katmanlaştırma"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 69,
+    "question": "E-Turist rehberi uygulamalarının temel özelliği nedir?",
+    "choices": ["Kağıt harita olması", "Sadece sesli olması", "Konum tabanlı ve görsel içerikli etkileşim sunması", "Ücretli olması", "Sadece evden kullanılabilmesi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 70,
+    "question": "Turizm planlamasında 'Ya Eğer?' (What If) senaryoları ne için kullanılır?",
+    "choices": ["Geçmişi hatırlamak için", "Olası değişimlerin etkilerini önceden görmek için", "Zaman kaybetmek için", "Eğlenmek için", "Sadece kurgu yapmak için"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 71,
+    "question": "Suç ve suçun işlendiği yer arasındaki ilişkiyi inceleyen bilim dalı hangisidir?",
+    "choices": ["Tarih", "Suç Coğrafyası", "Kimya", "Matematik", "Fizik"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 72,
+    "question": "Suçların mekânsal dağılımını gösteren ilk haritalar ne zaman kullanılmaya başlanmıştır?",
+    "choices": ["1820'li yıllar", "1990'lı yıllar", "2010'lu yıllar", "1500'lü yıllar", "1950'li yıllar"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 73,
+    "question": "Suç verisi toplamada 'Yayınlanmış Veri Kaynağı' hangisidir?",
+    "choices": ["Gizli karakol kayıtları", "Kişisel günlükler", "TÜİK Adalet İstatistikleri", "Özel dedektif notları", "Söylentiler"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 74,
+    "question": "Aşağıdakilerden hangisi konumsal (grafiksel) bir veridir?",
+    "choices": ["Suçun türü", "Suçun işlendiği koordinat/yer", "Suçlunun yaşı", "Suçun saati", "Hava durumu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 75,
+    "question": "Suç analizinde olayların yoğunlaştığı alanları belirlemek için kullanılan analiz hangisidir?",
+    "choices": ["Sıcak Nokta (Hotspot) Analizi", "Sorgulama", "Ağ analizi", "3D analizi", "Hidroloji analizi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 76,
+    "question": "Suç haritaları oluşturmanın bir amacı da nedir?",
+    "choices": ["Suçluları korkutmak", "Kolluk kuvvetlerinin devriye rotalarını optimize etmek", "Halkı cezalandırmak", "Sadece arşiv yapmak", "Televizyona çıkmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 77,
+    "question": "Hangisi bir 'Yakınlık Analizi' örneğidir?",
+    "choices": ["Suçun türünü bulmak", "Bir okulun 100 metre çevresindeki suçları belirlemek", "En kısa yolu bulmak", "Harita çizmek", "Tablo oluşturmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 78,
+    "question": "Sıralı bir renk şeması kullanılarak (örneğin koyudan açığa) oluşturulan harita türü nedir?",
+    "choices": ["Nokta haritası", "Koroplet harita", "Kartogram", "Topoğrafik harita", "Pusula haritası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 79,
+    "question": "Emniyet Genel Müdürlüğü ve Jandarma verileri arasındaki temel fark nedir?",
+    "choices": ["Veri türleri", "Hizmet bölgeleri (%92 Jandarma, kentsel alanlar Emniyet)", "Analiz yöntemleri", "Bilgisayar sistemleri", "Kullandıkları kağıtlar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 80,
+    "question": "Suç analizinde 'Ağ Analizi' (Network Analysis) en çok hangi durumda kullanılır?",
+    "choices": ["Suçlunun boyunu ölçmekte", "En hızlı müdahale güzergahını belirlemekte", "Hava durumunu tahmin etmekte", "Nüfus sayımında", "Su kirliliğini ölçmekte"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 81,
+    "question": "Yunan alfabesindeki 'Γή' kelimesinin anlamı nedir?",
+    "choices": ["Hava", "Ateş", "Su", "Yerküre", "İnsan"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 82,
+    "question": "MTA tarafından yürütülen 'Türkiye Jeoloji Veri Tabanı' projesi hangi yılda başlamıştır?",
+    "choices": ["1960", "1980", "1995", "2010", "2020"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 83,
+    "question": "Avrupa Birliği genelinde CBS verilerini standartlaştırmak için 2007'de yürürlüğe giren direktif hangisidir?",
+    "choices": ["INSPIRE", "UNESCO", "WHO", "FAO", "NATO"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 84,
+    "question": "Amerikan Jeolojik Etütleri kurumunun kısaltması aşağıdakilerden hangisidir?",
+    "choices": ["MTA", "NASA", "USGS", "ESA", "AFAD"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 85,
+    "question": "UTM (Universal Transverse Mercator) sisteminde Türkiye'deki pafta bölümlemesinin temelini hangi kurumun haritaları oluşturur?",
+    "choices": ["MTA", "Belediyeler", "Harita Genel Müdürlüğü (HGM)", "Tapu Kadastro", "AFAD"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 86,
+    "question": "Hidrolojik döngünün temel enerji kaynağı hangisidir?",
+    "choices": ["Rüzgar", "Güneş", "Ay", "Yeraltı ısısı", "Okyanus dalgaları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 87,
+    "question": "Haritada aynı yükseltiye sahip noktaların birleştirilmesiyle elde edilen eğrilere ne ad verilir?",
+    "choices": ["Eş basınç eğrisi", "Eş yükselti eğrisi (İzohips)", "Eş sıcaklık eğrisi", "Eş yağış eğrisi", "Fay çizgisi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 88,
+    "question": "Sayısal Yükselti Modeli'nin İngilizce kısaltması nedir?",
+    "choices": ["GIS", "GPS", "DEM", "CPU", "HTTP"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 89,
+    "question": "Türkiye’de kişi başına düşen yıllık su miktarı dünya ortalamasının yaklaşık yüzde kaçıdır?",
+    "choices": ["%50", "%80", "%18", "%5", "%100"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 90,
+    "question": "Köppen İklim Sınıflandırmasına göre Türkiye'de hakim olan ana iklim türü aşağıdakilerden hangisidir?",
+    "choices": ["Ekvatoral", "Tundra", "Ilıman orta kuşak iklimleri", "Muson", "Çöl"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 91,
+    "question": "Hava durumu ile iklim arasındaki temel fark nedir?",
+    "choices": ["Hiçbir fark yoktur", "İklim kısa süreli, hava durumu uzun sürelidir", "Hava durumu anlık/kısa süreli, iklim uzun süreli ortalamadır", "İklim sadece kışın ölçülür", "Hava durumu sadece köylerde önemlidir"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 92,
+    "question": "Aşağıdakilerden hangisi bir 'yenilenebilir' enerji kaynağıdır?",
+    "choices": ["Kömür", "Doğalgaz", "Petrol", "Güneş", "Nükleer"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 93,
+    "question": "Güneş enerjisi paneli yer seçiminde 'Bakı' faktörü neyi ifade eder?",
+    "choices": ["Arazinin rengini", "Yüzeyin Güneş’e karşı konumunu", "Bölgenin rüzgar hızını", "Toprak tipini", "Bulutluluk oranını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 94,
+    "question": "Rüzgar türbinlerinin yerleşim yerlerinden uzak olması istenmesinin temel nedeni nedir?",
+    "choices": ["Görüntü kirliliği", "Gürültü ve güvenlik", "Turizmi artırmak", "Traktör trafiği", "Hava durumunu bozması"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 95,
+    "question": "Türkiye'nin ilk Avrupa ve UNESCO tescilli Jeoparkı hangisidir?",
+    "choices": ["Kapadokya", "Pamukkale", "Kula Jeoparkı", "Nemrut Dağı", "Gökçeada"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 96,
+    "question": "Spektroskopi yöntemi maden tespitinde neyi kullanır?",
+    "choices": ["Kazı yapmayı", "Minerallerin güneş ışığını özgün yansıtma/soğurma farklarını", "Sadece fotoğraf çekmeyi", "Ses dalgalarını", "Manyetik alanları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 97,
+    "question": "Doğal afetlerde CBS’nin en büyük rolü hangisidir?",
+    "choices": ["Depremi önlemek", "Farklı olguları katmanlar halinde gösterip ilişkileri analiz etmek", "Sadece haber vermek", "Para toplamak", "İnsanları tahliye etmek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 98,
+    "question": "Volkanik patlamalara eşlik eden yoğun yağışların tetiklediği büyük çamur akıntılarına ne ad verilir?",
+    "choices": ["Tsunami", "Lahar", "Dolin", "Akifer", "Fay"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 99,
+    "question": "Japonca 'liman dalgası' anlamına gelen dev dalgalara ne denir?",
+    "choices": ["Sel", "Hortum", "Tsunami", "Lahar", "Girdap"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 100,
+    "question": "Türkiye'de 'Diri Fay Haritası'nı üreten kurum hangisidir?",
+    "choices": ["Kızılay", "MTA", "Karayolları", "TÜİK", "Meteoroloji"],
+    "correctAnswer": 1
+  }
+]
