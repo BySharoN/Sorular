@@ -604,5 +604,599 @@
     "question": "Vektör veri modelinde konumsal sorgulamaların yapılmasını sağlayan yapı aşağıdakilerden hangisidir?",
     "choices": ["Spagetti Model", "Topoloji", "Raster Katalog", "Piksel Derinliği", "Bloklama"],
     "correctAnswer": 1
+  },
+  {
+    "id": 102,
+    "question": "Topolojinin temel ilkelerinden 'Bitişiklik' (Adjacency) neyi ifade eder?",
+    "choices": ["Nesnelerin birbirine bağlanmasını", "Nesnelerin birbirine olan uzaklığını", "Poligonların ortak sınırları paylaşmasını", "Verilerin koordinat hassasiyetini", "Raster hücrelerinin değerlerini"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 103,
+    "question": "Konumsal veritabanında 'ObjectID' alanının temel işlevi nedir?",
+    "choices": ["Koordinat sistemini tanımlamak", "Her kayda benzersiz (unique) bir numara atamak", "Alan hesaplaması yapmak", "Topoloji kuralı oluşturmak", "Sürümleme yapmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 104,
+    "question": "Konumsal nesne tablosunda (Feature Class) uzunluğu 255 karakteri geçmeyen metin verileri için hangi tip seçilmelidir?",
+    "choices": ["BLOB", "Date", "Text", "Double", "GUID"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 105,
+    "question": "Öznitelik değer alanlarından 'Range Domain' (Aralık Değer Alanı) hangi amaçla kullanılır?",
+    "choices": ["Sadece metin verilerini kısıtlamak", "Sayısal bir verinin alabileceği alt ve üst sınırları belirlemek", "Koordinat sistemini değiştirmek", "İlişki tablosu kurmak", "Alt tip oluşturmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 106,
+    "question": "Bir Feature Dataset (Konumsal Nesne Veri Kümesi) içindeki tüm tablolar için ortak olması gereken özellik nedir?",
+    "choices": ["Satır sayısı", "Öznitelik isimleri", "Konumsal Referans (Koordinat Sistemi)", "Dosya boyutu", "Kullanıcı adı"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 107,
+    "question": "Relationship Class (İlişki Tablosu) oluşturulurken 'Origin' (Kaynak) tablo silindiğinde 'Destination' (Hedef) tablodaki verilerin de silindiği ilişki türü nedir?",
+    "choices": ["Simple (Basit)", "Composite (Bileşik)", "M:N (Çoktan Çoğa)", "Geçici İlişki", "Tablosal İlişki"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 108,
+    "question": "Raster veri modelinde 'Radyometrik Çözünürlük' neyi belirler?",
+    "choices": ["Pikselin yeryüzündeki boyutunu", "Uydunun çekim sıklığını", "Hücrenin alabileceği gri ton veya renk hassasiyetini (bit derinliği)", "Kullanılan bant sayısını", "Koordinat sisteminin doğruluğunu"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 109,
+    "question": "11-bit radyometrik çözünürlüğe sahip bir uydu görüntüsü kaç farklı değer alabilir?",
+    "choices": ["256", "1024", "2048", "4096", "65536"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 110,
+    "question": "Waldo Tobler'in formülüne göre 1:25.000 ölçekli bir harita için en uygun raster çözünürlüğü kaç metredir?",
+    "choices": ["5", "12.5", "25", "50", "100"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 111,
+    "question": "Raster verinin veritabanında saklanırken daha az yer kaplaması için kullanılan yöntem hangisidir?",
+    "choices": ["Piramit", "Sıkıştırma (Compression)", "Kataloglama", "Alt tip", "Versiyonlama"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 112,
+    "question": "Raster Katalog ile Mozaik Veri Kümesi arasındaki en temel fark nedir?",
+    "choices": ["Katalog sadece vektör tutar", "Mozaik veri kümesi analizleri ve dinamik işlemeyi destekler", "Katalog daha büyük yer kaplar", "Mozaik sadece siyah-beyaz veri tutar", "Fark yoktur"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 113,
+    "question": "Harita üzerindeki etiketlerin (Annotation) font, renk ve büyüklük gibi özelliklerinin topluca yönetildiği yapıya ne denir?",
+    "choices": ["Feature Class", "Symbol Collection (Sembol Koleksiyonu)", "Relationship Class", "Domain", "Index"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 114,
+    "question": "Feature Linked Annotation (Nesneye Bağlantılı Etiket) ile konumsal nesne arasındaki bağ hangi alan üzerinden kurulur?",
+    "choices": ["SHAPE", "ObjectID", "FeatureID", "SymbolID", "Z-Order"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 115,
+    "question": "Ölçüm nesnelerinde (Dimension) 'Extension Line' neyi ifade eder?",
+    "choices": ["Ölçü çizgisini", "Uzatma (sınır) çizgisini", "Metin kutusunu", "Ok işaretini", "Referans noktasını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 116,
+    "question": "Etiket veri alanlarından 'WordSpacing' için saptanmış (default) değer kaçtır?",
+    "choices": ["0", "50", "100", "150", "200"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 117,
+    "question": "Geometrik ağlarda akışın yönünü ve bağlanırlığı kontrol eden, CBS'de görünmeyen tablo yapısına ne ad verilir?",
+    "choices": ["Vektör Ağ", "Mantıksal Ağ (Logical Network)", "Topolojik Ağ", "Spagetti Ağ", "Hiyerarşik Ağ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 118,
+    "question": "Geometrik ağ elemanlarından 'Complex Edge' (Karmaşık Kenar) özelliğini hangisi açıklar?",
+    "choices": ["Sadece uç noktalarından bağlanabilir", "Fiziksel olarak bölünmeden orta noktalarından bağlantı yapılabilir", "Akışı her zaman durdurur", "Sadece poligonlarla çalışır", "Sadece tek yönlüdür"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 119,
+    "question": "Su şebekesinde bir ana borunun kaç tane servis borusuna bağlanabileceğini sınırlayan kural hangisidir?",
+    "choices": ["Kenar-Kenar kuralı", "Kenar-Bağlantı noktası sayısı (Cardinality)", "Kaynak-Batık kuralı", "Dönüş kuralı", "Hiyerarşi kuralı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 120,
+    "question": "Ulaşım ağlarında (Network Dataset) bir yolun hız sınırı veya trafik yoğunluğu gibi kısıtlamaları hangi öznitelik altında modellenir?",
+    "choices": ["Weight", "Cost (Maliyet)", "Descriptor", "Hierarchy", "Restriction"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 121,
+    "question": "Topoloji kurallarından 'Must Be Single Part' çizgi verilerde neyi denetler?",
+    "choices": ["Çizginin kendi üstüne binmemesini", "Bir konumsal nesnenin birden fazla parçadan (multipart) oluşmamasını", "Çizginin poligon içinde kalmasını", "Uçların açıkta kalmamasını", "Kesişim noktalarını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 122,
+    "question": "Poligon topolojisinde 'Must Not Have Gaps' kuralı ihlal edildiğinde yazılım neyi hata olarak işaretler?",
+    "choices": ["Üst üste binen alanları", "Poligonlar arasındaki boşlukları", "Poligonun dış sınırını", "Nokta içermeyen alanları", "Kesişen çizgileri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 123,
+    "question": "Topolojide 'Coordinate Rank' değeri 1 olan bir katman, değeri 5 olan bir katmanla çakıştırıldığında ne olur?",
+    "choices": ["1 olan katman, 5 olanın üzerine kayar", "5 olan katman, 1 olanın üzerine kayar (1 önceliklidir)", "Her ikisi de orta noktada birleşir", "Veriler silinir", "Hata payı sıfırlanır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 124,
+    "question": "Sürüm yönetiminde (Versioning) yapılan tüm değişikliklerin (ekleme, silme, güncelleme) tutulduğu yardımcı tablolar nelerdir?",
+    "choices": ["Metaveri tabloları", "Delta Tabloları (Adds & Deletes)", "Sistem tabloları", "İndeks tabloları", "Koordinat tabloları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 125,
+    "question": "Çok kullanıcılı bir veritabanında 'Reconcile' işlemi ne zaman yapılır?",
+    "choices": ["Düzenleme biter bitmez", "Düzenlenen verileri ana sürümle (Parent) karşılaştırıp çakışmaları bulmak için", "Veritabanını silmek için", "İndeks oluşturmak için", "Koordinat dönüştürmek için"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 126,
+    "question": "Sürümlemede 'Post' işleminin sonucu nedir?",
+    "choices": ["Veriler geçici belleğe alınır", "Değişiklikler kalıcı olarak üst sürüme (ana tabloya) aktarılır", "Tüm sürümler silinir", "Sadece koordinatlar güncellenir", "Dosya sıkıştırılır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 127,
+    "question": "Konumsal veritabanı tasarımının 'Mantıksal Tasarım' aşamasında aşağıdakilerden hangisi gerçekleştirilir?",
+    "choices": ["Veri kaynaklarının belirlenmesi", "Tablo yapılarının, veri tiplerinin ve ilişkilerin şematize edilmesi", "Yazılım kurulumu", "Donanım alımı", "Analiz sonuçlarının raporlanması"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 128,
+    "question": "Aşağıdaki veritabanı türlerinden hangisi 1 TB boyuta kadar veri saklayabilir ve klasör yapısında tutulur?",
+    "choices": ["Personal Geodatabase", "File Geodatabase", "Enterprise Geodatabase", "Shapefile", "CAD"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 129,
+    "question": "Topolojide 'Pseudo Node' (Yalancı Düğüm) nedir?",
+    "choices": ["Üç çizginin birleştiği yer", "Aynı özniteliğe sahip bir çizginin gereksiz yere iki parçaya bölündüğü nokta", "Çizginin bittiği boş uç", "Poligonun merkezi", "Raster hücresinin ortası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 130,
+    "question": "Raster veride 'No Data' hücreleri ile '0' (Sıfır) değerli hücreler arasındaki fark nedir?",
+    "choices": ["Fark yoktur", "No Data veri olmadığını, 0 ise o konumda ölçülen değerin sıfır olduğunu ifade eder", "No Data daha çok yer kaplar", "0 değerli hücreler şeffaftır", "No Data sadece vektörde olur"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 131,
+    "question": "Konumsal veritabanında büyük miktardaki metin veya fotoğraf gibi verileri saklamak için hangi alan tipi kullanılır?",
+    "choices": ["Float", "Long Integer", "BLOB (Binary Large Object)", "Date", "Short Integer"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 132,
+    "question": "Bir parselin üzerindeki yapıların (bina, depo vb.) parselle olan ilişkisi çoktan bire (M:1) ise, yabancı anahtar (Foreign Key) hangi tabloda yer almalıdır?",
+    "choices": ["Parsel tablosunda", "Yapı (Bina) tablosunda", "İlişki tablosunda", "Metaveri tablosunda", "Hiçbirinde"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 133,
+    "question": "Raster çözünürlüğü ile ilgili 'Spektral Çözünürlük' tanımı hangisidir?",
+    "choices": ["Görüntüdeki piksel sayısı", "Bant sayısı ve bant aralıklarının darlığı", "Yeryüzü detaylarının netliği", "Verinin kaydedilme hızı", "Dosya formatı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 134,
+    "question": "Aşağıdakilerden hangisi bir 'Nominal' (Sınıflamalı) raster veri örneğidir?",
+    "choices": ["Arazi örtüsü (Orman, Su, Tarım)", "Sayısal Yükseklik Modeli (DEM)", "Eğim haritası", "Sıcaklık haritası", "Nüfus yoğunluğu"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 135,
+    "question": "Raster veride piramit (Pyramid) yapısı neden oluşturulur?",
+    "choices": ["Veriyi sıkıştırmak için", "Farklı ölçeklerde hızlı görüntüleme sağlamak için", "Koordinat sistemini düzeltmek için", "Piksel değerlerini değiştirmek için", "Veri silmek için"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 136,
+    "question": "Etiket düzenlemede 'CharacterSpacing' değeri pozitif artırıldığında ne olur?",
+    "choices": ["Harfler birbirine yaklaşır", "Harfler birbirinden uzaklaşır", "Harfler kalınlaşır", "Harfler eğikleşir", "Metin silinir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 137,
+    "question": "Ölçüm nesnesi stillerinde 'Overshot' parametresi neyi kontrol eder?",
+    "choices": ["Çizgi kalınlığını", "Uzatma çizgisinin ölçü çizgisinden ne kadar taşacağını", "Ok işaretinin yönünü", "Yazı tipini", "Koordinat sistemini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 138,
+    "question": "Geometrik ağlarda 'Source' (Kaynak) ve 'Sink' (Batık) nesneleri hangi eleman tipi üzerine atanır?",
+    "choices": ["Edges (Kenarlar)", "Junctions (Bağlantı Noktaları/Kavşaklar)", "Polygons", "Annotation", "Raster"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 139,
+    "question": "Ulaşım ağlarında (Network Dataset) 'Turn Feature' (Dönüş Nesnesi) ne işe yarar?",
+    "choices": ["Yolun uzunluğunu hesaplar", "Kavşaklardaki dönüş yasaklarını veya maliyetlerini tanımlar", "Yolu ikiye böler", "Yola isim verir", "Koordinatları günceller"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 140,
+    "question": "Topolojide 'Must Not Self-Intersect' kuralı hangi nesneler için uygulanır?",
+    "choices": ["Sadece noktalar", "Kendi kendisini kesmemesi gereken çizgi veya poligon sınırları", "Sadece raster hücreleri", "Sadece etiketler", "Sadece tablolar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 141,
+    "question": "Sürüm yönetiminde bir kullanıcının yaptığı değişikliğin diğer kullanıcılar tarafından görülebilmesi için hangi işlem tamamlanmalıdır?",
+    "choices": ["Sadece kaydetmek yeterlidir", "Reconcile ve Post işlemleri", "Dosyayı e-posta ile göndermek", "Bilgisayarı yeniden başlatmak", "Topoloji kurallarını silmek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 142,
+    "question": "Veritabanı tasarımında 'Kavramsal Tasarım' sonucunda ne ortaya çıkar?",
+    "choices": ["SQL kodları", "Varlık-İlişki Diyagramı (ERD) veya yüksek seviyeli model şeması", "Bitmiş bir yazılım", "Satın alınmış donanımlar", "Basılı haritalar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 143,
+    "question": "Enterprise Geodatabase (Kurumsal Konumsal Veritabanı) yönetimi için hangi ek yazılım katmanına ihtiyaç duyulur?",
+    "choices": ["Sadece Excel", "SDE (Spatial Database Engine) ve bir RDBMS (Oracle, SQL Server vb.)", "Sadece Windows Explorer", "Word", "Notepad"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 144,
+    "question": "Konumsal referans sisteminde 'Z-değeri' neyi temsil eder?",
+    "choices": ["Zamanı", "Yükseklik bilgisini", "Renk kodunu", "Sürüm numarasını", "Piksel boyutunu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 145,
+    "question": "Vektör veride 'Cluster Tolerance' değeri gereğinden büyük verilirse ne olur?",
+    "choices": ["Hiçbir şey değişmez", "Birbirine yakın detaylar tek bir noktada birleşerek veri kaybına yol açar", "Görüntü kalitesi artar", "Veri boyutu azalır", "Koordinatlar daha doğru olur"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 146,
+    "question": "Aşağıdakilerden hangisi bir 'Coded Domain' (Kodlanmış Değer Alanı) örneğidir?",
+    "choices": ["Bina yüksekliği: 0-100 metre arası", "Yol tipi: 1-Asfalt, 2-Toprak, 3-Parke", "Parsel alanı: Pozitif sayılar", "Nüfus: 32000'den büyük", "Tarih: 2020 sonrası"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 147,
+    "question": "Konumsal nesne tablosu (Feature Class) isimlerinde hangi karakterlerin kullanılması hata verir?",
+    "choices": ["Sayılar", "Alt çizgi (_)", "Türkçe karakterler ve boşluklar", "İngilizce harfler", "Hiçbiri"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 148,
+    "question": "Raster veri yönetiminde 'Tiling' (Bloklama) yönteminin amacı nedir?",
+    "choices": ["Pikselleri silmek", "Büyük görüntüyü küçük parçalara bölerek sadece ekrandaki kısmın yüklenmesini sağlamak", "Görüntüyü renklendirmek", "Koordinat sistemini değiştirmek", "Versiyon oluşturmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 149,
+    "question": "Annotation (Etiket) nesneleri veritabanında hangi formatta saklanır?",
+    "choices": ["Sadece metin olarak", "Grafik özelliklerini de içeren özel bir konumsal nesne (feature) olarak", "Sadece resim olarak", "Tablo hücresi olarak", "İndeks olarak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 150,
+    "question": "Geometrik ağlarda 'Flow Direction' (Akış Yönü) tespiti için hangi eleman kritiktir?",
+    "choices": ["Kenar uzunluğu", "Kaynak (Source) ve Batık (Sink) noktaları", "Boru malzemesi", "Piksel boyutu", "Etiket ismi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 151,
+    "question": "Ulaşım ağlarında 'En Kısa Yol' analizi için temel alınan öznitelik genellikle hangisidir?",
+    "choices": ["Yolun adı", "Uzunluk (Length) veya Zaman (Travel Time)", "Yolun rengi", "Yolun etrafındaki binalar", "Şerit sayısı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 152,
+    "question": "Topolojide 'Pseudo Nodes' hatalarını otomatik düzeltmek için hangi işlem yapılır?",
+    "choices": ["Hepsini silmek", "Çizgileri birleştirmek (Merge/Dissolve)", "Yeni bir nokta eklemek", "Koordinatları kaydırmak", "Sürüm oluşturmak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 153,
+    "question": "Enterprise Geodatabase sistemlerinde 'Compress' komutu ne zaman çalıştırılmalıdır?",
+    "choices": ["Her gün sonunda delta tablolarını temizleyip performansı artırmak için", "Sadece yeni veri girerken", "Veritabanını silmeden önce", "Sadece raster veriler için", "Hiçbir zaman"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 154,
+    "question": "Veritabanı tasarımında 'Fiziksel Tasarım' aşamasında hangi araçtan yararlanılabilir?",
+    "choices": ["Sadece kağıt kalem", "UML diyagramları ve Microsoft Visio gibi şematik araçlar", "Sadece bir fotoğraf makinesi", "Sadece hesap makinesi", "Hiçbiri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 155,
+    "question": "Aşağıdakilerden hangisi bir 'Relationship Class' (İlişki Tablosu) türü değildir?",
+    "choices": ["Simple (Basit)", "Composite (Bileşik)", "Peer-to-Peer", "M:N", "1:1"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 156,
+    "question": "Raster veride 'Bit Derinliği' (Bit Depth) 8'den 16'ya çıktığında ne olur?",
+    "choices": ["Piksel boyutu büyür", "Kaydedilebilen değer aralığı ve radyometrik hassasiyet artar", "Görüntü siyah-beyaz olur", "Dosya boyutu küçülür", "Bant sayısı azalır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 157,
+    "question": "Konumsal olmayan bir tablonun (örneğin vergi kayıtları) haritadaki parsellerle ilişkilendirilmesi işlemine ne denir?",
+    "choices": ["Topoloji denetimi", "Tablosal İlişki (Join/Relate)", "Buffer", "Overlay", "Raster Dönüşümü"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 158,
+    "question": "Etiketlerde (Annotation) 'Flip Angle' parametresi neyi belirler?",
+    "choices": ["Yazının rengini", "Metnin hangi açıdan sonra ters döneceğini (okunabilirlik için)", "Yazının fontunu", "Yazının kalınlığını", "Yazının koordinatını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 159,
+    "question": "Ölçüm nesnelerinde 'Linear Dimension' (Doğrusal Ölçüm) hangi iki yönde ölçüm yapar?",
+    "choices": ["Dairesel-Eğrisel", "Yatay (Horizontal) ve Dikey (Vertical)", "Sadece kuzey-güney", "Sadece doğu-batı", "Rastgele"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 160,
+    "question": "Geometrik ağların oluşturulabilmesi için verilerin nerede saklanması zorunludur?",
+    "choices": ["Klasör içinde", "Feature Dataset (Konumsal Nesne Veri Kümesi) içinde", "Masaüstünde", "CD içinde", "Sadece internette"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 161,
+    "question": "Ağ analizlerinde 'Barrier' (Bariyer) nesnesi neyi temsil eder?",
+    "choices": ["Akışın devam ettiği açık yolu", "Kaza, yol çalışması gibi akışı engelleyen durumsal kısıtları", "Yolun ismini", "Şehrin merkezini", "En yakın hastaneyi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 162,
+    "question": "Çizgi topolojisinde 'Must Not Overlap' kuralı neyi yasaklar?",
+    "choices": ["Çizgilerin kesişmesini", "İki çizginin aynı güzergah üzerinde üst üste binmesini", "Çizgilerin kısa olmasını", "Çizgilerin renkli olmasını", "Çizgilerin metin içermesini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 163,
+    "question": "Sürüm yönetiminde 'Conflict' (Çakışma) hangi durumda oluşur?",
+    "choices": ["Veri girilmediğinde", "İki farklı kullanıcının aynı nesneyi aynı anda farklı şekilde değiştirmesi durumunda", "Bilgisayar kapandığında", "Yazılım güncellendiğinde", "İnternet kesildiğinde"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 164,
+    "question": "Konumsal veritabanı tasarımında 'Bilgi Kaynaklarının Tanımlanması' hangi tasarım adımının ilk aşamasıdır?",
+    "choices": ["Fiziksel Tasarım", "Mantıksal Tasarım", "Kavramsal Tasarım", "Yönetimsel Tasarım", "Analitik Tasarım"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 165,
+    "question": "Personal Geodatabase veritabanı hangi Microsoft teknolojisi üzerine kuruludur?",
+    "choices": ["Excel", "Word", "MS Access (.mdb)", "Powerpoint", "Outlook"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 166,
+    "question": "Raster verilerin konumsal nesne özniteliği olarak (resim eki gibi) saklanmasını sağlayan veri tipi hangisidir?",
+    "choices": ["Short Integer", "Raster Field", "Text", "Double", "Date"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 167,
+    "question": "Topolojide 'Area Boundary Must Be Covered By Boundary Of' kuralı ne için kullanılır?",
+    "choices": ["Noktaları bulmak için", "İl sınırı gibi bir poligon sınırının, onu oluşturan ilçelerin dış sınırları ile tam örtüşmesini sağlamak için", "Piksel silmek için", "Tablo oluşturmak için", "Sürümleme için"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 168,
+    "question": "Geometrik ağ oluştururken 'Weights' (Ağırlıklar) hangi alanlar üzerinden tanımlanabilir?",
+    "choices": ["Sadece metin alanları", "Sayısal öznitelik alanları (Integer, Double vb.)", "Sadece tarih alanları", "Sadece resimler", "Hiçbiri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 169,
+    "question": "Ulaşım ağlarında (Network Dataset) 'Z-Elevation' özniteliği hangi durumu modellemek için kritiktir?",
+    "choices": ["Yolun genişliğini", "Köprü ve alt geçit gibi yolların üst üste geçip fiziksel olarak bağlanmadığı durumları", "Yolun hız limitini", "Yoldaki ağaç sayısını", "Yolun rengini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 170,
+    "question": "Topoloji kurallarından 'Must Not Have Dangles' kuralı hangi hatayı tespit eder?",
+    "choices": ["Üst üste binme", "Bir yere bağlanmadan açıkta kalan çizgi uçlarını", "Gereksiz düğüm noktalarını", "Eksik öznitelikleri", "Koordinat hatasını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 171,
+    "question": "Sürümleme yapılmış bir tabloda 'Silme' işlemi yapıldığında veriye ne olur?",
+    "choices": ["Veri ana tablodan anında silinir", "Veri ana tabloda kalır ancak 'Delete' (Silme) delta tablosuna kaydedilerek o sürümde görünmez hale gelir", "Sadece koordinatları değişir", "Tüm sürümlerden silinir", "Yazılım hata verir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 172,
+    "question": "Mantıksal ağ (Logical Network) yapısında bağlantı bilgilerinin tutulduğu tablolar kullanıcıya açık mıdır?",
+    "choices": ["Evet, her zaman", "Hayır, veritabanı tarafından otomatik yönetilen gizli tablolardır", "Sadece yönetici görebilir", "Sadece raster verilerde açıktır", "Evet, SQL ile erişilir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 173,
+    "question": "Aşağıdakilerden hangisi bir 'Annotation' (Etiket) nesnesinin düzenlenebilir özelliklerinden biridir?",
+    "choices": ["Konum ve Döndürme Açısı", "Font ve Büyüklük", "Harf ve Kelime Boşluğu", "Hepsi", "Hiçbiri"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 174,
+    "question": "Raster veride 'Zamansal Çözünürlük' ne anlama gelir?",
+    "choices": ["Pikselin netliği", "Aynı konumdan aynı uydu sensörü ile tekrar görüntü alınması arasındaki süre", "Görüntü çekilirken geçen saniye", "Verinin ömrü", "Verinin hızı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 175,
+    "question": "Konumsal veritabanında 'Index' (Dizin) oluşturmanın temel dezavantajı nedir?",
+    "choices": ["Sorgulama hızını düşürür", "Veri ekleme ve güncelleme işlemlerini biraz yavaşlatabilir (indeks güncellendiği için)", "Veri boyutunu küçültür", "Koordinatları bozar", "Sürümleri siler"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 176,
+    "question": "Relationship Class oluştururken 'Cardinality' (Çokluk Derecesi) neyi tanımlar?",
+    "choices": ["Koordinat hassasiyetini", "İlişkili tablolar arasındaki kayıt eşleşme oranını (1:1, 1:M, M:N)", "Tablonun satır sayısını", "Sürüm numarasını", "Piksel değerini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 177,
+    "question": "Feature Dataset (Veri Kümesi) içine konulan bir tablo dışarı çıkarılabilir mi?",
+    "choices": ["Hayır, kalıcıdır", "Evet, sürüklenebilir veya dışa aktarılabilir", "Sadece silinebilir", "Sadece kopyalanabilir", "Hayır, sadece rasterlar çıkarılabilir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 178,
+    "question": "Konumsal veritabanında 'Subtype' (Alt Tip) oluşturmanın temel şartı nedir?",
+    "choices": ["Tablonun boş olması", "Tabloda tamsayı (Short veya Long Integer) tipinde bir alanın olması", "Sadece metin alanı olması", "Raster olması", "En az 1000 kayıt olması"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 179,
+    "question": "Topolojide 'Must Not Overlap With' kuralı hangi durumda kullanılır?",
+    "choices": ["Tek bir tablonun içinde", "İki farklı tablodaki (örneğin göller ve ormanlar) nesnelerin birbirinin üzerine binmemesi için", "Sadece yollar için", "Sadece binalar için", "Hiçbirinde"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 180,
+    "question": "Geometrik ağlarda 'Default Junction Type' (Öntanımlı Kavşak Tipi) neyi belirler?",
+    "choices": ["Yolun ismini", "İki kenar bağlandığında araya otomatik atanacak bağlantı noktası nesnesini", "Akışın hızını", "Piksel rengini", "Sürüm adını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 181,
+    "question": "Sürümlemede 'Archive' (Arşivleme) özelliği açık bir veritabanında ne yapılabilir?",
+    "choices": ["Tüm veriler silinir", "Geçmişteki herhangi bir tarihteki veri durumuna geri dönüp görüntülenebilir", "Sadece bugün çalışılabilir", "Dosya boyutu sıfırlanır", "Koordinatlar kilitlenir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 182,
+    "question": "Veritabanı tasarımında 'Veri Sözlüğü' (Data Dictionary) neyi içerir?",
+    "choices": ["Sadece kelime anlamlarını", "Tablo isimleri, alan adları, veri tipleri ve kısıtlamaların detaylı dökümünü", "Sadece harita resimlerini", "Personel listesini", "Bütçe planını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 183,
+    "question": "Aşağıdaki yazılımlardan hangisi konumsal veritabanı tasarımı için bir modelleme aracı olarak kullanılır?",
+    "choices": ["Photoshop", "Microsoft Visio", "Spotify", "Chrome", "Winrar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 184,
+    "question": "Raster veride 'Spatial Resolution' (Konumsal Çözünürlük) arttıkça piksel boyutu nasıl değişir?",
+    "choices": ["Büyür", "Küçülür", "Değişmez", "Sıfır olur", "Belirsizdir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 185,
+    "question": "Konumsal nesne tablosunda 'Alias' (Rumuz) alanı ne işe yarar?",
+    "choices": ["Tablonun veritabanındaki gerçek adını değiştirir", "Kullanıcıya görünen ismi Türkçeleştirme veya daha anlamlı kılma imkanı sağlar", "Sadece şifrelemedir", "Koordinat sistemidir", "Sürüm adıdır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 186,
+    "question": "İlişki tablolarında 'Primary Key' (Birincil Anahtar) alanı boş bırakılabilir mi?",
+    "choices": ["Evet", "Hayır, benzersiz ve dolu olmalıdır", "Sadece metin ise bırakılabilir", "Sadece tarih ise bırakılabilir", "Sürümleme varsa bırakılabilir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 187,
+    "question": "Raster veri yönetiminde 'Mosaic Dataset' için hangisi doğrudur?",
+    "choices": ["Sadece tek bir resim saklar", "Binlerce görüntüyü tek bir mozaik gibi yönetip analiz yapmaya izin verir", "Sadece siyah-beyazdır", "Vektör veriyi rastera dönüştüremez", "Topoloji kurallarını içerir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 188,
+    "question": "Annotation (Etiket) tablosu oluşturulurken 'Reference Scale' (Referans Ölçeği) neden tanımlanır?",
+    "choices": ["Metnin hangi ölçekte orijinal boyutunda görüneceğini belirlemek için", "Sadece koordinat için", "Sadece renk için", "Sürümleme için", "Veri silmek için"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 189,
+    "question": "Ölçüm nesnelerinde 'Aligned Dimension' (Hizalanmış Ölçüm) özelliği nedir?",
+    "choices": ["Her zaman dikey ölçer", "Her zaman yatay ölçer", "Referans noktalarına paralel ve gerçek uzunluğu gösterecek şekilde hizalanır", "Sadece metin yazar", "Ok işareti yoktur"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 190,
+    "question": "Geometrik ağlarda 'Connectivity Rules' (Bağlanırlık Kuralları) neyi engeller?",
+    "choices": ["Veri girişini", "Hatalı veya fiziksel olarak imkansız bağlantıların (örneğin yangın musluğunun ana iletim hattına doğrudan takılması) yapılmasını", "Sürümlemeyi", "Raster yönetimini", "Yazılım güncellemelerini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 191,
+    "question": "Ulaşım ağlarında 'Hierarchy' (Hiyerarşi) özniteliği analizlerde ne sağlar?",
+    "choices": ["Yolun rengini belirler", "Ana yollara öncelik vererek geniş ağlarda analiz hızını artırır", "Nüfus sayımını yapar", "Sadece tek yönlü yolları bulur", "Metinleri düzenler"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 192,
+    "question": "Topolojide 'Point Must Be Covered By Line' kuralı hangi duruma örnektir?",
+    "choices": ["Binaların parsel içinde olması", "Otobüs duraklarının hat çizgileri üzerinde olması", "Nehirlerin göle dökülmesi", "Yolların kesişmesi", "Piksellerin birleşmesi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 193,
+    "question": "Sürüm yönetiminde 'Conflict Resolution' (Çakışma Çözümü) sırasında hangi seçenekler sunulur?",
+    "choices": ["Yazılımı kapatmak", "Düzenlenen sürümü (Mine) veya güncellenmiş ana sürümü (Theirs) tercih etmek", "Verileri tamamen silmek", "Sadece koordinatları almak", "Piksel boyutunu değiştirmek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 194,
+    "question": "Konumsal veritabanı tasarımında 'Prototip Oluşturma' hangi adımda yer alır?",
+    "choices": ["Kavramsal Tasarım", "Mantıksal Tasarım", "Fiziksel Tasarım", "Envanter Çıkarma", "İhtiyaç Analizi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 195,
+    "question": "Aşağıdakilerden hangisi bir 'Geodatabase' bileşeni değildir?",
+    "choices": ["Feature Class", "Relationship Class", "Topology", "Raster Dataset", "Shapefile"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 196,
+    "question": "Raster veride 'Spektral Bantlar' neyi kaydeder?",
+    "choices": ["Sadece yükseklik", "Elektromanyetik spektrumun belirli aralıklarındaki yansıma değerlerini", "Sadece koordinat", "Sadece metin", "Sadece sürüm"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 197,
+    "question": "Etiketlerde 'Vertical Alignment' (Dikey Hizalama) hangi seçenekleri içerebilir?",
+    "choices": ["Sadece sağ-sol", "Top, Bottom, Center, Baseline", "Sadece yukarı-aşağı", "Sadece açılı", "Hiçbiri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 198,
+    "question": "Ölçüm nesnelerinde 'Dimension Line Symbol' neyi kontrol eder?",
+    "choices": ["Yazı fontunu", "Ölçü çizgisinin rengini, kalınlığını ve ok uçlarını", "Koordinat sistemini", "Sürüm numarasını", "Piksel değerini"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 199,
+    "question": "Geometrik ağlarda akışın tek bir yöne (örneğin sadece aşağıya) olmasını ne belirler?",
+    "choices": ["Çizgi uzunluğu", "Digitize (çizim) yönü veya kaynak/batık konumu", "Piksel boyutu", "Tablo ismi", "Metin fontu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 200,
+    "question": "Veritabanı tasarımının son aşaması olan 'Dokümantasyon' neden önemlidir?",
+    "choices": ["Sadece kağıt israfıdır", "Sistemin sürdürülebilirliği, bakımı ve diğer personellerin sistemi anlayabilmesi için", "Yazılımı hızlandırır", "Koordinatları düzeltir", "Piksel sayısını artırır"],
+    "correctAnswer": 1
   }
 ]
