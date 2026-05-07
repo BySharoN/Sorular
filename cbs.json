@@ -11,11 +11,11 @@
       { "id": 6, "ad": "Yabancı Dil I", "kod": "YD101U", "donem": "1. Yarıyıl", "dosya": "yd101u" },
 
       { "id": 7, "ad": "Temel Bilgi Teknolojileri II", "kod": "BİL102U", "donem": "2. Yarıyıl", "dosya": "bil102u" },
-      { "id": 8, "ad": "Coğrafi Bilgi Sistemleri", "kod": "CBS104U", "donem": "2. Yarıyıl", "dosya": "cbs104u" },
-      { "id": 9, "ad": "Coğrafi Bilgi Sistemleri Uygulamaları I", "kod": "CBS114U", "donem": "2. Yarıyıl", "dosya": "cbs114u" },
+      { "id": 8, "ad": "Coğrafi Bilgi Sistemleri Yazılımı", "kod": "CBS122U", "donem": "2. Yarıyıl", "dosya": "cbs122u" },
+      { "id": 9, "ad": "Coğrafi Bilgi Sistemlerinin Kullanım Alanları I", "kod": "CBS124U", "donem": "2. Yarıyıl", "dosya": "cbs124u" },
       { "id": 10, "ad": "Konumsal Veritabanı II", "kod": "CBS118U", "donem": "2. Yarıyıl", "dosya": "cbs118u" },
-      { "id": 11, "ad": "Bilgisayar Destekli Harita Yapımı", "kod": "CBS132U", "donem": "2. Yarıyıl", "dosya": "cbs132u" },
-      { "id": 12, "ad": "Yabancı Dil II", "kod": "YD102U", "donem": "2. Yarıyıl", "dosya": "yd102u" },
+      { "id": 11, "ad": "CBS Standartları ve Temel Mevzuat", "kod": "CBS120U", "donem": "2. Yarıyıl", "dosya": "cbs120u" },
+      { "id": 12, "ad": "Harita Bilgisi", "kod": "CBS126U", "donem": "2. Yarıyıl", "dosya": "cbs126u" },
 
       { "id": 13, "ad": "Uzaktan Algılama", "kod": "CBS201U", "donem": "3. Yarıyıl", "dosya": "cbs201u" },
       { "id": 14, "ad": "Fotogrametri", "kod": "CBS205U", "donem": "3. Yarıyıl", "dosya": "cbs205u" },
