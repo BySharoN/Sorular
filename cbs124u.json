@@ -598,5 +598,606 @@
     "question": "Türkiye'de 'Diri Fay Haritası'nı üreten kurum hangisidir?",
     "choices": ["Kızılay", "MTA", "Karayolları", "TÜİK", "Meteoroloji"],
     "correctAnswer": 1
+  },
+  {
+    "id": 101,
+    "question": "CBS’de mekânsal verilere kazandırılan 4. boyut (t) aşağıdakilerden hangisini temsil eder?",
+    "choices": ["Yükseklik", "Derinlik", "Zaman", "Ölçek", "Hacim"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 102,
+    "question": "Türkiye’nin tamamını kapsayan jeomorfoloji içerikli ilk harita hangi yıl ve kim tarafından hazırlanmıştır?",
+    "choices": ["1912 - Gehne", "1936 - Chaput", "1972 - İzbırak", "1982 - Erol", "1969 - Tunçdilek"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 103,
+    "question": "MTA tarafından üretilen 1/500.000 ölçekli Türkiye Jeoloji Haritası hangi projeksiyon sistemine sahiptir?",
+    "choices": ["UTM", "WGS-84", "Lambert Konformal Konik", "Mercator", "Gaus-Kruger"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 104,
+    "question": "Aşağıdakilerden hangisi CBS’de kullanılan bir vektörel veri formatıdır?",
+    "choices": ["GeoTIFF", "JPEG", "PNG", "Shapefile", "BMP"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 105,
+    "question": "Aktif bir uydu radar teknolojisi olan ve yer yüzeyinin eksiksiz Sayısal Yükselti Modelini (DEM) oluşturan yöntem hangisidir?",
+    "choices": ["NDVI", "SAR", "LBS", "GPS", "CORS"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 106,
+    "question": "LIDAR tarayıcıların lazer yansıması sonucu oluşturduğu ham veriye ne ad verilir?",
+    "choices": ["Raster hücre", "Vektör çizgi", "Nokta bulutu (Point cloud)", "Öznitelik tablosu", "Poligon"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 107,
+    "question": "Özellikle karbonatlı kayaçların bulunduğu alanlarda yer altındaki erimelere bağlı tavan çökmesiyle oluşan derin çukurlara ne denir?",
+    "choices": ["Lahar", "Akifer", "Dolin", "Fay", "İzohips"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 108,
+    "question": "Latince 'su veren' anlamına gelen, bünyesinde su tutan veya geçiren kayaç yapısına ne ad verilir?",
+    "choices": ["Dolin", "Akifer", "Lahar", "Manto", "Krater"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 109,
+    "question": "İklim verilerinin analizinde, iki nokta arasındaki benzerliğin mesafe ile orantılı olduğu varsayılan deterministik yöntem hangisidir?",
+    "choices": ["Kriging", "Ters Mesafe Ağırlıklı (IDW)", "AHP", "Ağ Analizi", "Sorgulama"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 110,
+    "question": "Kriging enterpolasyon yönteminde tahmin ağırlığı aşağıdakilerden hangisine dayanır?",
+    "choices": ["Aritmetik ortalama", "Yarıvariogram modeli", "En yakın komşuluk", "Nüfus yoğunluğu", "Mesafe karesi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 111,
+    "question": "Sıcaklık verilerinin mekânsallaştırılmasının yağış verilerine göre daha kolay olmasının temel nedeni nedir?",
+    "choices": ["Sıcaklığın daha çok ölçülmesi", "Sıcaklığın mekan üzerinde ve zaman açısından süreklilik göstermesi", "Yağışın daha pahalı ölçülmesi", "Sıcaklık istasyonlarının çokluğu", "Yağışın sadece kışın olması"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 112,
+    "question": "Güneşte yer alan hangi süreç güneş enerjisi üretimini meydana getirir?",
+    "choices": ["Fisyon", "Füzyon", "Buharlaşma", "Yoğuşma", "Radyasyon"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 113,
+    "question": "Rüzgar enerjisi potansiyel hesaplamasında, rüzgar hızının en az kaç m/s olması istenir?",
+    "choices": ["2.5", "4.0", "6.5", "10.0", "15.0"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 114,
+    "question": "Analitik Hiyerarşi Süreci (AHP) yönteminin en önemli avantajı nedir?",
+    "choices": ["Sadece sayısal veri kullanması", "Nitel ve nicel değişkenleri eş zamanlı değerlendirebilmesi", "Sadece tek bir kriter kullanması", "En yavaş yöntem olması", "Geçmiş veriyi silmesi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 115,
+    "question": "Türkiye’de yaklaşık kaç adet endemik bitki türü bulunmaktadır?",
+    "choices": ["500", "1.000", "3.500", "12.000", "80.000"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 116,
+    "question": "Biyoçeşitlilik kavramı hangi uluslararası konferans ile koruma stratejilerinin ana hedefi haline gelmiştir?",
+    "choices": ["2015 Sendai", "1992 Rio de Janeiro", "1985 Viyana", "1971 Ramsar", "2020 Tokyo"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 117,
+    "question": "Sulak Alanların Uluslararası Önemine İlişkin Sözleşme aşağıdakilerden hangisidir?",
+    "choices": ["CITES", "UNESCO", "Ramsar", "WHO", "FAO"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 118,
+    "question": "Canlı türünün sahada varlık gösterdiği noktaların işaretlendiği verilere ne ad verilir?",
+    "choices": ["Yok verileri", "Var verileri (presence data)", "Tahmin verileri", "Çevresel veriler", "Raster veriler"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 119,
+    "question": "Tür dağılış modellerinde olasılık haritaları üretilirken kullanılan yazılımsal araçlar genellikle hangi yapıdadır?",
+    "choices": ["Sadece Excel", "Word dokümanı", "Programlama dillerindeki paketler", "Kağıt formlar", "Pusula kayıtları"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 120,
+    "question": "Normalize Edilmiş Bitki Örtüsü Farkı İndeksi (NDVI) hangi tür analizlerde kullanılır?",
+    "choices": ["Hava kirliliği", "Görüntü analizleri", "Nüfus sayımı", "Su debisi", "Suç analizi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 121,
+    "question": "Aşağıdakilerden hangisi ücretsiz ve açık erişimli biyoçeşitlilik verilerinin indirilebileceği bir veritabanıdır?",
+    "choices": ["GBIF", "Instagram", "Facebook", "Twitter", "LinkedIn"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 122,
+    "question": "WorldClim veritabanı hangi yılları kapsayan ortalama aylık iklim verilerini sağlar?",
+    "choices": ["1900-1950", "1950-1970", "1970-2000", "2000-2020", "2010-2025"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 123,
+    "question": "Çevre kirliliğinin antropojenik nedenleri neyi ifade eder?",
+    "choices": ["Doğa kaynaklı", "İnsan kaynaklı", "Uzay kaynaklı", "Hayvan kaynaklı", "Bitki kaynaklı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 124,
+    "question": "Arkeolojik, tarihi, kentsel ve doğal olarak dörde ayrılan, koruma altındaki alanlara ne denir?",
+    "choices": ["Sanayi bölgesi", "Serbest bölge", "Sit alanları", "Tarım arazisi", "Mera"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 125,
+    "question": "ÇED raporu hazırlama süreci hangi üç ana aşamadan oluşur?",
+    "choices": ["Toplama-Analiz-Dağıtım", "Kaydetme-Sıralama-Sonuç", "Giriş-Gelişme-Sonuç", "Anket-Gözlem-Rapor", "Planlama-Uygulama-Kontrol"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 126,
+    "question": "e-ÇED süreci ile ÇED Yönetmeliği'nin uygulanma süresi kaç iş gününe düşmüştür?",
+    "choices": ["180", "120", "90", "60", "30"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 127,
+    "question": "Su Kalitesi Yönetmeliği'ne göre 'Yüksek kaliteli su' hangi sınıfı temsil eder?",
+    "choices": ["I. Sınıf", "II. Sınıf", "III. Sınıf", "IV. Sınıf", "V. Sınıf"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 128,
+    "question": "Bütünleşik su kalitesi yönetiminde anlık veri akışı sağlamak için CBS ile hangi sistem kullanılır?",
+    "choices": ["Faks", "GPRS/Ölçüm cihazları", "Pusula", "Mektup", "Telefon santrali"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 129,
+    "question": "Katı atık yönetim sisteminde en büyük maliyet kalemi (%65-95) aşağıdakilerden hangisidir?",
+    "choices": ["Atıkların bertarafı", "Atıkların toplanması ve taşınması", "Atıkların ayrıştırılması", "Personel eğitimi", "Reklam faaliyetleri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 130,
+    "question": "Hava kirliliğinde, kirletici kaynaktan doğrudan atılan maddelere ne ad verilir?",
+    "choices": ["İkincil kirleticiler", "Birincil kirleticiler", "Üçüncül kirleticiler", "Doğal gazlar", "Asal gazlar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 131,
+    "question": "Kükürt dioksit (SO2) kirliliğinin temel kaynağı aşağıdakilerden hangisidir?",
+    "choices": ["Orman yangınları", "Fosil yakıtların yanması", "Trafikteki tozlar", "Meyve bahçeleri", "Güneş ışığı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 132,
+    "question": "Gürültü seviyesi 30-65 dBA arasında olan ve rahatsızlık, uyku düzensizliği yapan durum kaçıncı derece olumsuz etkidir?",
+    "choices": ["I. Derece", "II. Derece", "III. Derece", "IV. Derece", "V. Derece"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 133,
+    "question": "İSKİ'nin başarılı CBS uygulaması olan ve 2003'te uluslararası ödül alan proje hangisidir?",
+    "choices": ["KADGIS", "İSKABİS", "AYDES", "CORINE", "INSPIRE"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 134,
+    "question": "Afet yönetiminde 'Resilience' kavramının Türkçe karşılığı nedir?",
+    "choices": ["Zarar görebilirlik", "Dirençlilik", "Maruziyet", "Kırılganlık", "Kapasite"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 135,
+    "question": "Sendai Çerçevesi (2015-2030) kapsamında öncelikli eylem aşağıdakilerden hangisidir?",
+    "choices": ["Sadece yardım toplama", "Afet riskini anlamak", "Sadece arama kurtarma", "Enkaz kaldırma", "Bina boyama"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 136,
+    "question": "Afet yönetimi terimleri arasındaki dil birliğini sağlamak amacıyla sözlük hazırlayan kurum hangisidir?",
+    "choices": ["MTA", "AFAD", "TÜİK", "Kızılay", "Meteoroloji"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 137,
+    "question": "Afet yönetiminin 'Risk Yönetimi' aşaması hangi iki evreyi kapsar?",
+    "choices": ["Müdahale ve İyileştirme", "Zarar Azaltma ve Hazırlıklı Olma", "Enkaz ve İnşaat", "Tahliye ve Yardım", "Eğitim ve Tatbikat"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 138,
+    "question": "Afet anı veya hemen öncesinde yapılan; arama kurtarma ve barınma gibi faaliyetleri içeren evre hangisidir?",
+    "choices": ["Zarar Azaltma", "Hazırlıklı Olma", "Müdahale", "İyileştirme", "Önleme"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 139,
+    "question": "Afete dirençli yerleşim alanlarının planlanması için zemin koşullarını belirleyen çalışmalara ne denir?",
+    "choices": ["Şehir bölge planlama", "Mikrobölgeleme", "Kentsel dönüşüm", "Tapu kadastro", "Kamulaştırma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 140,
+    "question": "Mikrobölgeleme haritaları için asgari hangi ölçekli topoğrafik haritalara ihtiyaç duyulur?",
+    "choices": ["1/100.000", "1/50.000", "1/25.000", "1/5.000", "1/500.000"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 141,
+    "question": "CBS’de nokta, çizgi, poligon gibi aynı koordinat sistemine sahip detay sınıflarından oluşan kümeye ne ad verilir?",
+    "choices": ["Feature dataset (Detay veri kümesi)", "Attribute table", "Raster dataset", "Topology", "Grid"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 142,
+    "question": "AFAD'ın bütünleşik afet yönetimini yönettiği CBS tabanlı sistemin adı nedir?",
+    "choices": ["CBS-ANKARA", "İSKABİS", "AYDES", "E-DEVLET", "MEBS"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 143,
+    "question": "Yerleşim Ünitesi Analizi (Town Watching) yönteminin temel amacı nedir?",
+    "choices": ["Binaları yıkmak", "Tehlike ve risklere karşı farkındalık seviyesini yükseltmek", "Sadece turist saymak", "Trafik cezası kesmek", "Market fiyatlarını izlemek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 144,
+    "question": "Mikrobölgeleme çalışmalarında inceleme alanının eşit hücrelere bölünmesi işlemine ne denir?",
+    "choices": ["Parselasyon", "Karelaj (Grid)", "Sorgulama", "Buffer", "Overlay"],
+    "choices": ["Karelaj (Grid)"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 145,
+    "question": "Homojen kaya bölgeler için önerilen mikrobölgeleme hücre boyutu nedir?",
+    "choices": ["50 metre", "100 metre", "250 metre", "500 veya 1000 metre", "10 metre"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 146,
+    "question": "Deprem sırasında suya doygun gevşek kumlu zeminlerin taşıma gücünü kaybetmesi olayına ne denir?",
+    "choices": ["Faylanma", "Sıvılaşma", "Lahar", "Dolin", "Akifer"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 147,
+    "question": "Türkiye’de tarımın yaklaşık olarak ne zaman başladığı kabul edilir?",
+    "choices": ["MÖ 50.000", "MÖ 11.500 - 11.000", "MÖ 3.500", "MS 1.000", "MÖ 100.000"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 148,
+    "question": "Doğayı tahrip etmeden, insan sağlığına zararsız üretim yapılmasına ne ad verilir?",
+    "choices": ["Hassas tarım", "Organik tarım", "Sanayi tarımı", "Geleneksel tarım", "İlkel tarım"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 149,
+    "question": "Tahıl danelerinin bileşiminde en büyük pay (%65-75) aşağıdakilerden hangisidir?",
+    "choices": ["Protein", "Yağ", "Şeker", "Nişasta", "Vitamin"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 150,
+    "question": "Tarımsal dağılışı belirleyen en temel iklim etkeni aşağıdakilerden hangisidir?",
+    "choices": ["Rüzgar", "Sıcaklık", "Nem", "Basınç", "Bulutluluk"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 151,
+    "question": "Ekonomik önemi açısından baklagiller, bitkiler arasında kaçıncı sırada yer alır?",
+    "choices": ["Birinci", "İkinci", "Üçüncü", "Dördüncü", "Beşinci"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 152,
+    "question": "Dünya genelinde üretimi en fazla olan sebze hangisidir?",
+    "choices": ["Patates", "Soğan", "Domates", "Karpuz", "Biber"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 153,
+    "question": "Kuru meyveler (muz, kestane vb.) özellikle hangi maden tuzunca zengindir?",
+    "choices": ["Sodyum", "Potasyum", "Demir", "Bakır", "Altın"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 154,
+    "question": "WHO verilerine göre sağlıklı bir insan her kilo ağırlığı için günde kaç gram protein tüketmelidir?",
+    "choices": ["0.5 gr", "1.0 gr", "2.5 gr", "5.0 gr", "10 gr"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 155,
+    "question": "Gıda güvencesi açısından 65'ten fazla ülkede sorun oluşturan engel hangisidir?",
+    "choices": ["Suç oranları", "Mayın tarlaları", "Turist sayısı", "Hava kirliliği", "Gürültü"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 156,
+    "question": "Üreticinin oluşturduğu deneyimden kullanıcının oluşturduğu deneyime geçiş hangi endüstri evresiyle hızlanmıştır?",
+    "choices": ["Endüstri 1.0", "Endüstri 2.0", "Endüstri 3.0", "Endüstri 4.0", "Tarım Devrimi"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 157,
+    "question": "Merkezi bir otorite olmadan çalışan, güvenli ve dağıtılmış veri tabanı sunan teknoloji hangisidir?",
+    "choices": ["IoT", "Bulut Bilişim", "Blok Zinciri (Blockchain)", "QR Kod", "Sanal Gerçeklik"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 158,
+    "question": "Okunabilir bir verinin istenmeyen taraflarca anlaşılamayacak hale dönüştürülmesine ne denir?",
+    "choices": ["Kartografi", "Kriptografi", "Spektroskopi", "Hidrografya", "Biyocoğrafya"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 159,
+    "question": "Turistlerin mobil cihazlarla destinasyon bilgilerine hızlıca erişmesini sağlayan kod hangisidir?",
+    "choices": ["Barkod", "QR Kod", "İvme kodu", "Posta kodu", "Alan kodu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 160,
+    "question": "Turistin bulunduğu yere göre uyarlanan hizmetlere ne ad verilir?",
+    "choices": ["LBS (Konum Tabanlı Hizmetler)", "Lahar", "Dolin", "NDVI", "DEM"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 161,
+    "question": "CBS’nin sel duyarlılığı olan kasabalarda halkın farkındalığını artırmak için kullanılması hangi CBS türüne girer?",
+    "choices": ["Süreç olarak CBS", "Araç olarak CBS", "Veritabanı olarak CBS", "Uygulama olarak CBS", "Planlama olarak CBS"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 162,
+    "question": "Turizm planlamasında en iyi güzergahın belirlenmesi hangi CBS sorusuna yanıt verir?",
+    "choices": ["Yer (Yerde ne var?)", "Mevki (Nerede?)", "Akım (Ne değişti?)", "Yönlendirme (En iyi güzergah hangisi?)", "Desen (Model nedir?)"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 163,
+    "question": "Turizm geliştirme planında mülkiyet ve kullanım durumunu içeren ayrıntılı listelere ne denir?",
+    "choices": ["Turist haritası", "Kaynak envanteri", "Müşteri listesi", "Yol tarifi", "Menü"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 164,
+    "question": "Turizm planlamasında 'Ya Eğer?' sorusu neyi ifade eder?",
+    "choices": ["Geçmişi", "Farklı değişim senaryolarını", "Mevcut durumu", "Sadece fiyatları", "Hava durumunu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 165,
+    "question": "Eskişehir'in turizm pazarlama stratejisinde kullanılan GZFT analizinin İngilizce karşılığı nedir?",
+    "choices": ["GIS", "SWOT", "GPS", "NASA", "WHO"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 166,
+    "question": "Suçun oluşması için en az kaç kişinin olması sosyolojik bir gerekliliktir?",
+    "choices": ["1", "2", "3", "5", "10"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 167,
+    "question": "Kötü niyetle ya da bir fiilin yanlış olduğunu bilerek işlenmesine ne ad verilir?",
+    "choices": ["Kusur", "Taksir", "Kasıt", "Hata", "İstisna"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 168,
+    "question": "Kusurda bulunma ya da bir fiili yapmak fakat sonucun beklenen şekilde olmaması durumuna ne denir?",
+    "choices": ["Kasıt", "Taksir", "Suç", "Maddi unsur", "Hukuka aykırılık"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 169,
+    "question": "Meşru savunma Türk Ceza Kanunu'nun (TCK) hangi maddesinde yer alır?",
+    "choices": ["20", "25", "50", "100", "212"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 170,
+    "question": "Aşağıdakilerden hangisi 'şahsa karşı' işlenen bir suçtur?",
+    "choices": ["Hırsızlık", "Gasp", "Adam kaçırma", "Dolandırıcılık", "Orman yangını"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 171,
+    "question": "Suç ile suçun işlendiği 'yer' arasındaki ilişkiyi inceleyen uzmanlık alanı hangisidir?",
+    "choices": ["Suç Coğrafyası", "Hidroloji", "Jeoloji", "Botanik", "Zooloji"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 172,
+    "question": "Türkiye'de suç verilerinin paylaşıldığı tek kitap halindeki kaynak hangisidir?",
+    "choices": ["Polis Defteri", "Adalet İstatistiği", "Meteoroloji Bülteni", "Ticaret Sicil", "Resmi Gazete"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 173,
+    "question": "Jandarma Genel Komutanlığı, Türkiye sahasının yaklaşık yüzde kaçının asayişinden sorumludur?",
+    "choices": ["%10", "%50", "%75", "%92", "%100"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 174,
+    "question": "Suç analizinde, suçlunun yaşı ve cinsiyeti hangi veri türüne girer?",
+    "choices": ["Konumsal veri", "Öznitelik verisi (Grafik olmayan)", "Vektör veri", "Raster veri", "DEM verisi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 175,
+    "question": "Suçların yoğunlaştığı alanları (sıcak noktalar) belirlemede kullanılan temel veri türü nedir?",
+    "choices": ["Raster", "Vektör", "Metin", "Tablo", "Ses"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 176,
+    "question": "Mekansal sorgulama işlemi ile aşağıdakilerden hangisi yapılabilir?",
+    "choices": ["Binaları boyamak", "Grafik veriden öznitelik verisine ulaşmak", "Sadece kâğıt harita basmak", "Trafik ışıklarını yönetmek", "Suçluyu yakalamak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 177,
+    "question": "Ağ analizinin gerçekleştirilebilmesi için hangi topolojinin oluşturulmuş olması gerekir?",
+    "choices": ["Hücre topolojisi", "Düğüm-çizgi (arc-node) topolojisi", "Renk topolojisi", "Nokta topolojisi", "Alan topolojisi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 178,
+    "question": "Ağ analizi ile 'Bir A noktasından B noktasına en uygun yolun bulunması' işlemine ne ad verilir?",
+    "choices": ["En kısa mesafe", "Kaynak tahsisi", "Optimum güzergâh belirleme", "Komşuluk analizi", "Grid analizi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 179,
+    "question": "Raster veriler kullanılarakBindirilen hayali ızgara üzerinden yapılan analize ne ad verilir?",
+    "choices": ["Ağ analizi", "Grid analizi", "Buffer analizi", "Overlay analizi", "Sorgulama"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 180,
+    "question": "Suç analizinde olayların mekansal kümelenmesinin istatistiksel anlamlılığını araştıran teknik hangisidir?",
+    "choices": ["Yakınlık analizi", "Sıcak Nokta (Hotspot) analizi", "En kısa yol", "Sorgulama", "Tablolama"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 181,
+    "question": "Yerkürenin 400-600 km derinliklerinde, manto tabakasındaki su miktarı ne kadardır?",
+    "choices": ["Sadece bir göl kadar", "Bir nehir kadar", "Yeryüzündeki toplam su kütlesine eşdeğer", "Hiç su yoktur", "Sadece bir kova kadar"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 182,
+    "question": "Türkiye'de kişi başına düşen yıllık ortalama su miktarı ne kadardır?",
+    "choices": ["7600 m3", "5000 m3", "1350 m3", "500 m3", "100 m3"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 183,
+    "question": "Aşağıdakilerden hangisi bir 'meteorolojik' afet değildir?",
+    "choices": ["Fırtına", "Kuraklık", "Deprem", "Sel", "Taşkın"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 184,
+    "question": "Jeolojik formasyonlar için oluşturulan öznitelik tablosunda 'Miyosen' hangi sütuna yazılır?",
+    "choices": ["Jeolojik Yaş", "Jeolojik Dönem", "Kayaç Türü", "Litoloji", "Geometri"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 185,
+    "question": "Hava istasyonu verilerini sürekli yüzeye dönüştürmek için kullanılan Stokastik yöntem hangisidir?",
+    "choices": ["IDW", "Kriging", "AHP", "Ağ Analizi", "Sorgulama"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 186,
+    "question": "Güneş enerjisi paneli yer seçiminde 'Eğim' değerinin maksimum kaç olması istenir?",
+    "choices": ["%3", "%7", "%20", "%45", "%60"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 187,
+    "question": "Türkiye'de Biyolojik Çeşitlilik Sözleşmesi hangi yılda kabul edilmiştir?",
+    "choices": ["1923", "1950", "1980", "1996", "2010"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 188,
+    "question": "CORINE arazi örtüsü sınıflamasında uydu görüntüleri üzerinden hangi metod kullanılır?",
+    "choices": ["Sadece ses kaydı", "Bilgisayar destekli görsel yorumlama", "Sadece anket", "Elle çizim", "Tahmin"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 189,
+    "question": "ÇED raporunda 'Envanter Oluşturma' aşamasının diğer adı nedir?",
+    "choices": ["Sonuç", "Sıralama", "Kaydetme", "Analiz", "Dağıtım"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 190,
+    "question": "Su yönetiminde en büyük su kaynağı aşağıdakilerden hangisidir?",
+    "choices": ["Yağmur", "Yeraltı suları", "Barajlar", "Musluk suyu", "Deniz suyu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 191,
+    "question": "Katı atık yoluyla bulaştığı bilinen en az kaç tip hastalık vardır?",
+    "choices": ["2", "5", "10", "20", "50"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 192,
+    "question": "Hava kirliliğinde 'PM10' ifadesi neyi temsil eder?",
+    "choices": ["10 kg toz", "10 mikrometreden küçük partikül madde", "10 adet baca", "10 km alan", "10 saatlik kirlilik"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 193,
+    "question": "Gürültü haritası oluşturmanın kent planlamasındaki temel faydası nedir?",
+    "choices": ["Bina renklerini seçmek", "Kent trafiğini planlamak", "Nüfusu azaltmak", "Ağaç dikmek", "Su faturasını düşürmek"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 194,
+    "question": "Sendai Eylem Planı hangi yılları kapsar?",
+    "choices": ["2000-2010", "2005-2015", "2015-2030", "2020-2050", "1990-2000"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 195,
+    "question": "İmar planına esas yerbilimsel etütlerde 'Mikrobölgeleme' formatı kaçtır?",
+    "choices": ["Format 1", "Format 2", "Format 3", "Format 4", "Format 5"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 196,
+    "question": "Gıda maddesi olan tahılların mısır ve darı unundan ekmek yapılan bölgeleri hangisidir?",
+    "choices": ["Kutuplar", "Sıcak bölgeler", "Orta kuşak", "Dağlık alanlar", "Okyanus tabanı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 197,
+    "question": "Dünyada meyvelerin anavatanı kabul edilen beş bölgeden biri hangisidir?",
+    "choices": ["Kafkas Dağları", "Sahara Çölü", "Grönland", "Avustralya", "İzlanda"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 198,
+    "question": "Turizmde 'Smart Tourism' (Akıllı Turizm) bileşenlerinden 'Büyük Veri' ne sağlar?",
+    "choices": ["Fiyat artışını", "Kişiselleştirilmiş hizmet sunmayı", "Personel çıkarmayı", "Hava durumunu bozmayı", "Uçuşları iptal etmeyi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 199,
+    "question": "Suçun maddi unsuru için iradi bir hareketin (yapma veya yapmama) olması gerektiğini savunan araştırmacı kimdir?",
+    "choices": ["Göktürk", "Akalın", "Aslan", "İçli", "Erol"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 200,
+    "question": "Koroplet haritaların en belirgin özelliği nedir?",
+    "choices": ["Sadece nokta kullanılması", "Sıralı renk şeması kullanılması", "Sadece yazı olması", "Sesli olması", "Üç boyutlu olması"],
+    "correctAnswer": 1
   }
 ]
