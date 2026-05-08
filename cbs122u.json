@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "Coğrafi Bilgi Sistemleri (CBS) kavramı ilk kez ne zaman tanıtılmıştır? [1]",
+    "choices": ["1950'li yılların başı", "1960'lı yılların başı", "1970'li yılların sonu", "1980'li yılların başı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Aşağıdakilerden hangisi CBS'nin temel bileşenlerinden biri değildir? [2, 3]",
+    "choices": ["Donanım", "İnsan", "Yazılım", "Eğlence"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "question": "Hücrelerden (piksel) oluşan ve her hücrenin belirli bir bilgi barındırdığı veri türü hangisidir? [4, 5]",
+    "choices": ["Vektör Veri", "Sözel Veri", "Raster Veri", "Öznitelik Verisi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "MapInfo Pro'da tablonun yapısını tanımlayan ve diğer uzantıların çalışmasını sağlayan temel dosya uzantısı hangisidir? [6]",
+    "choices": ["*.dat", "*.map", "*.tab", "*.id"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "MapInfo Pro'da veritabanındaki sözel bilgileri içeren dosya uzantısı hangisidir? [6]",
+    "choices": ["*.tab", "*.dat", "*.map", "*.id"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "MapInfo Pro'da harita objelerini tanımlayan dosya uzantısı hangisidir? [7]",
+    "choices": ["*.map", "*.id", "*.ind", "*.wor"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "Veri ile harita objeleri arasında bağlantı kuran karşılıklı referans dosyası hangisidir? [7]",
+    "choices": ["*.dat", "*.id", "*.tab", "*.map"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "MapInfo Pro'da çalışma ortamını kaydedip daha sonra kalınan yerden devam edilmesini sağlayan dosya uzantısı hangisidir? [8]",
+    "choices": ["*.tab", "*.dat", "*.wor", "*.ind"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "Aşağıdakilerden hangisi bir vektör veri tipi değildir? [9]",
+    "choices": ["Nokta", "Çizgi", "Poligon (Alan)", "Piksel"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 10,
+    "question": "Raster verilerin kalitesini (çözünürlüğünü) belirleyen temel unsur nedir? [4, 5]",
+    "choices": ["Renk sayısı", "Hücre boyutu", "Dosya boyutu", "Projeksiyon sistemi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "MapInfo Pro'da katmanların, tabloların ve araçların görüntülendiği temel pencere hangisidir? [10]",
+    "choices": ["Durum Çubuğu", "Gezgin Penceresi", "Hızlı Erişim Çubuğu", "Çıktı Penceresi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Gezgin penceresi kapandığında tekrar açmak için hangi sekme kullanılabilir? [10]",
+    "choices": ["Genel sekmesi", "Tablo sekmesi", "Mekansal sekmesi", "Çıktı sekmesi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "MapInfo Pro'nun alt kısmında bulunan ve ölçek, koordinat gibi bilgileri sağlayan bölüm hangisidir? [11]",
+    "choices": ["Hızlı Erişim Çubuğu", "Şerit Menü", "Durum Çubuğu", "Gezgin Penceresi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Harita üzerinde seçim yapmak için kullanılan varsayılan araç hangisidir? [12]",
+    "choices": ["Yaklaş", "Uzaklaş", "Seç", "Kaydır"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "MapInfo Pro'da 'Bul' komutunun çalışması için ilgili kolonun ne yapılması gerekir? [7]",
+    "choices": ["Sıkıştırılması", "İndekslenmesi", "Silinmesi", "Gizlenmesi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "MapInfo Pro'da bir katmanın görünürlüğü nereden kapatılıp açılır? [13]",
+    "choices": ["Durum Çubuğu", "Gezgin Penceresinde katman yanındaki onay kutusu", "Hızlı Erişim Çubuğu", "Pro sekmesi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Raster verilerin dünya üzerindeki gerçek konumlarına getirilmesi işlemine ne denir? [14]",
+    "choices": ["Sayısallaştırma", "Koordinatlandırma", "Tematik haritalama", "Sorgulama"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "MapInfo Pro'da pafta koordinatlandırmak için minimum kaç adet kontrol noktası önerilir? [15, 16]",
+    "choices": ["1", "2", "4", "8"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "question": "Koordinat bilgisi olmayan bir paftayı, koordinatlı bir altlık haritadan yararlanarak koordinatlandırma işlemine ne denir? [17]",
+    "choices": ["Tablodan Al", "Haritadan Al", "Otomatik Geocode", "Vektör Dönüştürme"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "MapInfo Pro'da desteklenen bir raster veri formatı aşağıdakilerden hangisidir? [18]",
+    "choices": ["*.docx", "*.tif", "*.mp3", "*.exe"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "Raster verinin projeksiyonsuz (birim ayak/feet) olarak açılması durumuna ne ad verilir? [19, 20]",
+    "choices": ["Earth-Centered", "Non-Earth", "Universal", "Geodetic"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "Raster veriler üzerinden çizim yapılarak verilerin vektör hale getirilmesi yöntemine ne denir? [21, 22]",
+    "choices": ["Koordinatlandırma", "Sayısallaştırma", "İstatistiki Analiz", "Lejant Oluşturma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "MapInfo Pro'da yeni bir tablo oluşturmak için hangi sekme kullanılır? [23]",
+    "choices": ["Harita sekmesi", "Görünüm sekmesi", "Tablo sekmesi", "Pro sekmesi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "POI (Point of Interest) kavramının Türkçe karşılığı nedir? [24, 25]",
+    "choices": ["İlgi çekici noktalar", "Önemli yollar", "Alan objeleri", "Raster hücreler"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "Tablonun veri sayfasını (browser) görüntülemek için kullanılan kısayol tuşu hangisidir? [26, 27]",
+    "choices": ["F1", "F2", "F3", "F4"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 26,
+    "question": "Tablo kaydedildikten sonra silinen kolonlar geri alınabilir mi? [28]",
+    "choices": ["Evet", "Hayır", "Sadece F3 ile", "Sadece F4 ile"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "Disk alanını korumak ve silinmiş (gri) kayıtları tamamen temizlemek için hangi araç kullanılır? [29, 30]",
+    "choices": ["Tablo Sil", "Sıkıştırma (Pack Table)", "Tablo Adını Değiştir", "İndeksle"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "Bir tablodaki verileri güncellemek veya matematiksel hesaplamalar yaptırmak için kullanılan buton hangisidir? [31, 32]",
+    "choices": ["Tablo Yapısını İzle Değiştir", "Kolondaki Bilgileri Değiştir (Update Column)", "Yeni Tablo", "Sorgu Kaydet"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "Nokta objelerinin X koordinat bilgisini yazdırmak için hangi fonksiyon kullanılır? [32, 33]",
+    "choices": ["Area(obj)", "ObjectLen(obj)", "CentroidX(obj)", "CentroidY(obj)"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 30,
+    "question": "Alan objelerinin yüzölçümünü küresel (spherical) olarak hesaplamak için kullanılan fonksiyon hangisidir? [33]",
+    "choices": ["CartesianArea", "SphericalArea", "ObjectLen", "Distance"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "Belirlenen bir nokta, çizgi veya alan objesi etrafında belirli bir mesafeye göre alan oluşturma işlemine ne denir? [34, 35]",
+    "choices": ["Tampon Bölge (Buffer)", "Sayısallaştırma", "Geocode", "Kesişim Analizi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "Tampon bölge analizi için aşağıdakilerden hangisi zorunlu bir kriter değildir? [36]",
+    "choices": ["Harita objeleri", "Mesafe bilgisi", "Mesafe birimi", "Veri sayfasında mesafe bilgisinin yazılı olması"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 33,
+    "question": "Haritasız bir tablodaki adres bilgilerini harita objesine dönüştürme işlemine ne ad verilir? [35, 37]",
+    "choices": ["Sayısallaştırma", "Adresten Nokta Oluşturma (Geocode)", "Buffer", "SQL Sorgu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "Geocode işlemi için iki tablo arasında ne bulunması şarttır? [37]",
+    "choices": ["Aynı renkte objeler", "Ortak adres verilerini içeren bir kolon", "Aynı projeksiyon", "Aynı dosya boyutu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "question": "MapInfo Pro eşleştiremediği bir Geocode kaydıyla karşılaştığında ne yapar? [34]",
+    "choices": ["Hata verir ve kapanır", "Kaydı atlar", "Dosyayı siler", "Rastgele konuma koyar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "Eşleşmeyen Geocode kayıtlarını benzer kayıtlara bakarak manuel yerleştirmek için hangi yöntem seçilir? [38]",
+    "choices": ["Otomatik Yöntemi", "Sorarak Yöntemi", "SQL Yöntemi", "Raster Yöntemi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "Aralarında coğrafi bağlantı olmayan birleştirilmiş objeleri ayırmak için hangi buton kullanılır? [39]",
+    "choices": ["Böl", "Nesnelere Ayır", "Sil", "Hedef Belirle"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "Bir alan objesi içerisinde kalan objelerin seçilmesini sağlayan araç hangisidir? [39, 40]",
+    "choices": ["Seç", "Dikdörtgen Seçim", "Sınır Seçimi (Boundary Select)", "Çokgen Seçim"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "MapInfo Pro'da objeleri bölme veya silme işlemi yapmadan önce hangi komut kullanılmalıdır? [41, 42]",
+    "choices": ["Temizle", "Hedef Belirle (Set Target)", "Birleştir", "Projeksiyon Seç"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "MapInfo Pro'nun doğrudan (dönüştürmeden) açabildiği veri formatı hangisidir? [43, 44]",
+    "choices": ["Microsoft Excel (*.xls, *.xlsx)", "ShapeFile (*.shp)", "Delimited ASCII (*.txt)", "Hepsi"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 41,
+    "question": "Excel dosyası açılırken 'MapInfo da düzenlemek için kopyasını oluştur' seçeneği işaretlenmezse ne olur? [45, 46]",
+    "choices": ["Dosya düzenlenebilir olur", "Dosya salt okunur olarak açılır", "Harita otomatik oluşur", "Dosya silinir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "ArcGIS programının temel veri formatı olan ve MapInfo Pro'da açılabilen format hangisidir? [47, 48]",
+    "choices": ["*.tab", "*.shp", "*.dxf", "*.kml"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "Farklı veri formatlarını dönüştürmeden MapInfo Pro'da sadece görüntülemek için kullanılan seçenek hangisidir? [49, 50]",
+    "choices": ["Import", "Evrensel Veri Aç (Universal Data Open)", "Export", "Tablo Aç"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "CAD programlarına (AutoCAD gibi) ait verileri MapInfo Pro'ya dönüştürerek almak için hangi araç kullanılır? [51, 52]",
+    "choices": ["Format Dönüştürücü (Universal Translator)", "Buffer", "Geocode", "SQL"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "MapInfo Pro katmanlarını başka formatlara (örn. AutoCAD DXF) aktarma işlemine ne denir? [53, 54]",
+    "choices": ["Import", "Export (Dışa Aktar)", "Pack", "Index"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "MapInfo Pro verilerini Google Earth üzerinde görüntülemek için hangi formata dönüştürmek gerekir? [54, 55]",
+    "choices": ["*.shp", "*.kml", "*.dxf", "*.xlsx"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "MapInfo Pro 32 bit versiyonunda NetCad verilerini dönüştürmek için kullanılan araç hangisidir? [52]",
+    "choices": ["Cad Converter", "Universal Translator", "Geocode", "MapBasic"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "Aşağıdakilerden hangisi bir seçim butonu değildir? [56, 57]",
+    "choices": ["Çember Seçim", "Çokgen Seçim", "Temizle", "Sınır Seçimi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "Harita üzerinde birden fazla obje seçimi yaparken klavyeden hangi tuş basılı tutulur? [58]",
+    "choices": ["ALT", "CTRL", "SHIFT", "ESC"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 50,
+    "question": "Veri sayfası üzerinde birden çok kayıt seçmek için hangi tuş kullanılır? [58]",
+    "choices": ["CTRL", "SHIFT", "SPACE", "TAB"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "Karakter kolonlar üzerinden sorgu yaparken koşul hangi işaretin içine yazılmalıdır? [58]",
+    "choices": ["Parantez ()", "Tırnak işareti (\"\")", "Köşeli parantez []", "Yıldız *"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 52,
+    "question": "SQL'in doğru açılımı aşağıdakilerden hangisidir? [59, 60]",
+    "choices": ["Structured Query Language", "Simple Question Language", "System Quality List", "Spatial Query Link"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 53,
+    "question": "SQL Seçim Diyaloğunda hangi alan hangi tabloların sorgulanacağını belirtir? [61]",
+    "choices": ["Select", "From", "Where", "Group By"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 54,
+    "question": "Sorgu sonucunda tüm kolonların görünmesi için 'Select' kısmına hangi sembol konur? [62]",
+    "choices": ["&", "#", "*", "+"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 55,
+    "question": "SQL sorgu sonuçlarının alt toplamlarını almak için kullanılan alan hangisidir? [63]",
+    "choices": ["OrderBy", "Where", "Gruplama (GroupBy)", "From"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 56,
+    "question": "Sorgu sonuçlarını belirli bir kolona göre sıralamak (A-Z) için hangi alan kullanılır? [64]",
+    "choices": ["Select", "Where", "Sıralama Kolonları (OrderBy)", "GroupBy"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 57,
+    "question": "SQL Seçim Diyaloğunda varsayılan sonuç tablo ismi nedir? [64]",
+    "choices": ["Result", "Query1", "Selection", "Table1"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 58,
+    "question": "İleri seviye kullanıcılar için geliştirilmiş komutla sorgu yapma penceresi hangisidir? [65, 66]",
+    "choices": ["Seçim Diyaloğu", "SQL Araç Penceresi", "Katman Kontrolü", "Hızlı Erişim"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 59,
+    "question": "Seçilen objelerin tersini seçmek için hangi buton kullanılır? [67, 68]",
+    "choices": ["Temizle", "Seçimi Ters Çevir (Invert Selection)", "Hepsini Seç", "Sil"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 60,
+    "question": "Tablolar arasındaki coğrafi ilişkide 'Contains' ne anlama gelir? [69]",
+    "choices": ["Kesişir", "İçerir", "Dışındadır", "Eşittir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 61,
+    "question": "Tablolar arasındaki coğrafi ilişkide 'Intersects' ne anlama gelir? [69]",
+    "choices": ["İçinde", "Kapsar", "Kesişir", "Bitişik"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 62,
+    "question": "Verilerin görselleştirilmesi için kullanılan sunum ve analiz aracına ne ad verilir? [70]",
+    "choices": ["Vektör Çizim", "Tematik Harita", "Raster Info", "SQL Sorgu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 63,
+    "question": "MapInfo Pro'da yeni bir tematik harita katmanı nerede konumlanır? [70]",
+    "choices": ["En altta", "Bağlı olduğu tablonun hemen üstünde", "Bağlı olduğu tablonun altında", "Ayrı bir pencerede"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 64,
+    "question": "Tematik haritayı bağlı bulunduğu katmanın meta datasına kaydeden buton hangisidir? [71, 72]",
+    "choices": ["Farklı Kaydet", "Tematik Kaydet", "Tablo Sıkıştır", "Kapat"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 65,
+    "question": "Harita üzerindeki objelere açıklayıcı notlar (isim, numara vb.) ekleme işlemine ne denir? [73]",
+    "choices": ["Renklendirme", "Etiketleme (Labeling)", "Sınıflandırma", "Ölçeklendirme"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 66,
+    "question": "Etiketlerde alt alta satır oluşturmak için hangi ifade kullanılır? [74, 75]",
+    "choices": ["+Chr$(10)+", "+\" \"+", "+Alt+", "+Enter+"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 67,
+    "question": "Harita çıktısını ölçekli, kuzey oklu ve lejantlı hazırlamaya yarayan sekme hangisidir? [76, 77]",
+    "choices": ["Genel", "Çıktı (Layout)", "Mekansal", "Raster"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 68,
+    "question": "MapInfo Pro'da hazırlanan çıktıları katmanlı olarak saklayan dosya formatı hangisidir? [78, 79]",
+    "choices": ["Excel", "PDF", "JPEG", "MP4"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 69,
+    "question": "Donatılar tablosundaki objelerin koordinatlarını kolona yazdırmak için hangi araç kullanılır? [80]",
+    "choices": ["Koordinat Dönüştürücü", "Koordinatları Kolona Yazdırma Aracı", "Tampon Oluşturma", "Sorgu Diyaloğu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 70,
+    "question": "Bir haritada bulunması gereken temel unsurlardan biri hangisidir? [81]",
+    "choices": ["Başlık", "Ölçek çubuğu", "Yön oku", "Hepsi"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 71,
+    "question": "Özellikle raster veri görselleştirmesi ve analizleri için geliştirilen MapInfo Pro modülü hangisidir? [82, 83]",
+    "choices": ["MapInfo Viewer", "MapInfo Pro Advanced", "MapBasic", "Python modülü"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 72,
+    "question": "Bilinen noktaların değerlerini kullanarak bilinmeyen noktaların değerini tahmin etme yöntemine ne denir? [84, 85]",
+    "choices": ["Enterpolasyon", "Sınıflandırma", "Kırpma", "Geocode"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 73,
+    "question": "Verilerin yoğunluğunu renk spektrumu kullanarak gösteren yöntem hangisidir? [86]",
+    "choices": ["Pie Chart", "Heatmap (Isı Haritası)", "Histogram", "Line Graph"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 74,
+    "question": "MapInfo Pro Advanced'te raster katmanı bilgilerine (piksel değeri, projeksiyon vb.) nereden erişilir? [87-89]",
+    "choices": ["File Grubu", "Properties Grubu (Raster Info)", "Display Grubu", "Operations Grubu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 75,
+    "question": "Lidar verileri hangi dosya uzantısına sahiptir? [90]",
+    "choices": ["*.doc", "*.las / *.laz", "*.mp3", "*.ppt"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 76,
+    "question": "MapInfo Pro Advanced'in kendi raster veri formatı hangisidir? [91, 92]",
+    "choices": ["*.tif", "*.mrr", "*.jpg", "*.png"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 77,
+    "question": "Raster verinin mevcut projeksiyon sisteminin değiştirilmesi işlemine ne denir? [93]",
+    "choices": ["Merge", "Reproject", "Clip", "Convert"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 78,
+    "question": "Birden fazla raster dosyasını tek bir dosyada birleştirme işlemine ne denir? [94, 95]",
+    "choices": ["Merge", "Clip", "Rasterize", "Align"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 79,
+    "question": "Vektör alan objelerini raster dosyasına dönüştüren araç hangisidir? [96]",
+    "choices": ["Polygonise", "Rasterize", "Interpolate", "Calculator"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 80,
+    "question": "İki gridi projeksiyon ve hücre boyutu açısından eşitleyen araç hangisidir? [97]",
+    "choices": ["Merge", "Align", "Clip", "Point Inspect"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 81,
+    "question": "Raster üzerindeki değerleri (yükseklik vb.) alan objelerine yazdırmak için hangi araç kullanılır? [89, 98]",
+    "choices": ["Region Stats", "Point Inspect", "Line Stats", "Viewshed"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 82,
+    "question": "Bir gözlemcinin belirli bir noktadan görebileceği alanları belirleyen analize ne denir? [85, 99]",
+    "choices": ["Buffer", "Viewshed (Görünürlük Analizi)", "Contour", "Surface"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 83,
+    "question": "Eş yükselti eğrileri (izohips) oluşturmak için hangi araç kullanılır? [99, 100]",
+    "choices": ["Calculator", "Contour", "Volume", "Classify"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 84,
+    "question": "Hacim hesaplamaları için kullanılan fonksiyon hangisidir? [99, 101]",
+    "choices": ["Surface", "Volume", "Cross Section", "Classify"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 85,
+    "question": "Profil çıkarma işlemi için kullanılan fonksiyon hangisidir? [101]",
+    "choices": ["Contour", "Cross Section", "Volume", "Merge"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 86,
+    "question": "Eğimin yönünü (bakı) belirleyen analiz hangisidir? [92, 102]",
+    "choices": ["Slope", "Aspect", "Curvature", "Viewshed"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 87,
+    "question": "MapInfo Pro'da varsayılan seçilen objelerin veri setine ne ad verilir? [40, 67]",
+    "choices": ["Result", "Active", "Selection", "Default"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 88,
+    "question": "MapInfo Pro'da Türkçe dil desteği var mıdır? [3, 103]",
+    "choices": ["Hayır", "Sadece Professional sürümde", "Evet", "Sadece Advanced sürümde"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 89,
+    "question": "Aşağıdakilerden hangisi bir coğrafi olmayan (sözel) bilgidir? [1, 104]",
+    "choices": ["Enlem", "Boylam", "Adres/Posta Kodu", "X-Y Koordinatları"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 90,
+    "question": "Hangi buton aktif olduğunda harita üzerinde serbestçe gezinebiliriz? [12]",
+    "choices": ["Seç", "Kaydır (Pan)", "Yaklaş", "Uzaklaş"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 91,
+    "question": "Gezgin penceresinde katman sırasını neye göre belirleriz? [105]",
+    "choices": ["Z alfabetik sırası", "Yukarı ve Aşağı okları ile", "Dosya boyutuna göre", "Oluşturma tarihine göre"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 92,
+    "question": "Tablodan bir obje silindiğinde oluşan boşluğu kalıcı olarak temizleyen 'Pack' işleminin Türkçe adı nedir? [29]",
+    "choices": ["Sil", "Sıkıştır", "İndeksle", "Kaydet"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 93,
+    "question": "MapInfo Pro'da projeksiyon bilgilerini değiştirmek için hangi sekmedeki ayarlar kullanılır? [106]",
+    "choices": ["Görünüm", "Harita", "Pro sekmesi > Seçenekler", "Tablo"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 94,
+    "question": "Bir raster görüntünün netliğini artırmak için hangi ayar grubu kullanılır? [84, 107]",
+    "choices": ["Interpolate", "Display (Raster Quality)", "File", "Operations"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 95,
+    "question": "Heatmap oluştururken kullanılan en temel teknik hangisidir? [107]",
+    "choices": ["Nearest Neighbor (En Yakın Komşu)", "Triangulation", "Stamp", "Min-Max"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 96,
+    "question": "Sorgu şablonlarını kaydetmek ne işe yarar? [108]",
+    "choices": ["Veriyi siler", "Aynı yapıdaki tablolarda sorguyu tekrar kullanmayı sağlar", "Dosya boyutunu küçültür", "Haritayı renklendirir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 97,
+    "question": "Aşağıdaki fonksiyonlardan hangisi bitki örtüsü analizi (NDVI) için kullanılır? [92, 109]",
+    "choices": ["Contour", "Calculator", "Viewshed", "Volume"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 98,
+    "question": "MapInfo Pro'da harita penceresini yenilemek/çizmek için kullanılan buton hangisidir? [12]",
+    "choices": ["Seç", "Kaydır", "Yeniden Çiz", "Katman Ekle"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 99,
+    "question": "Farklı dil desteği için PDF oluştururken hangi seçenek işaretlenmelidir? [78]",
+    "choices": ["Multi-language support", "Layered PDF", "Geographic info", "Automatic open"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 100,
+    "question": "MapInfo Pro Advanced'te 'Hill Shade' ne anlama gelir? [102, 110]",
+    "choices": ["Alan hesaplama", "Gölgeleme/Işıklandırma", "Renk değiştirme", "Hücre silme"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 101,
+    "question": "MapInfo Pro'da 'Sorgu Şablonu' kaydetmek kullanıcıya ne sağlar?",
+    "choices": ["Veritabanını yedekler", "Aynı yapıdaki farklı tablolarda sorguyu tekrar kullanmayı sağlar", "Harita renklerini sabitler", "Dosya uzantısını değiştirir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 102,
+    "question": "SQL sorgu sonucunda oluşan geçici tabloya ne ad verilir?",
+    "choices": ["Master", "Selection", "Permanent", "Draft"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 103,
+    "question": "Aşağıdakilerden hangisi bir SQL toplama (aggregate) işlevi değildir?",
+    "choices": ["Count", "Sum", "Average", "Buffer"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 104,
+    "question": "Sorgu sonucunda verilerin Z'den A'ye (büyükten küçüğe) sıralanması için hangi ifade kullanılır?",
+    "choices": ["asc", "desc", "top", "sort"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 105,
+    "question": "Sorgu sonucunda verilerin A'dan Z'ye (küçükten büyüğe) sıralanması için hangi ifade kullanılır?",
+    "choices": ["asc", "desc", "min", "max"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 106,
+    "question": "İçerisinde veri sayfası bulunan ancak haritası olmayan bir tablonun tematik haritası nasıl oluşturulur?",
+    "choices": ["Doğrudan oluşturulur", "Haritalı bir tablo ile kolon eşleştirmesi yapılarak", "Tablo silinerek", "Sıkıştırma yapılarak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 107,
+    "question": "MapInfo Pro Advanced modülü temel olarak hangi veri türü üzerinde uzmanlaşmıştır?",
+    "choices": ["Vektör", "Sözel", "Raster (Grid)", "Metin"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 108,
+    "question": "MapInfo Pro Advanced'in kullandığı ve performans odaklı raster dosya formatı hangisidir?",
+    "choices": ["*.jpg", "*.tif", "*.mrr", "*.bmp"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 109,
+    "question": "Raster verilerin yapay olarak renklendirilmesi işlemine ne ad verilir?",
+    "choices": ["Pseudo", "RGB", "Monochrome", "Gray"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 110,
+    "question": "Raster veri üzerinde 'Hill Shade' efekti ne amaçla kullanılır?",
+    "choices": ["Hücre değerlerini silmek için", "Kabartı, gölgeleme ve aydınlatma efekti vermek için", "Projeksiyon değiştirmek için", "Veriyi vektöre dönüştürmek için"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 111,
+    "question": "Raster verinin mevcut çözünürlüğünü (hücre boyutunu) değiştirmek için hangi araç kullanılır?",
+    "choices": ["Clip", "Merge", "Resample", "Convert"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 112,
+    "question": "Bir raster dosyasının sadece belirli bir bölgesini kesip almak için hangi işlem yapılır?",
+    "choices": ["Merge", "Clip (Kırpma)", "Rasterize", "Reproject"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 113,
+    "question": "Hangi araç ile raster veri üzerindeki piksel değerleri tek bir noktaya (nokta katmanı) yazdırılabilir?",
+    "choices": ["Region Stats", "Point Inspect", "Line Stats", "Calculator"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 114,
+    "question": "NDVI (Bitki Örtüsü İndeksi) analizi MapInfo Pro Advanced'te hangi araçla yapılır?",
+    "choices": ["Viewshed", "Contour", "Calculator", "Volume"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 115,
+    "question": "Belirli bir yükseklik değerinin üzerindeki alanların hacmini hesaplayan araç hangisidir?",
+    "choices": ["Surface", "Volume", "Classify", "Slope"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 116,
+    "question": "İki nokta arasındaki arazinin kesitini (en kesit) çıkaran araç hangisidir?",
+    "choices": ["Contour", "Cross Section", "Viewshed", "Merge"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 117,
+    "question": "Raster veriden eş yükselti eğrisi (izohips) üretme işlemine ne ad verilir?",
+    "choices": ["Surface", "Contour", "Viewshed", "Calculator"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 118,
+    "question": "Bir noktadan bakıldığında arazide nerelerin göründüğünü analiz eden işlev hangisidir?",
+    "choices": ["Slope", "Aspect", "Viewshed", "Line of Sight"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 119,
+    "question": "Arazinin eğim yönünü derece cinsinden veren analiz hangisidir?",
+    "choices": ["Slope", "Aspect (Bakı)", "Curvature", "Contour"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 120,
+    "question": "Lidar verilerinden ağaç gölge yoğunluklarını ve yüksekliklerini ölçen araç hangisidir?",
+    "choices": ["Lidar Surface", "Lidar Tree Canopy", "Calculator", "Region Stats"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 121,
+    "question": "MapInfo Pro'da çıktı penceresini açmak için kullanılan kısayol tuşu hangisidir?",
+    "choices": ["F1", "F4", "F5", "F10"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 122,
+    "question": "Hazırlanan harita çıktısına yön bilgisi eklemek için kullanılan nesne hangisidir?",
+    "choices": ["Ölçek çubuğu", "Kuzey oku", "Lejant", "Başlık"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 123,
+    "question": "Çıktı penceresinde haritanın ölçeğini (örn. 1/500.000) gösteren araç hangisidir?",
+    "choices": ["Kuzey oku", "Ölçek çubuğu", "Lejant", "Yazı nesnesi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 124,
+    "question": "MapInfo Pro'da oluşturulan çıktıların katmanlı olarak saklanabildiği dosya türü hangisidir?",
+    "choices": ["Word", "Katmanlı PDF", "JPEG", "PNG"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 125,
+    "question": "Derece, Dakika, Saniye (DMS) formatındaki koordinatları Ondalıklı Dereceye çevirmek için hangi araç kullanılır?",
+    "choices": ["Koordinatlandırma", "Koordinat Dönüştürücü", "SQL Sorgu", "Buffer"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 126,
+    "question": "Haritası olmayan koordinatlı bir tabloya harita objesi ekleme işlemine ne ad verilir?",
+    "choices": ["Sayısallaştırma", "Koordinattan Nokta Oluşturma", "Tampon Bölge", "SQL Sorgu"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 127,
+    "question": "Koordinattan nokta oluşturma işlemi için verilerin hangi formatta olması şarttır?",
+    "choices": ["Metin", "Ondalıklı Derece (Desimal)", "DMS", "Radyan"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 128,
+    "question": "Bir harita üzerindeki objelerin X ve Y koordinatlarını veri sayfasına yazdırmak için hangi araç kullanılır?",
+    "choices": ["Koordinat Dönüştürücü", "Koordinatları Kolona Yazdırma Aracı", "SQL Sorgu", "Tablo Sıkıştır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 129,
+    "question": "Koordinatlandırma işlemi sırasında yapılan hata payı hangi birimle gösterilir?",
+    "choices": ["Metre", "Derece", "Piksel", "Santimetre"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 130,
+    "question": "CBS'de veritabanındaki sözel bilgileri haritadaki görsel objelerle birleştiren yapı hangisidir?",
+    "choices": ["Donanım", "Yazılım", "İlişkisel Veritabanı (RDBMS)", "İnternet"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 131,
+    "question": "MapInfo Pro'da bir katmanın 'Düzenlenebilir (Editable)' olup olmadığı nereden kontrol edilir?",
+    "choices": ["Hızlı Erişim Çubuğu", "Gezgin Penceresindeki kalem simgesi", "Durum Çubuğu", "Pro Sekmesi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 132,
+    "question": "Harita üzerinde çizilen bir doğrunun (çizginin) uzunluğunu veren fonksiyon hangisidir?",
+    "choices": ["Area(obj)", "CentroidX(obj)", "ObjectLen(obj)", "Perimeter(obj)"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 133,
+    "question": "Hangi tematik harita tipi ile verilerin yoğunluğu nokta kümeleri şeklinde gösterilir?",
+    "choices": ["Pasta Grafik", "Nokta Yoğunluğu (Dot Density)", "Grid", "Bireysel"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 134,
+    "question": "Bir tematik haritada her bir değerin (örn. her ilin adı) farklı renkte gösterilmesi için hangi tip seçilmelidir?",
+    "choices": ["Aralık", "Büyüyen", "Bireysel (Individual)", "Grid"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 135,
+    "question": "Pasta grafik tematik haritası için veri sayfasında en az kaç adet sayısal kolon bulunmalıdır?",
+    "choices": ["1", "2", "3", "5"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 136,
+    "question": "Etiketlerde (Label) iki kolonu yan yana yazdırmak için hangi bağlaç kullanılır?",
+    "choices": ["*", "+ \" \" +", "/", "-"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 137,
+    "question": "MapInfo Pro'da etiketlerin (label) kalıcı olarak kaydedilmesi için çalışma hangi formatta kaydedilmelidir?",
+    "choices": ["*.tab", "*.wor (Workspace)", "*.dat", "*.id"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 138,
+    "question": "Hangi tuş yardımıyla etiketlerin harita üzerindeki konumu manuel olarak değiştirilebilir?",
+    "choices": ["CTRL", "SHIFT", "Seç Aracı ile sürükleyerek", "ALT"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 139,
+    "question": "MapInfo Pro'da 'Tablo Sıkıştır (Pack Table)' işlemi ne zaman yapılmalıdır?",
+    "choices": ["Tablo ilk oluşturulduğunda", "Çok sayıda kayıt silindiğinde ve disk alanı kazanmak istendiğinde", "Renk değiştirirken", "Lejant oluştururken"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 140,
+    "question": "SQL Seçim Diyaloğu'nda 'Where' kutucuğu ne amaçla kullanılır?",
+    "choices": ["Tablo seçmek için", "Sorgu koşulu yazmak için", "Sıralama yapmak için", "Kolon adlandırmak için"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 141,
+    "question": "İki tabloyu coğrafi olarak (konuma göre) birleştirmek için hangi SQL operatörü kullanılır?",
+    "choices": ["Equals", "Intersects", "Like", "And"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 142,
+    "question": "Bir alan objesinin çevresini (çevresel uzunluğunu) hesaplamak için hangi fonksiyon kullanılır?",
+    "choices": ["Area", "Perimeter", "Distance", "Centroid"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 143,
+    "question": "MapInfo Pro Advanced'te 'Interpolation (Enterpolasyon)' ne anlama gelir?",
+    "choices": ["Veri silme", "Bilinmeyen noktaların değerini tahmin ederek sürekli yüzey oluşturma", "Resim formatı değiştirme", "Vektör çizim yapma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 144,
+    "question": "IDW ve TIN yöntemleri hangi işlemin alt metodlarıdır?",
+    "choices": ["Geocode", "Enterpolasyon", "Sıkıştırma", "Sayısallaştırma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 145,
+    "question": "Hangi araç ile bir bölgedeki ortalama yükselti veya toplam yağış gibi istatistikler poligonlara aktarılır?",
+    "choices": ["Point Inspect", "Region Stats", "Line Stats", "Calculator"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 146,
+    "question": "Vektör objeleri (alanları) raster formatına dönüştürme işlemine ne denir?",
+    "choices": ["Polygonise", "Rasterize", "Merge", "Clip"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 147,
+    "question": "Raster veriyi poligon (alan) vektörlerine dönüştürme işlemine ne denir?",
+    "choices": ["Rasterize", "Polygonise", "Buffer", "Geocode"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 148,
+    "question": "Aşağıdakilerden hangisi bir 'Mekansal Operatör' değildir?",
+    "choices": ["Contains", "Within", "Intersects", "Sum"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 149,
+    "question": "MapInfo Pro'da 'Kozmetik Katman' ne işe yarar?",
+    "choices": ["Veritabanını saklar", "Geçici çizimler ve etiketler yapmak için kullanılır", "Sadece raster açar", "Projeksiyonu belirler"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 150,
+    "question": "Bir harita penceresini yenilemek (ekranı tazelemek) için hangi buton kullanılır?",
+    "choices": ["Kaydır", "Seç", "Yeniden Çiz (Repaint)", "Katman Ekle"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 151,
+    "question": "Haritadaki etiketlerin font ve stil ayarları hangi sekmeden yapılır?",
+    "choices": ["Tablo Sekmesi", "Mekansal Sekmesi", "ETİKETLER Sekmesi", "Pro Sekmesi"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 152,
+    "question": "MapInfo Pro'da aynı anda birden fazla tablo açılabilir mi?",
+    "choices": ["Hayır", "Sadece iki tane", "Evet", "Sadece profesyonel sürümde"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 153,
+    "question": "Çalışma ortamındaki tüm pencereleri kapatmak için hangi komut kullanılır?",
+    "choices": ["Kapat > Tabloyu Kapat", "Kapat > Tüm Dosyaları Kapat", "Programdan Çık", "Dosyayı Sil"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 154,
+    "question": "Excel dosyasındaki verilerin haritada görünmesi için hangi kolonların olması yeterlidir?",
+    "choices": ["İsim ve Soyisim", "Enlem ve Boylam (X, Y)", "Şehir ve Ülke", "Tarih ve Saat"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 155,
+    "question": "MapInfo Pro'da 'Snap (Yakala)' modu hangi amaçla kullanılır?",
+    "choices": ["Resim çekmek için", "Çizim yaparken objelerin birbirine tam kenetlenmesini sağlamak için", "İnternete bağlanmak için", "Hata vermek için"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 156,
+    "question": "Snap (Yakala) modunu aktif etmek için klavyeden hangi tuşa basılır?",
+    "choices": ["S", "CTRL", "ALT", "SPACE"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 157,
+    "question": "Harita üzerinde çizilen bir poligonun alanını metrekare cinsinden hesaplayan fonksiyon hangisidir?",
+    "choices": ["Area(obj, \"sq m\")", "ObjectLen(obj, \"m\")", "CentroidX(obj)", "Sum(Area)"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 158,
+    "question": "Update Column (Kolondaki Bilgileri Değiştir) aracında 'Yardımcı' butonu ne işe yarar?",
+    "choices": ["Programı kapatır", "Hazır fonksiyon ve operatör listesini açar", "Hata raporu gönderir", "Dosya arar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 159,
+    "question": "MapInfo Pro'da 'SQL Araç Penceresi' kimler için geliştirilmiştir?",
+    "choices": ["Sadece yeni başlayanlar", "İleri seviye komut yazan (SQL/MapBasic) kullanıcılar", "Sadece raster kullanıcıları", "Donanım uzmanları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 160,
+    "question": "Bir harita katmanında seçilen objelerin 'Tersini Seçmek' (Invert) ne sağlar?",
+    "choices": ["Tüm objeleri siler", "Seçili olmayan tüm diğer objeleri seçili hale getirir", "Haritayı döndürür", "Renkleri ters çevirir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 161,
+    "question": "Buffer (Tampon Bölge) oluştururken 'Pürüzsüzlük (Smoothness)' ayarı neyi belirler?",
+    "choices": ["Rengi", "Dairenin kenar sayısını (çözünürlüğünü)", "Mesafe birimini", "Tablo adını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 162,
+    "question": "MapInfo Pro Advanced'te 'Combine' aracı ne yapar?",
+    "choices": ["İki rasterı çarpar", "Farklı raster katmanlarını tek bir dosyada bandlar halinde birleştirir", "Vektörü siler", "Excel'e aktarır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 163,
+    "question": "Raster verinin projeksiyon sistemini değiştirmek için hangi araç kullanılır?",
+    "choices": ["Reproject", "Merge", "Align", "Clip"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 164,
+    "question": "Grid haritasında verilerin görsel kalitesini artırmak için kullanılan piksel yumuşatma işlemi hangisidir?",
+    "choices": ["Smoothing", "Pack", "Index", "Reproject"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 165,
+    "question": "Aşağıdakilerden hangisi bir 'Hücre (Piksel)' tabanlı analiz yöntemidir?",
+    "choices": ["Vektör çizim", "Grid Analizi", "Sözel sorgu", "Tablo adlandırma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 166,
+    "question": "MapInfo Pro'da katmanları gruplandırmak hangi pencereden yapılır?",
+    "choices": ["Durum Çubuğu", "Gezgin Penceresi", "Çıktı Penceresi", "Seçenekler"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 167,
+    "question": "Layout (Çıktı) sayfasında kağıt boyutunu (A4, A3 vb.) değiştirmek için hangi menü kullanılır?",
+    "choices": ["Sayfa Ayarı", "Katman Kontrolü", "Harita Ayarları", "Pro Ayarları"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 168,
+    "question": "Harita çıktısına resim (Logo vb.) eklemek için hangi sekme kullanılır?",
+    "choices": ["Görünüm", "Çıktı Sekmesi > Ekle", "Tablo", "Mekansal"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 169,
+    "question": "CBS'de 'Ağ Toplumu' kavramı neyi ifade eder?",
+    "choices": ["Sadece mühendisleri", "Teknolojiyle sınır tanımadan iletişim kuran ve bilgi paylaşan toplumu", "Sadece balıkçıları", "Bilgisayarı olmayanları"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 170,
+    "question": "Mekansal veri ile sözel veriyi bütünleştiren CBS özelliği nedir?",
+    "choices": ["Hızlı işlemci", "Harita ve veritabanı ilişkisi", "Büyük ekran", "Renkli yazıcı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 171,
+    "question": "MapInfo Pro Advanced modülünde 'Calculator' aracı hangi dil komutlarını destekler?",
+    "choices": ["C++", "Java", "MapBasic ve Python ifadeleri", "HTML"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 172,
+    "question": "Hangi analiz türü 'Bir işletmenin yeni şubesi için en uygun yer seçimi' sürecinde kullanılır?",
+    "choices": ["Sadece renklendirme", "SQL ve Mekansal Analiz (Yer Seçimi)", "Sadece tablo silme", "Lejant düzenleme"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 173,
+    "question": "Haritadaki bir yolun 500 metre sağını ve solunu kapsayan alan oluşturma işlemi hangisidir?",
+    "choices": ["Buffer (Tampon Bölge)", "Geocode", "SQL Sorgu", "Koordinatlandırma"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 174,
+    "question": "Google Earth'ten alınan *.kml dosyası MapInfo Pro'da doğrudan açılabilir mi?",
+    "choices": ["Hayır", "Sadece 32 bit sürümde", "Evet (Evrensel Veri Aç ile)", "Sadece eklenti ile"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 175,
+    "question": "MapInfo Pro'da bir katmanın görünürlük ölçeğini sınırlamak ne işe yarar?",
+    "choices": ["Veriyi siler", "Haritanın sadece belirli ölçekler arasında (örn. 1/1000 - 1/5000) görünmesini sağlar", "Rengi değiştirir", "Hızlandırır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 176,
+    "question": "CBS'de 'Vektör Veri'nin temel avantajı nedir?",
+    "choices": ["Piksellerden oluşması", "Hassas ölçüm ve net sınır tanımlama", "Büyük dosya boyutu", "Düşük çözünürlük"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 177,
+    "question": "MapInfo Pro Advanced'te 'Align' aracı ne yapar?",
+    "choices": ["Tabloyu siler", "İki rasterı aynı projeksiyon ve hücre boyutuna getirerek hizalar", "Vektöre çevirir", "Gölge verir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 178,
+    "question": "Harita çıktısı hazırlarken 'Lejant' eklemek neden önemlidir?",
+    "choices": ["Programın çalışması için şarttır", "Haritadaki sembol ve renklerin ne anlama geldiğini açıklamak için", "Dosya boyutunu küçültür", "Hızlandırır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 179,
+    "question": "MapInfo Pro Advanced'te 'Classify (Sınıflandırma)' aracı ne işe yarar?",
+    "choices": ["Veriyi siler", "Raster değerlerini belirli aralıklarla gruplandırıp yeni bir katman oluşturur", "Renkleri karıştırır", "Projeksiyonu siler"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 180,
+    "question": "Aşağıdakilerden hangisi bir 'Raster İşlemi' değildir?",
+    "choices": ["Convert", "Merge", "Resample", "Vektör nodu ekleme"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 181,
+    "question": "MapInfo Pro'da 'Harita Penceresini Döndür' aracı hangi sekmede bulunur?",
+    "choices": ["Tablo", "Görünüm (View) / Araçlar", "Pro", "Raster"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 182,
+    "question": "Katmanlı PDF oluştururken 'Multi-language support' seçeneği neyi sağlar?",
+    "choices": ["Farklı dillerdeki karakterlerin doğru görünmesini", "Sadece İngilizce desteği", "Resim eklemeyi", "Hacim hesaplamayı"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 183,
+    "question": "CBS'de 'Mekansal İlişki' (Spatial Relationship) neyi tanımlar?",
+    "choices": ["Sadece renkleri", "Objelerin birbirine göre konumu ve bağlantısını (içinde, bitişik vb.)", "İnternet hızını", "Bilgisayar markasını"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 184,
+    "question": "MapInfo Pro Advanced modülü hangi sekme adıyla programa eklenir?",
+    "choices": ["Mekansal", "Raster", "Çıktı", "Görünüm"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 185,
+    "question": "Aşağıdaki uzantılardan hangisi geçici bir MapInfo Pro dosyasıdır?",
+    "choices": ["*.tab", "*.tma", "*.wor", "*.map"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 186,
+    "question": "Haritadaki bir alanın merkez noktasının Y koordinatını veren fonksiyon hangisidir?",
+    "choices": ["CentroidX(obj)", "CentroidY(obj)", "Area(obj)", "Perimeter(obj)"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 187,
+    "question": "SQL sorgu sonucunda oluşan geçici tabloyu kalıcı hale getirmek için ne yapılır?",
+    "choices": ["Program kapatılır", "Farklı Kaydet (Save Copy As) ile yeni adla kaydedilir", "Tablo silinir", "İndekslenir"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 188,
+    "question": "Haritada seçili objeleri birleştirmek için önce hangi komut verilmelidir?",
+    "choices": ["Temizle", "Hedef Belirle (Set Target)", "SQL Sorgu", "Sıkıştır"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 189,
+    "question": "Aşağıdakilerden hangisi bir 'Projeksiyon Koordinat Sistemi'dir?",
+    "choices": ["UTM", "ASCII", "JPEG", "SQL"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 190,
+    "question": "MapInfo Pro'da çalışma ortamı (Workspace) kaydedildiğinde hangi bilgiler saklanır?",
+    "choices": ["Açık tablolar, harita konumları ve tematik ayarlar", "Sadece bilgisayar adı", "Sadece internet hızı", "Sadece kullanıcı adı"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 191,
+    "question": "Geocode işlemi için kullanılan 'Nokta Dağıtıcı (Point Distributor)' aracı ne işe yarar?",
+    "choices": ["Objeleri siler", "Aynı adrese sahip üst üste binen noktaları etrafa dağıtır", "Renkleri karıştırır", "Hacim hesaplar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 192,
+    "question": "MapInfo Pro'da 'Bul' (Find) aracı çalışmıyorsa sebebi ne olabilir?",
+    "choices": ["Bilgisayar eskidir", "İlgili kolonda 'İndeks' oluşturulmamıştır", "Renkler yanlıştır", "Lejant yoktur"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 193,
+    "question": "Hangi araç ile iki grid arasındaki hücre değerleri farkı hesaplanabilir?",
+    "choices": ["Calculator", "Merge", "Clip", "Contour"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 194,
+    "question": "Raster veride 'NoData' ne anlama gelir?",
+    "choices": ["En yüksek değer", "Hücrenin değer barındırmadığı boş alan", "Siyah renk", "Hata mesajı"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 195,
+    "question": "MapInfo Pro'da 'Durum Çubuğu' nerede bulunur?",
+    "choices": ["En üstte", "En altta", "Sağda", "Solda"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 196,
+    "question": "Tablo kolon tipi olarak 'Mantık' (Logic) seçilirse hangi değerleri alabilir?",
+    "choices": ["Sayılar", "Metinler", "Evet/Hayır (T/F)", "Tarihler"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 197,
+    "question": "MapInfo Pro'da bir tablonun projeksiyonu nereden değiştirilir?",
+    "choices": ["Tablo Yapısını İzle Değiştir > Projeksiyon butonu", "Lejant tasarımı", "Renk paleti", "Çıktı sekmesi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 198,
+    "question": "Hangi buton ile haritadaki tüm seçimler iptal edilir?",
+    "choices": ["Hepsini Seç", "Temizle (Clear Selection)", "Sil", "Kaydet"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 199,
+    "question": "MapInfo Pro 64 bit arayüzünde ana menü yapısına ne ad verilir?",
+    "choices": ["Klasik Menü", "Şerit (Ribbon) Menü", "Liste Menü", "Dosya Menü"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 200,
+    "question": "CBS teknolojisinin 'Yapı Taşları' arasında aşağıdakilerden hangisi sayılabilir?",
+    "choices": ["Sorgulama, Analiz, Planlama ve Görselleştirme", "Oyun oynama", "Video izleme", "Sadece resim çizme"],
+    "correctAnswer": 0
+  }
+]
